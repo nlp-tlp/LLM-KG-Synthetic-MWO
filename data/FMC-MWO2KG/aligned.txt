@@ -1,0 +1,570 @@
+mech seal falure,Breakdown
+recirc pump bogged,Plugged / choked
+jdi pump not starting (not bogged),Plugged / choked
+pump bogged/ seized,Plugged / choked
+pump not pumping/ or bogged,Plugged / choked
+gland spaying slurry,Leaking
+coupling fell of pump,Minor in-service problems
+no pressure output,Plugged / choked
+te sd motor belts squeeling.,Noise
+pump requires repacking,Minor in-service problems
+investigate no starting issue,Failure to start on demand
+pump & pipework shaking badly,Vibration
+blow breadle hose,Minor in-service problems
+north east seal blow out,Minor in-service problems
+haz - blowen seal line,Minor in-service problems
+pump blowin discharge line,Minor in-service problems
+hole in bag blowing floc around shed,Minor in-service problems
+replace blown bredal hose,Minor in-service problems
+garflex on discharge blown out. replace,Minor in-service problems
+pump has blown out at the top,Minor in-service problems
+"briedel hose blown, needs replacing",Minor in-service problems
+pump running on high amps need a descale,Minor in-service problems
+over heating,Overheating
+investigate vibration issues,Vibration
+$discharge valve will not open,Minor in-service problems
+suction valve not opening,Minor in-service problems
+valve between & b seized shut,Breakdown
+blocked res flush line to c felua,Plugged / choked
+pump blocked-seized.,Plugged / choked
+not pumping/east side blocked,Plugged / choked
+6c vsd fan not working.,Breakdown
+dc ammeter not working on,Breakdown
+"delete pump not working, please investig",Breakdown
+motor not energising.,Low output
+vsd power issues,Electrical
+holed discharge line needs repairing,Structural deficiency
+jdi pump not performing,Breakdown
+19a not performing/pumping,Breakdown
+elec svce motor bc boil out,Overheating
+not supplying pump fully,Plugged / choked
+spilled oil/lube everywhere,Leaking
+$ replace pump not keeping up with flow,Low output
+pumping issue,Low output
+suspect lvl floats not operating correct,Breakdown
+$ 19b mech seal requires attention,Minor in-service problems
+does not stop when nf comes offli,Failure to stop on demand
+dc mcc cooling fan noisy sce,Noise
+wld spool needs to be extended 60mm,Minor in-service problems
+haz fan cowling rusted through,Structural deficiency
+pipework needs to be held down,Minor in-service problems
+investigate flow issue,Plugged / choked
+concrete pump base degraded 3g 13 413,Structural deficiency
+wont run in auto,Failure to start on demand
+jdi pump needs repacked,Minor in-service problems
+dc pump seal passing excessively,Leaking
+inlet strainer blocking,Plugged / choked
+floats not engaging pump,Failure to start on demand
+haz pump tyre shredded,Structural deficiency
+check for noise on earth,Noise
+garflex needs replacing,Breakdown
+floc pump not running,Breakdown
+rain cover fall off the motor sump pu,Minor in-service problems
+sump not being pumped away,Plugged / choked
+pump running on high amps scaled up,Minor in-service problems
+repair junction box as it has fallen off,Minor in-service problems
+suction acc airline broke away,Breakdown
+pump cannot run in remote,Failure to start on demand
+pump not pumping enough.,Plugged / choked
+not pumping enough to get to final,Plugged / choked
+electrical not stopping from dcs or field,Failure to stop on demand
+pump not stopping at low level,Failure to stop on demand
+valve suction valve unable to shu,Failure to stop on demand
+haz-discharge valve has failed internaly,Breakdown
+hold down bolts for pump not there,Minor in-service problems
+pumping at high out put inefficiant a,Plugged / choked
+no reading on flow transmitter instru,Abnormal instrument reading
+investigate sump pump will not start in,Failure to start on demand
+barrel has been running hot,Overheating
+gland packing fallen out,Minor in-service problems
+pump to be removed -,Breakdown
+wld pump dischange spool unsupported 15.,Minor in-service problems
+ci level sensor giving false readings,Abnormal instrument reading
+pump not reaching flow,Plugged / choked
+cub valve not able to open sce,Minor in-service problems
+lids on dpr 8 need straighting,Minor in-service problems
+haz gasket spraying hot liquid,Overheating
+drive shift fell apart,Minor in-service problems
+versicol pump diaphram fail again,Breakdown
+breedle hose holed needs to be replaced,Breakdown
+nahs pumps underperforming,Low output
+float switches not kicking in,Failure to start on demand
+env black sump over flowed,Leaking
+vercicol pump non operational,Breakdown
+jdi dcs running fault,Other
+32g 2a unable to run in auto,Failure to start on demand
+bearing seal on pump has come adrift,Minor in-service problems
+pump output not high enough.,Low output
+haz - static earth broken off,Breakdown
+replace 1 snapped volute stud,Structural deficiency
+suction valve handle snapped off,Structural deficiency
+suction drain valve snapped/plugged,Structural deficiency
+pump motor shorted out,Electrical
+sump pump running when sump empty,Other
+haz - pump motor earth fault,Electrical
+pa 02754g pressure switch faul,Electrical
+fault finding to allow pump to start,Electrical
+anti scalant pump fault finding.,Electrical
+pump has electrical fault tripping,Electrical
+level sensor fault?,Electrical
+discharge flow meter faulted (fi 32060),Electrical
+drive faulting,Electrical
+repair faulty versicol pump,Electrical
+haz faulty earth leakage electrical,Electrical
+"pump tripping,faulting",Electrical
+seal water pipe has a hole on,Structural deficiency
+will not trip on el test,Electrical
+pump failing to start,Failure to start on demand
+drive coupling needs adjusting,Minor in-service problems
+sump pump has sheared bolts on coupling,Structural deficiency
+hold down bolts sheared off,Structural deficiency
+cub pump retest failed a,Breakdown
+bearing barrel has failed,Breakdown
+$ pump has failed and is noyt pumping,Breakdown
+haz no guarding covering rotating shaft.,Minor in-service problems
+unresponsive in auto,Failure to start on demand
+pump has no sightglass/ breather,Minor in-service problems
+earth strap not connected to base,Minor in-service problems
+haz pump discharge not connected/blanked,Minor in-service problems
+jdi keeps triping when in seq,Electrical
+water coming out of permalube,Minor in-service problems
+jdi piping requires handle,Minor in-service problems
+jdi sce low flow,Plugged / choked
+discharge hose has a split in it,Structural deficiency
+replace rubber discharge boot has split,Structural deficiency
+instrument piping split,Structural deficiency
+scope haz earth cable split in two place,Structural deficiency
+fire pump fail to start,Failure to start on demand
+vsds wont reset on 30 pumps,Failure to start on demand
+disch pump hole in suction 21.01,Structural deficiency
+motor cable worn through,Structural deficiency
+repair damage lid on bore compound,Structural deficiency
+check for damage/blockage. wet inspect,Structural deficiency
+replace damaged oil sight glass,Structural deficiency
+"strainer damaged, needs replacing",Structural deficiency
+pump valve passing on 100a pump,Leaking
+pump leaks weak aqua from gland,Other
+pump labouring and viberating,Vibration
+high static earth resistance,Electrical
+versicol pump needs to be rebuilt no 2,Minor in-service problems
+discharge pipework needs supporting,Minor in-service problems
+pump wont work on auto,Failure to start on demand
+haz earth cable not attached corroded,Minor in-service problems
+motor keeps tripping,Electrical
+event vsd keeps tripping at start,Electrical
+pump keeps tripping on start up,Electrical
+motor keeps tripping out,Electrical
+mechanical seal weeping pump,Leaking
+bcsd motor is badly rusted,Structural deficiency
+$ motor pump has bad vibration,Vibration
+glandwater contaminating condensate,Contamination
+pump too fast,High output
+osr pump cub suction valve not closing,Minor in-service problems
+float switrches require adjusting,Minor in-service problems
+$rumbling sound from pump bearings,Noise
+dto valve bent and req replacement,Minor in-service problems
+pump. heavy corrosion on unit.,Structural deficiency
+sump pump doesnt operate in remote,Breakdown
+suction valves seized open,Breakdown
+ready light needs replaceing,Breakdown
+pump red phase hot thermography,Overheating
+bc elute instru erratic,Erratic output
+haz false high level & faulty float,Abnormal instrument reading
+pump redesign lagging.,Low output
+haz pipe blew off valve while sampling,Minor in-service problems
+haz envgauge blew off top of accumulator,Minor in-service problems
+no fill point on pump,Minor in-service problems
+jdi pump pump needs packing replaced,Minor in-service problems
+pump seizes at times and wont pump.,Breakdown
+bc motor fan cover badly corrod,Structural deficiency
+pump and motor badly corroded,Structural deficiency
+haz cs studs badly corroded in ss flange,Structural deficiency
+pump is surging and tripping,Electrical
+surging cutting in and out,Electrical
+fc 04008 from instru false reading,Abnormal instrument reading
+sump pump not draining lab waste water,Plugged / choked
+level balls does not work sump,Breakdown
+repair mid purge flow transmitter not wo,Breakdown
+gr 02832g flow meter not workin,Breakdown
+battery charger not charging,Electrical
+pump not moving,Plugged / choked
+belts require tightening,Minor in-service problems
+belts require tightening/inspecti,Minor in-service problems
+pump pump siezed gland ring,Breakdown
+38tkdischarge valve siezed shut,Breakdown
+"pump is siezed, will not turn.",Breakdown
+pump siezed-descale,Breakdown
+pump siezed/jammed,Breakdown
+pump runs but no pressure,Plugged / choked
+pump disconnected from coupling - u/s,Breakdown
+pulley coming adrift,Minor in-service problems
+dischrge mining hose ruptured,Structural deficiency
+pump operating but not pumpung,Plugged / choked
+weld cracked coupling guard,Structural deficiency
+"haz mining hose cracked,corroded",Structural deficiency
+wld ss discharge pipe cracked/ leaking,Structural deficiency
+replave v belts / broken loose,Breakdown
+pump failing to produce efficient output,Breakdown
+low suction pressure alarming eratically,Abnormal instrument reading
+haz no static earth on pump sump),Abnormal instrument reading
+pump running too slow incorrect gearbox,Low output
+haz rusty and flexing stair tread,Structural deficiency
+"jdi fan guard rusty, replace",Structural deficiency
+pump foot needs modifying,Minor in-service problems
+sala pump motor died,Breakdown
+pump not running and smoking,Overheating
+smoking hot and noisy,Overheating
+dillute solution pump smoking up,Overheating
+pump pulling very high amps,High output
+fault find pump not operational,Breakdown
+pump static earth install,Electrical
+earth leakage does not trip,Electrical
+pump needs alignment,Minor in-service problems
+oil contaimination,Contamination
+sce pressure switch burst again,Breakdown
+belts have smoked up and perished,Overheating
+pump smoke from coupling,Overheating
+pump appears to have no belt,Minor in-service problems
+c feluwa north hydranut needs tightened,Minor in-service problems
+pump tripping not turning restriction,Plugged / choked
+electrical no signal to dcs for amps,Abnormal instrument reading
+cm-f2g45b alarming vibrations,Vibration
+haz-motor guard needs patched up,Minor in-service problems
+reservoir sight glasses perished,Breakdown
+bottom purge valve may need calibration,Abnormal instrument reading
+strainer valve jammed in place.,Plugged / choked
+bearings collapsed,Breakdown
+motor base requires slotting,Minor in-service problems
+haz discharge vortex reading inaccurate,Abnormal instrument reading
+hose has been sucked in,Other
+oil drain line come loose needs fixing,Minor in-service problems
+dpr bore tripping.,Electrical
+env pump seal failure spill to ground,Electrical
+hp condy meter reading high.,Abnormal instrument reading
+haz motor cowling rusted away pump,Structural deficiency
+haz motor fan guard rusted away,Structural deficiency
+gland needs a repack,Minor in-service problems
+haz - offspec motor fried,Breakdown
+scope no speed control?,Abnormal instrument reading
+pump pump seized breakdown,Breakdown
+drive belt needs replacement,Breakdown
+pump issue require investigating,Minor in-service problems
+suction vv passing when closed piping,Leaking
+wld weld crack /patch dump line,Structural deficiency
+crack in transition,Structural deficiency
+motor foot has crack,Structural deficiency
+haz local isolator lid starting to crack,Structural deficiency
+stopped pumping,Spurious stop
+sce pump stopped pumping,Spurious stop
+investigate not pumping issue,Plugged / choked
+pump high vibration,Vibration
+cm-d2g1a very high vibrations after cub,Vibration
+vibration,Vibration
+"high vibration, replace motor",Vibration
+high vibration/check alignment,Vibration
+investigate vibration/laser align sce,Vibration
+repair vibration/lube/alignment pump,Vibration
+dpr 5 inspect bore no flow (rsh),Plugged / choked
+"$ pump not pumping,no flow",Plugged / choked
+res line to feluwa restricted,Low output
+dc ladder rungs slippery,Minor in-service problems
+jdi - pump has no seal water,Minor in-service problems
+pipe suport broken near,Breakdown
+pump not maintaining recirc flow,Plugged / choked
+booster pump not maintaining pressure,Plugged / choked
+pump not efficient,Low output
+pump will not start,Failure to start on demand
+pump will not start after flushing,Failure to start on demand
+oil contamination trips,Contamination
+pump continually trips out,Electrical
+pump set too high and motor trips out,Electrical
+pump struggling to keep up 02817g,Low output
+slow oil leak,Low output
+keeps on tripping,Electrical
+jdi flow meter reading stuck,Abnormal instrument reading
+no out put. not pumping,Plugged / choked
+pump not pumping high amps,Plugged / choked
+not pumping away,Plugged / choked
+"not pumping,",Plugged / choked
+torn coupling,Structural deficiency
+pump cutting in and out of high speed,Erratic output
+belt pulley has come free of motor,Minor in-service problems
+pump oil contaminated,Contamination
+south side has no oil movement,Plugged / choked
+cold spot on pump discharge,Other
+north east chamber problems,Other
+pump & motor severely corroded maybe,Structural deficiency
+needs repack,Minor in-service problems
+gland needs repacking.,Minor in-service problems
+wld discharge pipework not secure,Minor in-service problems
+haz-valve handle not secured,Minor in-service problems
+bracket missing on mcc cubicle,Minor in-service problems
+psv 04182 tag missing on rv,Minor in-service problems
+belts require changing,Minor in-service problems
+haz motor fan cover rusted of,Structural deficiency
+haz motor fan cover rusted off,Structural deficiency
+haz pipework missing blank,Minor in-service problems
+pump stopped and will not restart,Failure to start on demand
+maint: sce pulling high amps,Abnormal instrument reading
+discharge pipework gasket weaping,Leaking
+burnt out belts motor,Overheating
+haz hot liquor sparaying from gland,Leaking
+pump tripping straight away,Electrical
+$ motor bearing failure.( seized),Breakdown
+osr pump has seized,Breakdown
+"pump has seized, motor keeps on tripping",Breakdown
+pump seized/bogged,Breakdown
+"pump will not move, seized",Breakdown
+strainer pot in backwards,Minor in-service problems
+sump pump will not pump,Breakdown
+pump has failed & is tripping in the sub,Electrical
+pump tripping instantly,Electrical
+coupling requires replacing,Minor in-service problems
+pump continually tripping,Electrical
+no run indication on dcs,Abnormal instrument reading
+running hot and noisey,Overheating
+pump not providing pressure,Plugged / choked
+sump pump not starting when required,Failure to start on demand
+pump not starting in sequence,Failure to start on demand
+pump not puming to capacity,Plugged / choked
+pump. leak corroding pump.,Structural deficiency
+liquor spraying out of body,Leaking
+conduct meter requires clean,Minor in-service problems
+sce oil cooler requires cleaning,Minor in-service problems
+haz - no earth from gland to motor,Electrical
+$ pump siezing on start up,Breakdown
+keeps kicking in when in auto.,Failure to stop on demand
+east side piston cold not efficiant,Low output
+piston end cap bolts sheered,Structural deficiency
+strianer incorrect orientation,Minor in-service problems
+gearbox teeth worn out,Structural deficiency
+jdi electrical vsd signal error,Abnormal instrument reading
+earth cable not attached to base,Minor in-service problems
+all glycol has leaked out of pump,Leaking
+haz - light shorting out,Electrical
+haz pump is tripping on overload,Electrical
+belts broken,Breakdown
+inst air line broken electrical,Breakdown
+haz - switch board broken into,Breakdown
+dump valve handle broken/missing,Breakdown
+heavy corrosion to pump,Structural deficiency
+garflex lealing,Leaking
+needs another row of packing,Minor in-service problems
+motor motor down to earth,Electrical
+pipework is very corroded,Structural deficiency
+slurry spraying out from gland repack,Leaking
+wld scope 32-g4 floc pmp base badly corr,Structural deficiency
+pump covered in hard product,Minor in-service problems
+expansion joints not covered,Minor in-service problems
+pump requires a descale,Minor in-service problems
+indiirect cm-change out oil sce dirty,Minor in-service problems
+seal worn again,Structural deficiency
+emergencey stop button broke,Breakdown
+strainer needs to be flushed,Minor in-service problems
+effluent pump stopped working,Spurious stop
+south piston hydranut appears loose,Minor in-service problems
+please inspect cannot start,Failure to start on demand
+$$ holed suction garflex on pump,Structural deficiency
+"motor fan cowl holed, replace",Structural deficiency
+pump casing holed/inspect wet end,Structural deficiency
+auto recycle valve jammed closed,Plugged / choked
+investigate tripping cause,Electrical
+welder to repair fan guard coroded,Structural deficiency
+old scaffold needs to be dismantled,Minor in-service problems
+haz tundish missing off sample point,Minor in-service problems
+investigate and repair gearbox knocking,Noise
+motor drive belts slipping,Minor in-service problems
+constantly tripping on high amps,Electrical
+tripping on start up,Electrical
+debri caught in suction of pump,Minor in-service problems
+dmirs defect notice - bc earthing,Structural deficiency
+pump will not stay running,Spurious stop
+belts come off,Minor in-service problems
+pump tripped out,Electrical
+a feluwa vortex flow not accurate,Abnormal instrument reading
+loose belts and gland seal worn,Minor in-service problems
+cm motor loose tighten bolts,Minor in-service problems
+c feluwa drive vee belts loose/worn,Minor in-service problems
+cm check hd bolts for looseness,Minor in-service problems
+feluwa caps missing/loose,Minor in-service problems
+congested suction lines c feluwa,Plugged / choked
+dcs shows offline while running in field,Abnormal instrument reading
+pump noisy and showing signs of failure,Other
+"mech seal leak, passing &",Leaking
+dc moisture trap passing,Leaking
+3 way discharge valve passing slurry,Leaking
+c feluwa res block valve passing u/s,Leaking
+dc versicol cntrl valve passing/leaking,Leaking
+pump spraying out from base,Leaking
+gland spraying out slurry,Leaking
+pump seized and needs freeing up,Plugged / choked
+fault find why pump wont start,Failure to start on demand
+haz electrical high earth resistance,Abnormal instrument reading
+pumping at high out put inefficiant a,High output
+piping suction spool pinholed,Minor in-service problems
+$ pump jdi has poor flow,Low output
+belts have slipped off,Minor in-service problems
+needs scope to rectify defects,Minor in-service problems
+haz wld.15g-3c mcwt pump floor colapsed,Breakdown
+pump will not run,Breakdown
+pump will not run in remote,Breakdown
+haz motor fan exposed guard corroded,Minor in-service problems
+measure garflex misaligning on c feluwa,Minor in-service problems
+bredel hose out of position,Minor in-service problems
+belts need replacing,Breakdown
+haz junction box filled with water,Leaking
+motor mech seal fail,Breakdown
+hose failure s/e chamber,Breakdown
+pump set too high and motor trips out,High output
+sump running when empty,Other
+pump triped on high amps motor hot,Overheating
+haz electrical mcc hot joint,Overheating
+repair pump red phase hot joint..furn 1,Overheating
+haz cable sitting on hot volute,Overheating
+pump fluctuates at high rates,Erratic output
+ph probe 22618 not reading right,Abnormal instrument reading
+not able to maintain level in 38,Plugged / choked
+pump and motor dislodged,Minor in-service problems
+repair leaky west suction nrv,Leaking
+2c pump tripping out on run up.,Electrical
+leaking seal need replaceing,Breakdown
+feluwa not pump on west side,Plugged / choked
+pump needs rebuild,Breakdown
+investigate why pump stopped abruptly,Spurious stop
+haz fan cowling brittle,Structural deficiency
+acwt discharge pipe needs securing,Minor in-service problems
+po replace dented pipewrk & vl,Structural deficiency
+pump has inconsistant flow,Plugged / choked
+wet end needs re build,Breakdown
+earthing repair on sump pump,Electrical
+pump started but no indication,Minor in-service problems
+haz corroded/stripped lift point threads,Structural deficiency
+repair stripped thread nrth seal carrier,Structural deficiency
+wet end needs inspecting,Minor in-service problems
+drive belts snaped,Structural deficiency
+pump not pumping drive belts snaped off,Structural deficiency
+pump rcd didnt trip,Electrical
+investigate tripping issue,Electrical
+tripped unable to reset,Failure to stop on demand
+and seals need modifying,Minor in-service problems
+pumps tripping out bad qual,Electrical
+bredel hose dragged into pump,Minor in-service problems
+pump getting jammed possible blown hose,Plugged / choked
+statr failed restest,Failure to start on demand
+jdi diesel pump starting issues,Failure to start on demand
+suction press gauge is wrong range,Abnormal instrument reading
+possible stretched hose,Minor in-service problems
+cub discharge valve seize,Breakdown
+pin hole in the discharge pipe,Structural deficiency
+pump has hole in housing,Structural deficiency
+cub sce keeps vibrating shut,Vibration
+not able to pump flow req,Plugged / choked
+pump needs a descale,Minor in-service problems
+gland seal out of adjustment,Minor in-service problems
+"repack gland, has run out of adjustment",Minor in-service problems
+needs reset,Electrical
+versicol pump diaphram rupture,Structural deficiency
+wtp sd fix vibrating base,Vibration
+"motor vibrating, inspect/replace",Vibration
+changeout motor corrosion,Structural deficiency
+pump receiver severe corrosion,Structural deficiency
+tesd pump drive belts squealing,Noise
+sump pump noisy & grinding.,Noise
+noise from pump trips on overload,Electrical
+inv pump stopping the larox cycles,Spurious stop
+cfl pump stopping randomly,Spurious stop
+haz motor terminal box hanging by wires,Other
+pump detached discharge pipe,Minor in-service problems
+pump need repacking and issue with motor,Minor in-service problems
+"pump wont run, keeps tripping",Failure to start on demand
+chamber platform requires modifying,Minor in-service problems
+packing requires replacement,Minor in-service problems
+pump triped on high amps motor hot,Electrical
+packing has been ejected from gland,Minor in-service problems
+pump pump not turning.,Plugged / choked
+pump fan cowling needs fitting,Minor in-service problems
+pump runs for a while and trips,Electrical
+pump requires rebuild,Minor in-service problems
+haz pump has no equipment earth,Electrical
+sump pump runs continuously,Failure to stop on demand
+pump contamination probes in alarm,Contamination
+"oil contamination, repair required",Contamination
+haz electrical earth leakage doesnt trip,Electrical
+diaphraghm ripped,Structural deficiency
+res flush pump badly worn,Structural deficiency
+drive pulley excesively worn,Structural deficiency
+impellor worn with 38 tk descale,Structural deficiency
+replace worn/ corroded bolts,Structural deficiency
+pulleys worn/belts squealing,Structural deficiency
+pump worn/blocked.,Structural deficiency
+pipe misalignment,Minor in-service problems
+rsh pump breaker trips when switched o,Spurious stop
+north piston rod hydra nut to be torqued,Minor in-service problems
+pump unable to pump more than 8lpm,Low output
+environmental versicol spillage,Leaking
+please delete suction valve jammed open,Plugged / choked
+versicol pump - no pump....,Plugged / choked
+pump not truning,Plugged / choked
+replace coupling guard unable to tighten,Minor in-service problems
+black sump burnt belts,Overheating
+vee belts burnt off,Overheating
+replace burst breedle hose,Breakdown
+pump pumping fault,Low output
+level not controlling,Minor in-service problems
+vsd failed electrical,Electrical
+investigate high earth reading,Abnormal instrument reading
+pump cavitating,Erratic output
+requires repack,Minor in-service problems
+discharge pipe needs support,Minor in-service problems
+mcc needs maintenance,Minor in-service problems
+7b turning but collar not spinning,Minor in-service problems
+jdi probes dont activate pump,Failure to start on demand
+no power,Electrical
+"no power, power poles burnt down",Electrical
+oil cooler blockage,Plugged / choked
+oil cooler blockage?,Plugged / choked
+ongoing issues with acid pump,Other
+haz pipe spool poorly supported,Minor in-service problems
+sump pump is rocking around on footings,Vibration
+dropped belts,Minor in-service problems
+haz gland spraying water from gland,Leaking
+cm grease pump bearings running dry,Other
+pump jammed,Plugged / choked
+pump jammed/seized,Plugged / choked
+res pump inefficient flow,Plugged / choked
+"wld slot motor base holes,repair jack bo",Structural deficiency
+pump stopped communicatiing with dcs,Spurious stop
+"motors stopped, won't start.",Spurious stop
+seal gone on electrical motor,Minor in-service problems
+haz electrical has high earth resistance,Electrical
+unable to get running,Failure to start on demand
+ready light flickering anytime,Erratic output
+needs descale,Minor in-service problems
+conductivity line spilling,Leaking
+gland follower not square,Minor in-service problems
+haz pump rocking voilently,Vibration
+piping discharge pipe unsecure,Minor in-service problems
+02833g feed vortex no output,Plugged / choked
+tri - burn to forehead,Overheating
+investigate pump issues sce,Other
+haz pump erroded,Structural deficiency
+north piston rod detaching,Minor in-service problems
+jdi pump low pressure,Plugged / choked
+dcs not reading drive,Abnormal instrument reading
+a feluwa stroke sensor not reading/false,Abnormal instrument reading
+motor jacking bolts require replacing,Breakdown
+sce requires descale,Minor in-service problems
+electrical current feedback in whiteout,Electrical
+cub cm alarm angular misaligned coupling,Minor in-service problems
+pump unable to increase level,Low output
+ha - pump defect repairs,Structural deficiency
+38t pump seal leaking badly need change,Breakdown
+sce 36a requires de scale,Minor in-service problems
+replace deformed garflex,Structural deficiency
+vsd needs tuning somehow electrical,Minor in-service problems
+pumps moving a lot,Vibration
+motor stops during operation,Spurious stop
+haz pump missing hold down bolts,Minor in-service problems
+vsd tripped will not reset,Failure to start on demand
+haz-floor flooding,Leaking
+hydraulic nuts need marking up,Minor in-service problems

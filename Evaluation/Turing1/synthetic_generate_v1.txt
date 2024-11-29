@@ -1,0 +1,1216 @@
+fuel tank has visible crack
+fuel tank is cracked
+tank is cracked
+crack found on tank
+crack detected on window frame
+window frame has a crack
+glass window is cracked
+glass window shows a crack
+crack detected in the window
+window has signs of a crack
+crack found in chord
+chord has a crack
+crack found in boom chord
+boom chord shows a crack
+crack visible on cross member
+crack found in cross member
+crack detected in chassis cross member
+chassis cross member shows a crack
+windscreen shows a visible crack
+crack is visible on the windscreen
+backhoe windscreen requires replacement due to crack
+backhoe windscreen is cracked
+rock deflector shows a crack
+crack detected in the rock deflector
+track frame cracked and needs fixing
+track frame has a visible crack
+there is a visible crack in the frame
+crack detected in the frame
+cable gantry exhibits a crack
+cable gantry shows a crack
+there is a crack in gantry
+gantry shows a crack
+inspect heat shield for cracks
+heat shield has cracks appearing
+headboard shows a crack
+crack found in headboard
+boom foot shows signs of cracking
+cracked boom foot
+signs of cracking in the liner
+liner exhibits signs of cracking
+blade liner needs replacement due to crack
+blade liner is cracked
+cracks found on the mounts
+cracks found in equipment mounts
+fire suppression mounts show signs of cracking
+fire suppression mounts are developing cracks
+cracks in the cabin mounts
+cabin mounts exhibit multiple cracks
+fuel cooler mounts show cracks
+fuel cooler mounts are cracked
+detected cracks in cross braces
+cracks found on cross braces
+inspect mast cross braces for cracks
+mast cross braces exhibit cracks
+boom has visible cracks
+boom inspection for cracks needed
+cracks detected on mud bucket
+mud bucket displays numerous cracks
+bucket exhibits visible cracks
+visible cracks on bucket
+replacement needed for stick with cracks
+stick is showing signs of cracks
+inspect headboard for cracks
+cracks found in headboard
+diagonal braces exhibit multiple cracks
+cracks present on diagonal braces
+cracks are on the braces
+cracks detected on the braces
+dirt chute has a crack
+dirt chute is cracked
+chute has multiple cracks
+chute exhibits several visible cracks
+handrail contains cracks
+handrail has multiple cracks
+decking is cracked in multiple areas
+decking has several cracks
+bearing generates excessive noise
+noisy operation of bearing detected
+noisy compressor bearing needs immediate attention
+compressor bearing producing excessive noise
+noisy air conditioner compressor bearing
+air conditioner compressor bearing producing noise
+operator cabin air conditioner compressor bearing noisy
+operator cabin air conditioner compressor bearing is noisy
+noise from engine air conditioner compressor bearing
+compressor bearing in engine air conditioner is noisy
+dragline air conditioner compressor bearing produces noise
+dragline air conditioner compressor bearing is noisy
+cabin air conditioner compressor bearing making noise
+compressor bearing in cabin air conditioner noisy
+roller bearing is making a noisy sound
+roller bearing has developed a noisy issue
+drag roller bearing producing loud noise
+noisy drag roller bearing
+excessive noise from hoist drag roller bearing
+noisy hoist drag roller bearing
+noisy equalizer bar bearing
+equalizer bar bearing producing excessive noise
+jockey pulley bearing has a noisy operation
+noisy jockey pulley bearing detected
+steering cylinder bearing producing excessive noise
+noise detected in steering cylinder bearing
+hydraulic lift cylinder produces excessive noise
+hydraulic lift cylinder has a noisy issue
+hole in the door frame
+there’s a hole in the door frame
+hole in cabin door frame
+cabin door frame is holed
+diverter valve shows a leak
+leak in diverter valve
+repair leak in fuel tank
+fuel tank leaking from side
+tank has a leak detected
+a leak is detected in the tank
+leak in the accumulator
+accumulator has a leak
+leak found in steering accumulator
+leak detected in steering accumulator
+leak detected in solenoid
+solenoid has a fluid leak
+replace the leaking steering solenoid
+leaking steering solenoid needs replacement
+leak detected in pilot valve solenoid
+leak found in pilot valve solenoid
+leak detected in steering pilot valve solenoid
+steering pilot valve solenoid has leaked
+jacket water pump shows a leak
+leaking jacket water pump
+water pump shows signs of leaking
+water pump has a leak
+pump is leaking
+leaking pump needs attention
+radiator has a leak
+replace radiator due to leak
+engine has a leak
+engine oil leak detected
+hydraulic motor engine shows a leak
+hydraulic motor engine shows signs of leaking
+leak found in oil cooler
+oil cooler is leaking
+change out leaking axle oil cooler
+axle oil cooler shows signs of leaking
+engine oil cooler is leaking
+leak detected in engine oil cooler
+hydraulic motor oil cooler is leaking
+hydraulic motor engine oil cooler has a leak
+cooler leak requires immediate attention
+found a leak in the cooler
+replace leaking safety valve
+replace the leaking safety valve
+safety valve on air tank leaking
+air tank safety valve has a leak
+compressor safety valve has leaked
+leaking compressor safety valve
+compressor safety valve experiencing a leak
+leak detected in safety valve of compressor
+air conditioner compressor safety valve has a leak
+leak in air conditioner compressor safety valve
+engine air conditioner compressor safety valve leaking
+engine air conditioner compressor safety valve is leaking
+dragline air conditioner compressor safety valve has leak
+compressor safety valve has a leak
+cabin air conditioner safety valve has leak
+cabin air conditioner compressor safety valve has a leak
+found leak in the transmission unit
+transmission has fluid leaking
+pump needs repair due to leak
+leaking pump
+drag rope pump has a leak
+leak detected in drag rope pump
+brake pump has a leak, replace it
+leaking brake pump needs replacement
+slew brake pump has a leak
+found leak in slew brake pump
+detected leak in swing brake pump
+replace leaking swing brake pump
+leak detected in hoist brake pump
+hoist brake pump is leaking
+leak in walk motor brake pump needs attention
+leak detected in walk motor brake pump
+drag brake pump has a fluid leak
+drag brake pump shows signs of leaking
+hoist drag brake pump shows signs of leaking
+leaking hoist drag brake pump needs repair
+leak in the slew pump
+leaking slew pump requires immediate attention
+engine pump leak needs fixing
+leak detected in engine pump
+leak found in hydraulic motor engine pump
+leak detected in hydraulic motor engine pump
+there is a leak in the steering pump
+steering pump is leaking
+leaking parts washer pump requires immediate attention
+parts washer pump has a leak needing attention
+cooler pump shows signs of leaking
+cooler pump has a leak
+leak detected in hydraulic motor cooler pump
+hydraulic motor cooler pump has a leak
+found leak in differential cooler pump
+leak detected in differential cooler pump
+swing pump is leaking
+leak in swing pump
+pto pump is leaking.
+pto pump has a leak.
+differential pump has a leak
+there is a leak in differential pump
+leak detected in fan pump
+there is a leak in the fan pump
+discovered leak in engine fan pump
+engine fan pump exhibits noticeable leak
+hydraulic motor engine fan pump must be replaced due to leak
+hydraulic motor engine fan pump is leaking
+cooler fan pump shows a leak
+leak found in cooler fan pump
+detected leak in hydraulic motor cooler fan pump
+hydraulic motor cooler fan pump shows signs of leakage
+leak in differential cooler fan pump
+differential cooler fan pump is leaking
+air conditioner fan pump is leaking
+air conditioner fan pump leaking
+detected leak in air conditioner fan pump
+air conditioner fan pump shows a leak
+replace engine air conditioner fan pump leak
+leak found in engine air conditioner fan pump
+dragline air conditioner fan pump has a leak
+leak detected in fan pump
+cabin air conditioner fan pump shows signs of leaking
+leaking cabin air conditioner fan pump requires attention
+repair leak in torque converter fan pump
+detecting a leak in torque converter fan pump
+there is a leak in condenser fan pump
+condenser fan pump has a leak
+air conditioner condenser fan pump has a leak
+air conditioner condenser fan pump leaking fluid
+radiator tank shows signs of leaking
+leak found in radiator tank
+door has a leak in rain
+door is leaking water
+auto-greaser door needs repair for leak
+leak detected in auto-greaser door
+cabin door is leaking
+found leak in cabin door
+leak detected in high voltage slip ring
+high voltage slip ring leaking fluid
+slip ring shows a leak
+found leak in slip ring
+found leak in swingbox
+fluid leak from swingbox
+cover plate is leaking
+leaking cover plate requires attention
+oil burner cover plate is leaking
+oil burner cover plate has a leak
+window has developed a leak
+window has a leak
+leaking door window requires immediate attention
+immediate attention for leaking door window
+detected leak in auto-greaser door window
+auto-greaser door window shows a leak
+leak in the cabin door window
+leak found in cabin door window
+leak found in cabin window
+repair required for cabin window leak
+leak in differential oil
+replace differential due to leaking issue
+repair needed for air compressor leak
+repair required for leaking air compressor
+leaking compressor requires attention
+leak detected in compressor
+pilot filter showing signs of leak
+replace the leaking pilot filter
+replace leaking filter
+filter shows signs of leaking
+coupling exhibiting signs of leak
+coupling is showing a leak
+leak found in drag coupling
+leaking drag coupling identified
+hoist drag coupling is leaking
+hoist drag coupling shows signs of leak
+leak found in return pipe coupling
+return pipe coupling has a leak
+leak detected in cooler return pipe coupling
+cooler return pipe coupling shows signs of leaking
+leak found in return pipe coupling
+return pipe coupling has a leak
+return pipe coupling is leaking
+leak detected in return pipe coupling
+hydraulic pump coupling has developed a leak
+leak detected in hydraulic pump coupling
+leak found in hoist coupling
+hoist coupling showing signs of leaking
+hose has a leak
+hose exhibits a significant leak
+leak detected in crowd cylinder hose
+crowd cylinder hose exhibits signs of leak
+leak in air conditioner hose
+air conditioner hose is leaking
+replace operator cabin air conditioner hose leak
+change leaking air conditioner hose in operator cabin
+leak found in engine air conditioner hose
+there is a leak in engine air conditioner hose
+replace leaking air conditioner hose
+hydraulic motor engine air conditioner hose has a leak
+replace leaking dragline air conditioner hose
+dragline air conditioner hose shows signs of leaking
+leaking cabin air conditioner hose
+leak detected in cabin air conditioner hose
+detected leak in filter hose
+leaking filter hose detected
+leaking brake filter hose
+replace leaking brake filter hose
+leaking slew brake filter hose needs replacement
+slew brake filter hose is leaking
+leak in swing brake filter hose requires replacement
+replace leaking swing brake filter hose
+signs of leak in hoist brake filter hose
+hoist brake filter hose shows signs of leaking
+walk motor brake filter hose is leaking
+leak detected in brake filter hose
+drag brake filter hose has a leak
+leaking fluid from drag brake filter hose
+water separator filter hose has a leak
+replace leaking water separator filter hose
+fuel filter water separator filter hose leaking
+fuel filter water separator hose shows leak
+controller filter hose shows signs of leaking
+leak detected in controller filter hose
+transmission controller filter hose is leaking
+leak found in transmission controller filter hose
+centrifuge filter hose has a leak
+centrifuge filter hose shows signs of leaking
+leak detected in tilt cylinder hose
+signs of leak in tilt cylinder hose
+detected leak in steering hose
+steering hose shows a leak
+clam cylinder hose is leaking
+clam cylinder hose leak detected
+motor hose is leaking
+motor hose has a leak
+hoist motor hose shows a leak
+hoist motor hose has a leaking issue
+swing motor hose shows signs of leaking
+swing motor hose shows a leak
+replace pump motor hose due to leak
+leaking pump motor hose
+leak found in drag rope pump motor hose
+drag rope pump motor hose needs to be replaced
+brake pump motor hose has a leak
+there is a leak in brake pump motor hose
+slew pump motor hose has a leak
+detected leak in slew pump motor hose
+replace leaking engine pump motor hose
+leaking engine pump motor hose needs replacement
+leak found in steering pump motor hose
+replace leaking steering pump motor hose
+parts washer pump motor hose has a leak
+leak found in parts washer pump motor hose
+replace hose due to cooler pump motor leak
+leak detected in cooler pump motor hose
+leaking swing pump motor hose
+swing pump motor hose shows a leak
+leaking pto pump motor hose
+pto pump motor hose shows a leak
+differential pump motor hose shows a leak
+hose for differential pump motor shows leak
+leaking fan pump motor hose needs replacement
+leak detected in fan pump motor hose
+fan motor hose shows signs of leaking
+fan motor hose is leaking
+engine fan motor hose has a leak
+replace the leaking engine fan motor hose
+leaking cooler fan motor hose
+cooler fan motor hose has a leak
+air conditioner fan motor hose is leaking
+leak in air conditioner fan motor hose
+torque converter fan motor hose is leaking
+torque converter fan motor hose leak detected
+leaking condenser fan motor hose detected
+leaking hose on condenser fan motor
+wiper motor hose has a leak
+leak found in wiper motor hose
+leaking drag motor hose
+drag motor hose shows signs of leakage
+hoist drag motor hose has a leak
+hoist drag motor hose is leaking
+leak detected in fan hose
+fan hose is leaking
+engine fan hose has a leak
+replace leaking engine fan hose
+hydraulic motor engine fan hose shows a leak
+hydraulic motor engine fan hose leaking
+cooler fan hose leak detected
+cooler fan hose is leaking
+replace leaking hydraulic motor cooler fan hose
+hydraulic motor cooler fan hose shows a leak
+leaking differential cooler fan hose
+differential cooler fan hose is leaking
+air conditioner fan hose is leaking
+leak detected in air conditioner fan hose
+operator cabin air conditioner fan hose leaking
+operator cabin air conditioner fan hose shows leak
+engine air conditioner fan hose has a leak
+engine air conditioner fan hose shows signs of leak
+replace leaking dragline air conditioner fan hose
+dragline air conditioner fan hose is leaking
+cabin air conditioner fan hose has a leak
+cabin air conditioner fan hose is leaking
+leak found in torque converter fan hose
+there is a leak in torque converter fan hose
+replace the leaking condenser fan hose
+leak in condenser fan hose needs replacement
+leak in air conditioner condenser fan hose
+leak found in condenser fan hose
+centrifuge hose shows signs of leaking
+centrifuge hose has a leak
+boom hose shows a leak
+leak detected in boom hose
+cooler hose has a leak
+cooler hose shows a leak
+detected leak in hydraulic motor cooler hose
+replace leaking hydraulic motor cooler hose
+differential cooler hose requires replacement due to leak
+replace leaking differential cooler hose
+change out leaking hmu hose
+leak detected in hmu hose
+boom cylinder hose has a leak; replace it
+leaking boom cylinder hose requires immediate attention
+transmission hose shows signs of leak
+leaking transmission hose
+replace leaking oil cooler hose
+replace oil cooler hose with a leak
+axle oil cooler hose is leaking
+axle oil cooler hose has a leak
+leak detected in engine oil cooler hose
+leak in engine oil cooler hose found
+replace leaking hydraulic motor oil cooler hose
+oil cooler hose has a leak
+replace leaking hitch hose
+hitch hose is leaking
+there’s a leak in the heater hose
+heater hose shows signs of leaking
+leak detected in roof heater hose
+roof heater hose is leaking
+cabin roof heater hose shows a leak
+leaking cabin roof heater hose
+leaking pump hose requires replacement
+pump hose needs to be replaced due to leak
+drag rope pump hose has a leak
+drag rope pump hose shows signs of leakage
+brake pump hose shows signs of leakage
+replace leaking brake pump hose
+slew brake pump hose is leaking
+leak detected in slew brake pump hose
+replace leaking swing brake pump hose
+leak in swing brake pump hose
+hoist brake pump hose shows signs of leakage
+leaking hose from hoist brake pump
+replace leaking walk motor brake pump hose
+walk motor brake pump hose has a leak
+drag brake pump hose needs replacement due to leak
+replace leaking drag brake pump hose
+replace the leaking slew pump hose
+replace leaking slew pump hose
+engine pump hose shows signs of leak
+engine pump hose has a leak
+leaking hydraulic motor engine pump hose
+hydraulic motor engine pump hose has a leak
+steering pump hose shows signs of leaking
+steering pump hose is leaking
+leaking parts washer pump hose
+leak in parts washer pump hose
+leaking cooler pump hose needs replacement
+cooler pump hose is leaking
+hydraulic motor cooler pump hose has a leak
+hydraulic motor cooler pump hose is leaking
+leaking hose from differential cooler pump
+replace leaking differential cooler pump hose
+swing pump hose has a leak
+there is a leak in swing pump hose
+leaking pto pump hose
+replace leaking pto pump hose
+leak detected in differential pump hose
+replace the leaking differential pump hose
+leak in the fan pump hose
+found a leak in fan pump hose
+leak in engine fan pump hose
+engine fan pump hose has a leak
+cooler fan pump hose is leaking
+leak detected in cooler fan pump hose
+air conditioner fan pump hose has a leak
+repair needed for air conditioner fan pump hose leak
+leak detected in torque converter fan pump hose
+signs of leak in torque converter fan pump hose
+condenser fan pump hose has a leak
+replace leaking condenser fan pump hose
+change leaking bucket cylinder hose
+bucket cylinder hose has a leak
+brake hose has a leak
+brake hose is leaking
+slew brake hose is leaking
+replace leaking slew brake hose
+leak detected in swing brake hose
+there is a leak in swing brake hose
+found a leak in hoist brake hose
+hoist brake hose is leaking
+there is a leak in walk motor brake hose
+leak detected in walk motor brake hose
+drag brake hose is leaking
+drag brake hose has a leak
+hoist drag brake hose has a leak
+leak found in hoist drag brake hose
+leak in slew motor hose
+leaking slew motor hose
+exhaust system has a noticeable leak
+exhaust leak detected in the system
+taps have a leak
+leaking taps require immediate attention
+leaking observed in heater taps
+heater taps need repair for leaking
+leaking taps of roof heater require replacement
+roof heater taps need to be replaced
+replace leaking cabin roof heater taps
+cabin roof heater taps show leaking
+leaking lube hose
+leaking lube hose detected
+check differential lube hose for leaks
+differential lube hose inspection for leaks
+leaking hose needs replacement
+hose has a leak
+replace leaking pilot valve
+pilot valve showing signs of leaking
+leaking steering pilot valve detected
+replace leaking steering pilot valve
+gasket is leaking
+gasket shows signs of leaking
+gasket on oil centrifuge is leaking
+oil centrifuge gasket showing signs of leaking
+replace leaking engine oil centrifuge gasket
+engine oil centrifuge gasket has a leak
+hydraulic motor gasket has a leak
+hydraulic motor engine oil centrifuge gasket is leaking
+pump leaking fluid
+found leaking pump
+drag rope pump is leaking
+replace the drag rope pump
+brake pump showing signs of leaking
+brake pump has a leak
+replace the leaking slew brake pump
+leaking slew brake pump needs replacement
+swing brake pump leaking fluid
+leaking fluid from swing brake pump
+leak detected in hoist brake pump
+hoist brake pump has a leak
+walk motor brake pump has a leak
+walk motor brake pump is leaking fluid
+drag brake pump has a leak
+replace leaking drag brake pump
+hoist drag brake pump leaking hydraulic fluid
+leaking hoist drag brake pump
+the leaking slew pump
+there is a leak in slew pump
+leaking engine pump
+engine pump shows signs of leaking
+hydraulic motor engine pump shows signs of leaking
+hydraulic motor engine pump shows leaking
+attention needed for leaking steering pump
+steering pump found to be leaking
+leaking parts washer pump needs replacement
+parts washer pump found leaking
+cooler pump is leaking
+leak detected in cooler pump
+leak in hydraulic motor cooler pump
+hydraulic motor cooler pump has a leak
+differential cooler pump has a leak
+differential cooler pump showing signs of leaking
+swing pump shows signs of leaking
+swing pump is leaking
+replace the leaking pto pump
+pto pump showing signs of leaking
+leaking differential pump
+differential pump is found leaking
+fluid leaking from fan pump
+leaking fan pump
+engine fan pump has a leak
+replace leaking engine fan pump
+leak found in hydraulic motor engine fan pump
+hydraulic motor engine fan pump has oil leak
+signs of leaking in cooler fan pump
+cooler fan pump has a leak
+hydraulic motor cooler fan pump has a leak
+hydraulic motor cooler fan pump leaking fluid
+differential cooler fan pump shows signs of leaking
+differential cooler fan pump has a leak
+leaking air conditioner fan pump needs replacement
+leaking air conditioner fan pump detected
+operator cabin air conditioner fan pump has leak
+leaking operator cabin air conditioner fan pump
+engine air conditioner fan pump leaking fluid
+engine air conditioner fan pump is leaking fluid
+dragline air conditioner fan pump has leak
+replace the leaking dragline air conditioner fan pump
+cabin air conditioner fan pump has leak
+fan pump for cabin air conditioner leaking
+fluid leaking from torque converter fan pump
+torque converter fan pump is leaking fluid
+condenser fan pump shows leaking signs
+replace leaking condenser fan pump
+condenser fan pump leaking water
+leaking air conditioner condenser fan pump
+hoist cylinder needs replacement due to leaking
+hoist cylinder found leaking
+cylinder found leaking during inspection
+cylinder requires urgent attention due to leaking
+replace leaking scavenge pump immediately
+immediate attention required for leaking scavenge pump
+leaking problem identified in pump
+pump shows leaking issue
+leaking input seal detected
+input seal has a leak
+shaft input seal has a leak
+shaft input seal is leaking
+leaking steering shaft input seal requires replacement
+leaking steering shaft input seal
+leaking head pulley shaft input seal
+input seal on head pulley shaft leaking
+conveyor head pulley shaft input seal is leaking
+conveyor head pulley shaft input seal leak
+water pump shaft input seal has a leak
+water pump shaft input seal shows leaking
+engine water pump shaft input seal has a leak
+input seal of water pump shaft leaking
+drive shaft input seal shows signs of leaking
+leaking drive shaft input seal detected
+alternator drive shaft input seal leaking fluid
+there is a leak in alternator drive shaft input seal
+air conditioner drive shaft input seal leaking
+air conditioner input seal is leaking
+pump drive shaft input seal has leak
+leaking pump drive shaft input seal requires change
+pto shaft input seal shows signs of leaking.
+leaking pto shaft input seal detected.
+replace leaking pto input seal
+pto input seal shows leaking
+seal has a leak
+seal is leaking
+cooling return hose leaking at connection
+cooling return hose is leaking
+brake cooling return hose is leaking
+leaking brake cooling return hose
+slew brake cooling return hose leaking identified
+slew brake cooling return hose has a leak
+swing brake cooling return hose has a leak
+there’s a leak in swing brake cooling return hose
+replace leaking hoist brake cooling return hose
+hoist brake cooling return hose has a leak
+leak found in walk motor brake cooling return hose
+leaking walk motor brake cooling return hose
+drag brake cooling return hose shows leakage
+drag brake cooling return hose has leak
+hoist drag brake return hose is leaking
+hoist drag brake cooling return hose leaking
+return hose has a leaking issue
+return hose is leaking
+steering hose has a leak
+replace leaking steering hose
+leaking hmu
+hmu leaking hydraulic fluid
+leaking seals require immediate attention
+immediate attention needed for leaking seals
+replace leaking pedestal seals
+pedestal seals are leaking and need replacement
+swing pedestal seals are leaking
+seals on swing pedestal are leaking
+leaking cabin seals require replacement
+leaking signs in cabin seals
+leaking relief valves need immediate replacement
+leaking relief valves require immediate attention
+leaking radiator relief valves require replacement
+found leaking radiator relief valves
+chord found leaking
+chord is leaking
+boom chord is leaking
+boom chord is leaking fluid
+plug has a leak
+there is a leak in the plug
+leaking hoist cylinder plug detected
+replace leaking hoist cylinder plug
+filter is currently leaking
+the filter is leaking
+brake filter found leaking
+brake filter is leaking
+slew brake filter has a leak
+change out leaking slew brake filter
+leaking swing brake filter
+swing brake filter has a leak
+leaking hoist brake filter
+hoist brake filter has a leaking issue
+walk motor brake filter is leaking
+walk motor brake filter shows leaking
+leak found in drag brake filter
+drag brake filter has a leaking issue
+hoist drag brake filter shows signs of leaking
+leaking hoist drag brake filter needs replacement
+leaking signs found on water separator filter
+replace leaking water separator filter
+leaking fuel filter water separator filter
+replace leaking fuel filter water separator filter
+immediate attention required for leaking controller filter
+leaking controller filter requires immediate attention
+leak found in transmission controller filter
+replace leaking transmission controller filter
+centrifuge filter has a leak
+leak found in centrifuge filter
+replace leaking lube pump
+lube pump is leaking
+differential lube pump has a leak
+differential lube pump found leaking
+tap has a persistent leak
+water leaks from the tap
+replace leaking air drain tap
+air drain tap is leaking
+stick cylinders are leaking
+stick cylinders show signs of leaking
+cylinders are leaking fluid
+cylinders are found leaking
+safety valve exhibiting leak issues
+leaking safety valve needs to be changed
+air tank safety valve leaking air
+leaking air from air tank safety valve
+leaking compressor safety valve
+leak detected in compressor safety valve
+safety valve leaking on air conditioner compressor
+air conditioner compressor safety valve leaking issue
+air conditioner compressor safety valve is leaking
+safety valve leaking on air conditioner compressor
+safety valve on air conditioner compressor leaking
+compressor safety valve for air conditioner leaking
+safety valve on dragline air conditioner compressor leaking
+leaking dragline air conditioner compressor safety valve
+the safety valve on cabin air conditioner compressor is leaking
+safety valve on cabin air conditioner leaking
+leaking pressure compensator requires immediate attention
+discovered leaking pressure compensator
+replace leaking accessory drive unit
+accessory drive is leaking
+air conditioner accessory drive showing signs of leaking
+air conditioner accessory drive showing leak
+operator cabin air conditioner accessory drive is leaking
+leaking operator cabin air conditioner accessory drive
+engine air conditioner accessory drive shows a leak
+engine air conditioner accessory drive has leaking issues
+hydraulic motor engine drive is leaking oil
+hydraulic motor engine air conditioner leaking fluid
+repair leaking air conditioner accessory drive
+accessory drive for dragline air conditioner leaking
+fluid leaking from cabin air conditioner accessory drive
+leaking cabin air conditioner accessory drive
+leaking drive detected
+leaking drive has been detected
+bulk fuel tank showing signs of leaking
+leak found in bulk fuel tank
+fuel tank leaking underneath
+fuel tank leaking from bottom
+leaking tank detected
+leaking tank requires replacement
+leaking hoses discovered
+hoses are leaking
+fan hoses found leaking
+replace leaking fan hoses
+engine fan hoses are leaking
+engine fan hoses are leaking coolant
+leaking hydraulic motor engine fan hoses
+hydraulic motor engine fan hoses leaking
+cooler fan hoses found leaking
+replace leaking cooler fan hoses
+leaks in hydraulic motor cooler fan hoses
+hydraulic motor cooler fan hoses are leaking
+replace leaking differential cooler fan hoses
+differential cooler fan hoses leaking fluid
+replace leaking air conditioner fan hoses
+air conditioner fan hoses show signs of leaking
+operator cabin fan hoses show signs of leaking
+air conditioner fan hoses leaking in operator cabin
+engine air conditioner fan hoses show leakage
+engine air conditioner fan hoses found to be leaking
+dragline air conditioner fan hoses are leaking
+replace leaking dragline air conditioner fan hoses
+replace leaking cabin air conditioner fan hoses
+leaking cabin air conditioner fan hoses
+replace leaking torque converter fan hoses
+leaking torque converter fan hoses
+condenser fan hoses are leaking fluid
+there is leaking in condenser fan hoses
+air conditioner condenser fan hoses are leaking
+air conditioner condenser fan hoses have leaks
+leaking steering hoses detected
+steering hoses have leaks
+motor hoses are leaking
+replace leaking motor hoses
+replace leaking hoses for hoist motor
+replace the leaking hoist motor hoses
+leaking swing motor hoses found
+leak detected in swing motor hoses
+leaking pump motor hoses found
+pump motor hoses have leaks
+hoses leaking on drag rope pump motor
+leaking drag rope pump motor hoses
+brake pump motor hoses have leaks
+leaks found in brake pump motor hoses
+hoses on slew pump motor leaking
+slew pump motor hoses have leaks
+replace leaking engine pump motor hoses
+engine pump motor hoses have a leak
+steering pump motor hoses show leakage
+found leaking hoses on steering pump motor
+parts washer pump motor hoses show leakage
+parts washer pump motor hoses are leaking
+signs of fault in drag generator
+drag generator is experiencing a fault
+blown-out extension line
+extension line found blown
+cabin air conditioner needs boosting
+cabin air conditioner requires boost
+lighting system needs testing
+testing is required for lighting
+slew brake pump oil is leaking
+leaking slew brake pump oil needs replacement
+boom chord has a pressure fault
+pressure fault detected in boom chord
+hose of fan pump motor is blown
+fan pump motor hose blown out
+swing pump motor hose has a weep
+swing pump motor hose shows weeping
+compressor keeps tripping out during operation
+compressor is tripping out frequently
+detected fault in the engine
+engine has a detected fault
+the engine pump hose clamp is broken
+broken engine pump hose clamp
+alarm fault identified in park brake
+park brake alarm fault detected
+swing blower inverter batteries show no charge
+no charge in swing blower inverter batteries
+cabin air conditioner fuse is faulty
+cabin air conditioner fuse indicates a fault
+tilt cylinder hose o-ring has blown
+blown o-ring in tilt cylinder hose
+contamination switch for cooler fan pump is on
+contamination switch on the cooler fan pump
+leak found in differential pump oil
+leaking differential pump oil detected
+grease system experiencing a fault
+a fault is occurring in the grease system
+aftercooler tank suction tube is cracked
+aftercooler tank suction tube exhibits a crack
+weeping observed on hoist brake pump hose
+hoist brake pump hose shows weeping
+broken water separator filter hose clamp found
+hose clamp for water separator filter broken
+hoist brake filter has worn components
+hoist brake filter showing signs of wear
+dash lights stuck in on position
+dash lights are on all the time
+pto pump chip sensor harness needs replacement.
+pto pump chip sensor harness is unserviceable
+pto pump motor hose is unserviceable.
+pto pump motor hose declared unserviceable.
+boom foot clevis pin is dry, no grease
+boom foot clevis pin has no grease
+steering cylinder pin is missing
+steering cylinder pin is out
+door window has a leak and dust
+leak and dust present in door window
+replace broken hydraulic motor cooler hose clamp
+hydraulic motor cooler hose clamp found broken
+hoist brake hose has a leak
+hoist brake hose has leaked
+voltage regulator fuse shows signs of fault
+faulty voltage regulator fuse detected
+replace the broken cooler hose clamp
+broken cooler hose clamp
+pump chip sensor is activating alarm
+pump chip sensor shows alarm condition
+tilt cylinder hose shows weeping signs
+signs of weeping on tilt cylinder hose
+slew pump motor hose has a leak
+slew pump motor hose shows leaking
+contamination switch for hydraulic motor is unserviceable
+hydraulic motor engine pump contamination switch unserviceable
+differential cooler pump hose declared unserviceable
+unserviceable hose for differential cooler pump
+power point has a crack
+crack found in power point
+leaking slew brake pump drive requires replacement
+leaking slew brake pump drive needs replacement
+tank showing signs of cracking
+cracked tank found during inspection
+walk motor brake has a release fault
+walk motor brake is faulty on release
+missing bolt on swing brake pump
+missing swing brake pump bolt
+weeping observed in fan hose
+operator cabin air conditioner fan hose weeping
+unserviceable differential pump drive shaft
+unserviceable drive shaft for differential pump
+replace air conditioner fan hose
+air conditioner fan hose requires replacement
+hydraulic motor engine oil cooler hose is blown
+hydraulic motor engine oil cooler hose blown
+boom light is blown
+blown boom light requires replacement
+condenser fan hose requires replacement
+condenser fan hose needs to be replaced
+coolant is leaking from pto pump
+leak in pto pump coolant line
+pto pump oil is leaking
+pto pump oil shows signs of leaking
+pressure fault in swing brake detected
+pressure fault detected in swing brake
+fan speed resistor is currently not working
+fan speed resistor is not working
+fault identified in boom light wiring
+fault detected in boom light wiring
+differential cooler pump found broken
+differential cooler pump is broken
+fault found in fan resistor wiring
+fan resistor wiring shows a fault
+dragline air conditioner shows electrical faults
+dragline air conditioner is experiencing electrical faults
+swing pump drive leaking oil observed
+swing pump drive has leaking oil
+air conditioner fuse keeps blowing
+hydraulic motor engine air conditioner fuse blowing
+weightometer is inoperable
+weightometer not functioning properly
+cooler fan pump drive leaking oil
+leaking oil from cooler fan pump drive
+broken bolt on steering pump
+bolt of steering pump is broken
+engine air conditioner blower inverter earthing out
+blower inverter earthing out issue identified
+unserviceable display requires attention
+display has turned unserviceable
+drag rope pump cavity has low fluid level
+fluid level in drag rope pump cavity low
+drive shaft for air conditioner is snapped
+air conditioner drive shaft is snapped
+cooler pump motor rtd wiring is incorrect
+cooler pump motor rtd is wired incorrectly
+wired incorrectly pto pump motor rtd
+incorrect wiring in pto pump motor rtd
+air conditioner thermostat not functioning properly
+thermostat for air conditioner not working
+the cover has cracks
+cover has developed cracks
+unserviceable head pulley shaft universal joint
+head pulley shaft universal joint deemed unserviceable
+broken clamp on pump motor hose
+pump motor hose clamp is broken
+auto-greaser door window needs to be resealed
+resealing is needed for auto-greaser door window
+pump bolt went missing
+pump bolt has disappeared
+the compressor oil pressure switch is unserviceable
+compressor oil pressure switch found unserviceable
+faulty swing brake sensor has been detected
+faulty sensor for swing brake detected
+replacing the head pulley shaft is required
+head pulley shaft requires replacing immediately
+replace unserviceable slew pump motor hose
+slew pump motor hose found unserviceable
+broken brake pump hose clamp
+the brake pump hose clamp broke
+pump motor hose for parts washer needs replacement
+replace parts washer pump motor hose
+blown voltage regulator fuse
+replace blown voltage regulator fuse
+cabin window has a broken pane
+immediate replacement of broken cabin window
+line needs to be replaced
+line requires replacing immediately
+torque converter fan pump chip sensor alarm activated
+torque converter fan pump sensor has alarm
+controller filter hose has a leak
+controller filter hose is leaking
+hydraulic motor engine starter diode shorted
+hydraulic motor engine starter diode shows short
+modular unit is not self-assigning
+modular does not perform self-assignment
+drag brake pump cavity is emptying quickly
+emptying quickly, drag brake pump cavity
+hydraulic motor compressor has corrosion
+hydraulic motor engine air conditioner compressor corroded
+swing brake pump chip sensor has alarm
+alarm triggered by swing brake pump chip sensor
+unserviceable oil pressure switch found
+oil pressure switch found unserviceable
+bolt for torque converter fan pump is broken
+broken bolt on torque converter fan pump
+seized cable needs replacement
+cable has seized mechanism
+broken clamp on pump hose detected
+change the broken pump hose clamp
+axle oil cooler hose shows signs of weeping
+axle oil cooler hose has a weep
+weeping cooler pump motor hose
+cooler pump motor hose is leaking fluid
+drag rope pump has a break
+drag rope pump has broken
+slew brake pump bolt popped off
+slew brake pump bolt is popped
+hydraulic motor engine air conditioner has a leak
+leaking hydraulic motor engine air conditioner
+cracked bucket rock breaker
+cracked bucket rock breaker detected
+faulty cooler fan pump oil discovered
+cooler fan pump oil was found faulty
+found unserviceable slew pump chip sensor harness
+the slew pump chip sensor harness is unserviceable
+valve is exhausting pressure safety
+pressure safety valve has air exhausting
+replacing walk motor brake pump hose is needed
+walk motor brake pump hose needs replacement
+parts washer pump motor hose blew
+hose for parts washer pump motor blown
+engine pump bolt is missing
+missing engine pump bolt
+movement detected in steering pin
+movement of steering pin is excessive
+differential pump bolt found missing
+there is a missing differential pump bolt
+swing brake has a temperature error
+temperature error present with swing brake
+power point is cracked
+cracked power point found
+damaged door needs repair
+damaged door requires repair
+replace unserviceable slew brake filter hose
+unserviceable slew brake filter hose
+weeping observed on controller filter hose
+weeping controller filter hose observed
+hoist drag motor lube shows a fault
+fault identified in drag motor lube
+swing brake pump cavity emptying rapidly
+swing brake pump cavity being emptied
+wiper fuse is blowing repeatedly
+blown wiper fuse needs replacement
+cabin air conditioner is not working
+cabin air conditioner not functioning well
+loctite needed for hydraulic motor cooler pump bolt
+apply loctite to hydraulic motor cooler pump bolt
+coolant leak in differential cooler pump
+coolant is leaking from differential cooler pump
+tyre is unserviceable
+tyre declared unserviceable
+wiring harness for keypad light unserviceable
+keypad light wiring harness is unserviceable
+boarding gate latch malfunctioning
+boarding gate latch is not working
+hydraulic motor engine pump drive has a leak
+there is a leak in hydraulic motor engine pump drive
+boarding ladder is out of service
+boarding ladder has malfunctioned
+attention required for damaged plug
+plug requires attention due to damage
+swing pump found broken
+detected broken swing pump
+torque converter fan pump coolant leak
+torque converter fan pump has a coolant leak
+roof heater hose in unserviceable condition
+unserviceable roof heater hose condition
+boom hose o-ring has blown
+blown o-ring on boom hose
+replace leaking centrifugal oil filter
+leaking centrifugal oil filter
+fault found in swing pump motor lube
+experiencing fault with swing pump motor lube
+dragline air conditioner drive shaft requires replacing
+dragline air conditioner drive shaft needs replacement
+the cooler pump drive shaft is unserviceable
+cooler pump drive shaft found unserviceable
+broken pump motor hose clamp
+clamp for pump motor hose is broken
+pto pump drive shaft needs to be replaced
+pto pump drive shaft requires replacement due to unserviceability
+air conditioner drive shaft needs replacing
+replacing the air conditioner drive shaft is required
+the constant voltage transformer melted
+constant voltage transformer is melted
+engine leaks oil
+oil leaks found in engine
+unserviceable electric propel siren
+siren is unserviceable and needs repair
+universal joint on water pump shaft failed
+engine water pump shaft universal joint failed
+controller filter hose deemed unserviceable
+controller filter hose is unserviceable
+a bolt on the slew pump is broken
+bolt on slew pump is broken
+replace weeping slew motor hose
+slew motor hose showing weeping
+a broken window was found
+broken glass in window
+there is a fault in the axle
+identified a fault in the axle
+machine is not starting
+the machine won't start
+faulty readings from pressure sensor
+replace faulty pressure sensor
+engine air conditioner fan hose found unserviceable
+engine air conditioner fan hose is unserviceable
+unserviceable fuse in cabin air conditioner
+the fuse for cabin air conditioner is unserviceable
+air separator found unserviceable
+air separator is unserviceable
+replace leaking transmission oil
+transmission oil has a leak
+hydraulic motor engine starter fuse is faulty
+hydraulic motor engine starter fuse shows fault
+pump found to be broken
+broken pump needs repair
+dogbone pin exhibits unwanted movement
+excessive movement in dogbone pin
+there are leaks in differential cooler pump oil
+leaking differential cooler pump oil
+hmu hose is weeping
+weeping detected in hmu hose
+pto not meshing with the gear
+gear not meshing with pto
+seat is reported unserviceable
+unserviceable condition of seat
+blade light needs to be replaced
+blade light needs replacement
+torque converter fan motor hose has a leak
+replace leaking torque converter fan motor hose
+differential pump has an oil leak
+oil leak from differential pump
+stabilizer bar found broken
+stabilizer bar has a break
+cabin air conditioner fuse continually blows
+cabin air conditioner fuse keeps tripping
+swing pump coolant leak detected
+swing pump has coolant leak
+cavity has low fluid level
+low pressure in cavity
+hydraulic motor engine oil issue was found
+found hydraulic motor engine oil issue
+air conditioner fan motor hoses have leaks
+air conditioner fan motor hoses are leaking
+latch on boarding gate is broken
+boarding gate latch found broken
+air conditioner in hydraulic motor engine not cold
+hydraulic motor engine air conditioner is warm
+loctite is needed for slew pump bolt
+slew pump bolt needs loctite
+unserviceable fan motor hose needs replacement
+fan motor hose needs replacement
+condenser fan pump bolt has broken
+broken condenser fan pump bolt found
+engine shows a fault
+engine is exhibiting a fault
+blade control cable has excessive tightness
+blade control cable is too tight
+blown o-ring on roof heater hose
+roof heater hose o-ring is blown
+air conditioner found to be no good
+air conditioner is malfunctioning
+wiring harness for speed sensor is unserviceable
+speed sensor wiring harness is unserviceable
+heat sink clamp found broken
+broken heat sink clamp discovered
+hydraulic motor engine air conditioner blowing warm air
+hydraulic motor engine air conditioner runs warm
+engine air conditioner control cable too tight
+control cable for engine air conditioner is tight
+fault identified in tele-remote camera
+tele-remote camera shows a fault
+transformer is melted and requires urgent attention
+melted transformer needs immediate attention
+faults in swing pump lube system
+faults found in swing pump lube system
+found broken fire extinguisher bracket
+broken fire extinguisher bracket
+brake pump chip sensor triggers alarm
+alarm on brake pump chip sensor
+oil cooler leaking coolant
+leak detected in oil cooler
+fan speed resistor for air conditioner not working
+dragline air conditioner fan speed resistor not working
+blade wear plates show signs of wear
+detected worn blade wear plates
+gauge is in broken condition
+broken gauge requires immediate attention
+grease leak in slip ring
+slip ring shows grease leak
+drag roller bearing appears unserviceable
+drag roller bearing deemed unserviceable
+hoist drag roller bearings have gone shot
+bearings in hoist drag roller are shot
+air conditioner fan pump lube system faulty
+faults detected in air conditioner fan pump
+leaking fluid from hoist drag brake cooling hose
+hoist drag brake cooling hose leaking fluid
+leaking swing pedestal seals with dust
+leaking swing pedestal seals require cleaning from dust
+weeping observed in hitch hose
+hitch hose has a weeping issue
+walk motor brake pump bolt needs loctite
+walk motor brake pump bolt needs securing
+radiator sight glasses identified as unserviceable
+unserviceable condition of radiator sight glasses
+weeping hydraulic fluid from engine pump hose
+weeping hydraulic motor engine pump hose
+replace hoist brake filter hose
+hoist brake filter hose needs to be replaced
+unserviceable condition of flooring
+flooring declared unserviceable

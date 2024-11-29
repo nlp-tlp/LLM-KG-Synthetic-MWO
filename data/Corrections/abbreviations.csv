@@ -1,0 +1,803 @@
+Word,Abbreviation
+accident,acc
+accumulator,accum
+accumulator,accumu
+accumulator,accu
+accumulator,acc
+adjust,adj
+adjustment,adj
+adjustment,adjt
+aftercooler,a/cooler
+aftercooler,aft/cooler
+air conditioner,air-con
+air conditioner,air/con
+air conditioner,aircon
+air conditioner,a/c
+air conditioner,aircond
+air conditioner,air cond
+air conditioner,air-cond
+air conditioner,air/cond
+air conditioner,a/con
+air conditioner,air
+air conditioner,ac
+air conditioner,a/cond
+air conditioner,a/c unit
+air conditioner,ac unit
+air conditioner,air cond unit
+air conditioner,air condition
+air conditioner,air conditioner unit
+air conditioner condenser,a/condenser
+alternator,alt
+and,&
+and,+
+and,n
+antiskid,anti-skid
+assembly,ass
+assembly,assemb
+assembly,assemb
+assembly,assm
+assembly,assy
+at,@
+auto-greaser,autogreaser
+auto-lube,autolube
+autogreaser,auto-greaser
+auxiliary,aux
+battery,batt
+bearing,brg
+bearing,bear
+bearing,brng
+bearings,brgs
+bearings,bngs
+been,b
+belt,blt
+bill of materials,bom
+boiler feed water pump,bfwp
+boilermaker,boily
+boilermakers,boilys
+bottom,bot
+bracket,bkt
+bracket,brkt
+brake,brk
+break out,break-out
+breakdown maintenance,bm
+broken,brkn
+brown boveri and cie,bbc
+bucket,bkt
+bucket,buc
+bucket elevator,b/e
+building,bldg
+busbars,bus
+by-pass,bypass
+by-passing,bypassing
+bypass,by-pass
+bypassing,by-passing
+cabin,cab
+cabin light,cablight
+calibrate,cal
+camshaft,cam
+canister empty,lc
+carbody,car
+cartridge,cartr
+central processing unit,cpu
+centre,cntr
+centre,ctr
+centre,c/
+centre,cent
+certified master inspector,cmi
+chain,chn
+change out,change-out
+change out,c/out
+change out,c/o
+change out,co
+change out,/co
+change out,change
+changing out,c/o
+changing out,co
+changing out,c/out
+changing out,/co
+check,chk
+check,ch
+christmas,xmas
+chute,chu
+circuit breaker,cb
+circuit breaker,c/b
+circuit breaker,c/breaker
+circuit breakers,c/breakers
+circumference,circum
+clean out,clean
+clean out,clean up
+clean up,clean
+coaxial,coax
+coke and revert,c/r
+collect,col
+communication,comm
+communications,comms
+compatible,comp
+compressor,comp
+compressor,compr
+compressor,compress
+condition,cond
+condition monitoring,cm
+condition monitoring,con mon
+condition monitoring,cmn
+connection,conn
+continuously,cont
+control,ctrl
+controls,ctrls
+controls,ctrlz
+converter,conv
+conveyor,cvr
+conveyor maintenance,cm
+conveyor maintenance shutdown,cmsd
+conveyor maintenance shutdown,cmsd
+cooler,cool
+cooling,cool
+cooling water,cool/water
+cooling water,c/water
+copper,cu
+copper free liquor,cfl
+corner,crnr
+corrective action,ca
+counter weight,c/weight
+coupling,cpl
+cover,cov
+crankcase,crank
+crib hut,c/hut
+critical control execution,cce
+cross,x
+cross cabin,xcab
+cross travel,c/t
+crossover,x-over
+cylinder,cyl
+cylinder,cylind
+cylinder,chamber
+damage,dmg
+deflection,defl
+demobilise,demob
+department,dept
+diagnose,diag
+diaphragm,dia
+differential,diff
+dipstick,dip
+directional,dir
+distributed control system,dcs
+distributor,d/b
+dogbone,dog
+dosed thickener overflow,dto
+drag rope,d/rope
+dragline,d/l
+dragline,dl
+dragline,d/line
+drive,dve
+drive,drv
+drive assembly,drv
+drive end,d/e
+driveline,drive
+driveline,drive/line
+driveline,d/line
+drivelines,d/lines
+driveshaft,d/shaft
+dynavanes,dyna
+earth leakage,e/l
+earth leakage,e/leakage
+electric,elec
+electrical,elec
+electrical,e/c
+electrical,e/l
+electrical connection,e/con
+electrical leakage,e/leakage
+elevasted work platform,ewp
+emergency,emer
+emergency,emerg
+emergency,em
+emergency roll out,ero
+emergency-stop,emergency
+emergency-stop,e-stop
+emergency-stop,e
+emergency-stop,stop
+emergency-stop,e/stop
+emergency-stop,estop
+engine,engi
+engine,eng
+engine control unit,ecu
+environmental,enviro
+equaliser,eql
+equipment,equip
+error,err
+evacuate,evac
+evaporative,evap
+evaporative fans,evap fans
+evaporator,evap
+examination,exam
+examine,exam
+excavator,exc
+exchange,exch
+exhaust,exh
+external,ext
+extinguisher,ext
+fabricate,fab
+fabrication,fab
+fault,flt
+faults,flts
+faulty,flty
+fibre reinformed plastic,frp
+filter,filt
+filter,fltr
+filter,filt
+final drive,final
+final drive,f/drive
+final drive,f/d
+final drives,f/drives
+fire suppression,fs
+first,1st
+flexible,flexi
+floodlight,f/light
+floodlight,flood
+floor,flr
+flowmeter,flow
+flywheel,f/wheel
+for,4
+forward,fwd
+from,fr
+front,fr
+front,fnt
+front,frt
+front,frnt
+front,f/
+front left hand,flh
+front right hand,frh
+fuller kinion pump,fkp
+functional testing,ft
+furnance shutdown,fsd
+gearbox,g/box
+gearbox,gbox
+gearbox,gear
+gearbox,g/b
+gearbox,gbx
+gearboxes,gboxs
+gearboxes,gear
+gearcase,gear
+general power outlet,gpo
+generator,gen
+generator set,genset
+generator set,gen set
+generator sets,gensets
+generator sets,gen sets
+gland water,gw
+gland water,g/w
+gravity take-up,gtu
+ground,grd
+ground,grnd
+group,grp
+half,1/2
+handrail,hand
+handrail,h/rail
+handrails,h/rails
+handrails,hand
+hazard,haz
+hazardous area,ha
+headlight,head
+headlight,h/light
+high,h
+high,hi
+high / low,hi/lo
+high flow,high-flow
+high flow,hi-flow
+high pressure,hp
+high pressure,h/p
+high pressure,hi-pressure
+high voltage,hv
+high voltage,h/v
+hoist,hst
+horizontal,horiz
+hot gas fan,hgf
+hour,hr
+hour,h
+housing,hous
+hydraulic,hyd
+hydraulic hose,hyd-hose
+hydraulic oil,hydoil
+hydraulic tank,hyd-tank
+hydrocarbon,hydro
+hydrocool,hydro
+idler,idl
+ignition,ign
+ignition,ignt
+implement,impl
+implement,impl
+improve,imp
+incident,inc
+injection,injec
+injection,inj
+injection,inje
+injector,inject
+inlet guide vane,igv
+inline,in-line
+inoperable,inop
+input open permissive,iop
+inspect,ins
+inspect,insp
+inspection,insp
+install,inst
+install,ins
+interim temporary control,itc
+intermediate,inter
+intermediate,int
+internal,inter
+internal,int
+internal / external,in/ext
+inventory,inv
+investigate,inv
+investigate,invest
+jump start,jump
+jump-start,jump
+junction,jump
+kilowatt,kw
+kwik,quick
+kwik tip,quick tip
+laboratory,lab
+left,lt
+left,lft
+left,l/
+left and right,l&r
+left and right hand,l&r/h
+left bottom,l/bottom
+left engine,l/eng
+left front,l/f
+left front,lf
+left hand,l/hand
+left hand,l/h
+left hand,lh
+left hand / right hand,lh/rh
+left hand and right hand,lh&rh
+left hand front,l/h/f
+left hand front,lhf
+left hand lower,l/h/lwr
+left hand outer,l/h/o
+left hand rear,lhr
+left hand rear,l/h/r
+left hand rear,l/h/rear
+left hand rear,lh/rear
+left hand side,lhs
+left hand side,l/h/s
+left hand side,lh/s
+left hand side,l/h/side
+left hand side,lhside
+left hand side,l/hs
+left hand upper,l/h/upr
+left rear,lr
+left side,l/s
+left side,l/side
+left turn,l/turn
+level,lvl
+lever,lvr
+lights,lts
+linear variable differential transformer,lvdt
+location,locn
+location,loc
+lockout,lock
+long,lng
+long text,l-text
+low,lo
+low voltage,lv
+low voltage,l/v
+lower,low
+lower,lwr
+lower,lr
+lower left,ll
+lower left,l/r
+lower right,lr
+lower right,l/r
+machine,mach
+machine vapour re-compression,mvr
+magnet,mgt
+magnet monorail,mnr
+magnetic,mag
+magnetic seperator,mag sept
+main air compressor,
+main cooling water tower,mcwt
+maintenance,maint
+maintenance,mtce
+maintenance,mainten
+major job,mj
+major overhaul,mjo
+major service,mjs
+major shutdown,msd
+make up,make-up
+make-up,make up
+manifold,man
+manifold,manif
+matte granulation,gran
+mechanical,mech
+medium pressure,mp
+metal detector,mdt
+metal free liquor,mfl
+mid-life,midlife
+minesite,mine
+minesite,m/site
+minor service,mns
+misfire,miss
+mobile,mob
+mobilise,mob
+modification,mod
+modifications,mods
+modular,module
+month,mth
+month,m
+motor,mtr
+motor control center,mcc
+motor generator,mg
+mount,mun
+nano filtration,nf
+non destructive test,ndt
+non drive end,nde
+non-return value,nrv
+north,nth
+north,/nth
+not operating,n/o
+not working,n/w
+number,#
+number,no
+o-ring,oring
+o-ring,o/ring
+o-ring,org
+o-ring,0-ring
+o-ring,0/ring
+off site repair,osr
+okay,ok
+operation,opp
+operation,op
+operator,opr
+operator,op
+original,og
+output,out
+outside,os
+outstanding,out/stding
+outstanding,outstd/ing
+over temperature,o/temp
+over temperature,over temp
+over temperature,overtemp
+overcharging,o/charging
+overfill,over
+overfull,over
+overhaul,o/h
+overhaul,o/haul
+overheat,o/heat
+overheating,o/heating
+overload,o/l
+overload,o/load
+overvoltage,overvolt
+overvoltage,overvolts
+park,pk
+park brake,p/brake
+payload,p/load
+pedestal,ped
+perform,perf
+performed,perf
+permalube,perma
+permalubes,perma
+permit to work,ptw
+plant control center,pcc
+please,pls
+plug and insert,p&i
+plug and insert,p and i
+plugged,plgd
+point,pnt
+point,pt
+popped,popt
+position,pos
+position,pos#
+positive displacement,pd
+power steering,p-steering
+pre-cleaner,precleaner
+pre-lube,prelube
+precleaner,pre-cleaner
+predictive maintenance,pdm
+prelube,pre-lube
+preparation,prep
+prepare,prep
+pressure,press
+pressure filter leaves,plf
+pressure safety valve,psv
+pressure swing absorption plant,psa
+primary,prim
+problem,prob
+problems,probs
+profile,prof
+programmable logic controller,plc
+project,pro
+propel,prpl
+proximity,proxy
+proximity,prox
+proximity switch,proxy
+pulley,ply
+pump,pmp
+push button,p/b
+push button,pb
+quarter,1/4
+radiator,rad
+re-attach,reattach
+re-build,rebuild
+re-calibrate,recalibrate
+re-charge,recharge
+re-design,redesign
+re-fit,refit
+re-gas,regas
+re-install,reinstall
+re-instate,reinstate
+re-locate,relocate
+re-position,reposition
+re-route,reroute
+re-shim,reshim
+re-socket,resocket
+re-stock,restock
+re-terminate,reterminate
+re-wind,rewind
+rear,r/
+rear brakes,r/brakes
+rear right,rr
+reattach,re-attach
+rebuild,re-build
+recalibrate,re-calibrate
+receiver,rx
+recharge,re-charge
+recirculation,recirc
+redesign,re-design
+reference,refurb
+refit,re-fit
+refurbishing,refurb
+refurbishment,refurb
+regas,re-gas
+regulator,reg
+regulators,regs
+regulatory,reg
+reinstall,re-install
+reinstate,re-instate
+relief valve,rv
+relocate,re-locate
+remaining,remove#
+remote terminal unit,rtu
+remove number,remove#
+repair,rep
+repair and replace,r&r
+replace,repl
+replace,rpl
+replace,rep
+replace,change out
+replace,c/o
+replace,c/out
+replaced,repl
+replaced,rpl
+replaced,rep
+replaced,change out
+replaced,c/o
+replaced,c/out
+replacement,rep
+replacement,repl
+replacing,repl
+replacing,rpl
+replacing,changing out
+replacing,co
+replacing,c/o
+replacing,c/out
+report,rpt
+reposition,re-position
+require,req
+requires,reqs
+reroute,re-route
+reservoir,res
+reshim,re-shim
+residual current device,rcd
+resocket,re-socket
+restock,re-stock
+reterminate,re-terminate
+reticulation,retic
+retrofit,retro
+return,re
+reverse,rev
+reverse jet scrubber,rjs
+rewind,re-wind
+rework,rew
+right,rt
+right,rht
+right,r/
+right / left,rt/lf
+right bottom,r/bottom
+right engine,r/eng
+right front,r/f
+right front,rf
+right hand,r/hand
+right hand,r/h
+right hand,rh
+right hand front,r/h/f
+right hand front,rhf
+right hand lower,r/h/lwr
+right hand outer,r/h/o
+right hand rear,rhr
+right hand rear,r/h/r
+right hand rear,r/h/rear
+right hand rear,rh/rear
+right hand side,rhs
+right hand side,r/h/s
+right hand side,rh/s
+right hand side,r/h/side
+right hand side,rhside
+right hand side,r/hs
+right hand upper,r/h/upr
+right rear,rr
+right side,r/s
+right side,r/side
+right turn,r/turn
+rotochamber,roto
+rotochamber,rotor
+run of mine,rom
+run to failure,rtf
+safety,sfty
+safety,sft
+safety critical element,sce
+safety critical element,sce
+scaffold requirement,scaf
+scavenger,scav
+scope,sc
+scraper,scp
+screen,scrn
+second,2nd
+secondary,2ndary
+secondary,sec
+section,sec
+section,sect
+self-rescuer,self
+seperator,sep
+september,sept
+serial number,s/n
+serial number,serial#
+service,svce
+service,srv
+service,serv
+service,ser
+service,svc
+set up,set-up
+set up,set
+set-up,set up
+set-up,set
+shaft,sft
+sheave,shve
+shift electrician,se
+shift technician,st
+shock absorber,shockie
+shock absorber,shocky
+shock absorbers,shockies
+shutdown,shtdwn
+shutdown,s/down
+shutdown,s/d
+shutdown,sd
+small,sml
+software,sw
+sometimes,s/times
+sonic frequency,sf
+south,sth
+specialised engineering services,ses
+specifications,spec
+speed,spd
+speedometer,speedo
+stage,stg
+statement of work,sow
+statutory,stat
+steer,str
+storage,strg
+structure,struct
+structure,strc
+substation,sub
+substation,ss
+supply,sup
+supply,sply
+support,supp
+support,supt
+suppression,supp
+surface,surf
+survey,svy
+suspension,susp
+suspension,sus
+swing,swg
+switch,swth
+switch,sw
+switch,swt
+switch,s/w
+switches,sw/s
+synchronous,sync
+system,sys
+tachometer,tacho
+tele-remote,tel/rem
+tele-remote,t/remote
+tele-remote,teleremote
+tele-remote,teleremote
+telltale,tell
+temperature,temp
+temperature sensor,rtd
+temperatures,temps
+terminal,term
+termination,term
+test,tst
+text,txt
+thermo couple,t/c
+thermo couple,tc
+thermography,thermo
+thermostat,thermo
+thermostats,thermos
+third,3rd
+through,thro
+through,thru
+to,2
+tolerance,tol
+torque,torq
+torque converter,tc
+torque converter,t/c
+torque converter,t/conv
+torque converter,t/convertor
+tower,twr
+track,trk
+transfer,trans
+transfer,trn
+transformer,tr
+transmission,tx
+transmission,trans
+transmission,tranny
+transmission,trany
+transmission,trani
+transmitter,tx
+tri-tonics,tritonics
+tritonics,tri-tonics
+two way,two-way
+two way,2-way
+two way,2 way
+two way,2way
+two-way,two way
+underflow,u/f
+underflow,u/flow
+universal,uni
+universal joint,universal
+universal joint,uni
+unserviceable,u/s
+unserviceable,u.s.
+update,up-date
+update,up
+upgrade,up
+upper,upr
+uptake shaft,u/s
+uptake shaft,us
+vacuum,vac
+valve,vlv
+valve,vv
+valve,v/v
+variable,vari
+variable frequency drive,vfd
+variable speed drive,vsd
+vertical,vert
+vertical bank,vbank
+vibration,vib
+vibration analysis,va
+visibility,vis
+voltage,v
+voltage,vltg
+voltage,volt
+waist heat boiler,whb
+walk-through,walkthrough
+walkthrough,walk-through
+walkways,w/ways
+walkways,walkw
+water,wtr
+water pump,w/pump
+water quality management system,wqms
+water treatment pump,wtp
+week,wk
+weekly,wkly
+weightometer,wtm
+wheel bearings,w/bearings
+window,w/dow
+with,w
+with,w/
+workplace,w/place
+workshop,w/s
+workshop,wksp
+workshop,w/shop
+workshop,ws

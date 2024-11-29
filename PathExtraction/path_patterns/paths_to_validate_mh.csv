@@ -1,0 +1,589 @@
+Physical Object,Undesirable Event,Helper PO/Event,Valid
+STATE_AGENT_ACTIVITY_PATHS,,,
+seat,needs,boost,n
+seat,needs,fitting,y
+seat,needs,replaced,n
+seat,needs,extending,y
+seat,needs,repair,y
+seat,needs,resealing,n
+seat,needs,clean out,n
+air conditioner,needs,fitting,n
+air conditioner,needs,replaced,y
+air conditioner,needs,extending,n
+air conditioner,needs,repair,y
+air conditioner,needs,resealing,n
+air conditioner,needs,clean out,n
+air conditioner,needs,replacing,y
+clamps,needs,boost,n
+clamps,needs,replaced,y
+clamps,needs,extending,n
+clamps,needs,repair,y
+clamps,needs,resealing,n
+clamps,needs,clean out,n
+clamps,needs,replacing,y
+am / fm radio,needs,boost,n
+am / fm radio,needs,fitting,n
+am / fm radio,needs,replaced,y
+am / fm radio,needs,extending,n
+am / fm radio,needs,repair,y
+am / fm radio,needs,resealing,n
+am / fm radio,needs,clean out,n
+am / fm radio,needs,replacing,y
+bolt,needs,boost,n
+bolt,needs,fitting,n
+bolt,needs,replaced,y
+bolt,needs,extending,n
+bolt,needs,repair,n
+bolt,needs,resealing,n
+bolt,needs,clean out,n
+bolt,needs,replacing,y
+dust flap,needs,boost,n
+dust flap,needs,fitting,n
+dust flap,needs,replaced,y
+dust flap,needs,repair,y
+dust flap,needs,resealing,n
+dust flap,needs,clean out,y
+dust flap,needs,replacing,y
+joystick,needs,boost,n
+joystick,needs,fitting,n
+joystick,needs,replaced,y
+joystick,needs,extending,n
+joystick,needs,resealing,n
+joystick,needs,clean out,n
+joystick,needs,replacing,y
+cabin,needs,boost,n
+cabin,needs,fitting,n
+cabin,needs,replaced,n
+cabin,needs,extending,n
+cabin,needs,repair,n
+cabin,needs,clean out,y
+isolator,needs,boost,n
+isolator,needs,fitting,y
+isolator,needs,replaced,y
+isolator,needs,extending,n
+isolator,needs,repair,y
+isolator,needs,resealing,n
+isolator,needs,replacing,y
+hose,needs,boost,n
+hose,needs,fitting,y
+hose,needs,extending,y
+hose,needs,repair,y
+hose,needs,resealing,n
+hose,needs,clean out,y
+hose,needs,replacing,y
+window frame,needs,boost,n
+window frame,needs,fitting,y
+window frame,needs,replaced,y
+window frame,needs,extending,n
+window frame,needs,resealing,y
+window frame,needs,clean out,n
+window frame,needs,replacing,y
+light,needs,boost,n
+light,needs,fitting,n
+light,needs,replaced,y
+light,needs,extending,n
+light,needs,repair,n
+light,needs,resealing,n
+light,needs,clean out,y
+window,needs,boost,n
+window,needs,fitting,n
+window,needs,replaced,y
+window,needs,extending,n
+window,needs,repair,n
+window,needs,clean out,n
+window,needs,replacing,y
+line,needs,boost,n
+line,needs,fitting,n
+line,needs,replaced,n
+line,needs,extending,n
+line,needs,repair,n
+line,needs,resealing,n
+line,needs,clean out,n
+air conditioner,need,adjusting,y
+air conditioner,need,change out,y
+air conditioner,need,fitted,y
+roller,need,adjusting,y
+roller,need,cleaning,y
+roller,need,change out,y
+switches,need,cleaning,y
+switches,need,change out,y
+switches,need,fitted,n
+cutting edges,need,adjusting,y
+cutting edges,need,cleaning,y
+cutting edges,need,fitted,n
+tracks,need,cleaning,y
+tracks,need,change out,y
+tracks,need,fitted,n
+shaft,requires,tagging,n
+shaft,requires,testing,n
+line,requires,tagging,n
+line,requires,testing,n
+grease gauges,requires,tagging,n
+grease gauges,requires,testing,y
+lighting,requires,replacing,y
+STATE_AGENT_PATIENT_PATHS,,,
+cabin,missing,safety flag,n
+cabin,missing,bolt,n
+cabin,missing,fuel breather,n
+cabin,missing,fuel cap,n
+cabin,missing,cutting edge,n
+cabin,missing,flag,n
+cabin,missing,poppet valve,n
+seat,needs,loctite,y
+seat,needs,aerial,n
+air conditioner,needs,loctite,n
+air conditioner,needs,aerial,n
+clamps,needs,loctite,y
+clamps,needs,aerial,n
+am / fm radio,needs,loctite,n
+bolt,needs,aerial,n
+dust flap,needs,loctite,n
+dust flap,needs,aerial,n
+joystick,needs,loctite,n
+joystick,needs,aerial,n
+cabin,needs,loctite,n
+cabin,needs,aerial,y
+isolator,needs,loctite,n
+isolator,needs,aerial,n
+hose,needs,loctite,n
+hose,needs,aerial,n
+window frame,needs,loctite,y
+window frame,needs,aerial,n
+light,needs,loctite,n
+light,needs,aerial,n
+window,needs,loctite,n
+window,needs,aerial,n
+line,needs,loctite,n
+line,needs,aerial,n
+pin,no,grease lines,n
+radiator,blocked,dryer,n
+PROCESS_AGENT_PATIENT_PATHS,,,
+diverter valve,leak,dust,y
+fuel tank,leak,dust,n
+accumulator,leak,dust,n
+solenoid,leak,dust,n
+jacket water pump,leak,dust,n
+radiator,leak,dust,n
+engine,leak,dust,n
+oil cooler,leak,dust,n
+safety valve,leak,dust,n
+transmission,leak,dust,n
+pump,leak,dust,n
+radiator tank,leak,dust,n
+door,leak,dust,y
+high voltage slip ring,leak,dust,n
+swingbox,leak,dust,n
+cover plate,leak,dust,y
+differential,leak,dust,n
+air compressor,leak,dust,n
+pilot filter,leak,dust,n
+coupling,leak,dust,n
+hose,leak,dust,n
+exhaust,leak,dust,n
+diverter valve,leak,hydraulic oil,y
+fuel tank,leak,hydraulic oil,n
+accumulator,leak,hydraulic oil,n
+solenoid,leak,hydraulic oil,n
+jacket water pump,leak,hydraulic oil,n
+radiator,leak,hydraulic oil,n
+engine,leak,hydraulic oil,n
+oil cooler,leak,hydraulic oil,n
+safety valve,leak,hydraulic oil,y
+transmission,leak,hydraulic oil,n
+pump,leak,hydraulic oil,y
+radiator tank,leak,hydraulic oil,y
+door,leak,hydraulic oil,n
+high voltage slip ring,leak,hydraulic oil,n
+swingbox,leak,hydraulic oil,n
+cover plate,leak,hydraulic oil,n
+window,leak,hydraulic oil,n
+differential,leak,hydraulic oil,n
+air compressor,leak,hydraulic oil,n
+pilot filter,leak,hydraulic oil,n
+coupling,leak,hydraulic oil,y
+hose,leak,hydraulic oil,y
+exhaust,leak,hydraulic oil,n
+fuel tank,leak,oil,n
+accumulator,leak,oil,n
+solenoid,leak,oil,n
+jacket water pump,leak,oil,n
+radiator,leak,oil,y
+oil cooler,leak,oil,y
+safety valve,leak,oil,y
+radiator tank,leak,oil,n
+door,leak,oil,n
+high voltage slip ring,leak,oil,?
+window,leak,oil,n
+coupling,leak,oil,y
+hose,leak,oil,y
+exhaust,leak,oil,n
+diverter valve,leak,coolant,y
+fuel tank,leak,coolant,n
+accumulator,leak,coolant,n
+solenoid,leak,coolant,n
+radiator,leak,coolant,y
+safety valve,leak,coolant,y
+transmission,leak,coolant,n
+radiator tank,leak,coolant,y
+door,leak,coolant,n
+high voltage slip ring,leak,coolant,n
+swingbox,leak,coolant,n
+cover plate,leak,coolant,n
+window,leak,coolant,n
+differential,leak,coolant,n
+air compressor,leak,coolant,?
+pilot filter,leak,coolant,n
+coupling,leak,coolant,n
+hose,leak,coolant,y
+exhaust,leak,coolant,n
+diverter valve,leak,fuel,y
+fuel tank,leak,fuel,y
+accumulator,leak,fuel,n
+solenoid,leak,fuel,n
+jacket water pump,leak,fuel,n
+radiator,leak,fuel,n
+engine,leak,fuel,n
+oil cooler,leak,fuel,n
+safety valve,leak,fuel,y
+transmission,leak,fuel,n
+pump,leak,fuel,y
+radiator tank,leak,fuel,n
+door,leak,fuel,n
+high voltage slip ring,leak,fuel,n
+swingbox,leak,fuel,n
+cover plate,leak,fuel,n
+window,leak,fuel,n
+differential,leak,fuel,n
+air compressor,leak,fuel,n
+pilot filter,leak,fuel,n
+coupling,leak,fuel,n
+hose,leak,fuel,y
+exhaust,leak,fuel,n
+diverter valve,leak,grease,n
+fuel tank,leak,grease,n
+accumulator,leak,grease,n
+solenoid,leak,grease,n
+jacket water pump,leak,grease,n
+radiator,leak,grease,n
+engine,leak,grease,n
+oil cooler,leak,grease,n
+safety valve,leak,grease,n
+transmission,leak,grease,n
+pump,leak,grease,y
+radiator tank,leak,grease,n
+door,leak,grease,n
+swingbox,leak,grease,n
+cover plate,leak,grease,n
+window,leak,grease,n
+differential,leak,grease,n
+air compressor,leak,grease,n
+pilot filter,leak,grease,n
+coupling,leak,grease,y
+hose,leak,grease,y
+exhaust,leak,grease,n
+diverter valve,leak,air,y
+fuel tank,leak,air,n
+accumulator,leak,air,y
+solenoid,leak,air,y
+jacket water pump,leak,air,n
+radiator,leak,air,y
+engine,leak,air,n
+oil cooler,leak,air,n
+transmission,leak,air,n
+pump,leak,air,n
+radiator tank,leak,air,y
+high voltage slip ring,leak,air,n
+swingbox,leak,air,n
+cover plate,leak,air,n
+window,leak,air,y
+differential,leak,air,n
+air compressor,leak,air,y
+pilot filter,leak,air,n
+coupling,leak,air,n
+hose,leak,air,y
+exhaust,leak,air,?
+taps,leaking,dust,n
+lube hose,leaking,dust,n
+pilot valve,leaking,dust,n
+gasket,leaking,dust,n
+pump,leaking,dust,n
+hoist cylinder,leaking,dust,n
+scavenge pump,leaking,dust,n
+input seal,leaking,dust,n
+cooling return hose,leaking,dust,n
+steering hose,leaking,dust,n
+hmu,leaking,dust,n
+relief valves,leaking,dust,n
+chord,leaking,dust,n
+plug,leaking,dust,n
+filter,leaking,dust,n
+lube pump,leaking,dust,n
+tap,leaking,dust,n
+stick cylinders,leaking,dust,n
+safety valve,leaking,dust,n
+pressure compensator,leaking,dust,n
+accessory drive,leaking,dust,n
+bulk fuel tank,leaking,dust,n
+hoses,leaking,dust,n
+cooling hose,leaking,dust,n
+charge hose,leaking,dust,n
+centrifugal filter,leaking,dust,n
+drive,leaking,dust,n
+coolant hose,leaking,dust,n
+water separator,leaking,dust,n
+stick cylinder,leaking,dust,n
+air conditioner,leaking,dust,n
+hose,leaking,dust,n
+adaptor,leaking,dust,n
+implement pump,leaking,dust,n
+fitting,leaking,dust,n
+steering cylinder,leaking,dust,n
+hydraulic hose,leaking,dust,n
+lift cylinder,leaking,dust,n
+auto-greaser,leaking,dust,n
+duo-cone seals,leaking,dust,n
+relay valve,leaking,dust,n
+grease distributor,leaking,dust,n
+transfer pipe,leaking,dust,n
+accumulator,leaking,dust,n
+chip indicators,leaking,dust,n
+engine,leaking,dust,n
+line,leaking,dust,n
+pressure control valve,leaking,dust,n
+taps,leaking,coolant,n
+lube hose,leaking,coolant,n
+pilot valve,leaking,coolant,n
+gasket,leaking,coolant,y
+pump,leaking,coolant,y
+hoist cylinder,leaking,coolant,n
+scavenge pump,leaking,coolant,n
+input seal,leaking,coolant,y
+cooling return hose,leaking,coolant,y
+steering hose,leaking,coolant,n
+hmu,leaking,coolant,n
+seals,leaking,coolant,y
+relief valves,leaking,coolant,n
+chord,leaking,coolant,n
+plug,leaking,coolant,y
+filter,leaking,coolant,?
+lube pump,leaking,coolant,n
+tap,leaking,coolant,n
+stick cylinders,leaking,coolant,n
+safety valve,leaking,coolant,n
+pressure compensator,leaking,coolant,n
+accessory drive,leaking,coolant,n
+bulk fuel tank,leaking,coolant,n
+hoses,leaking,coolant,y
+cooling hose,leaking,coolant,y
+charge hose,leaking,coolant,y
+centrifugal filter,leaking,coolant,n
+drive,leaking,coolant,n
+coolant hose,leaking,coolant,y
+water separator,leaking,coolant,n
+stick cylinder,leaking,coolant,n
+air conditioner,leaking,coolant,y
+hose,leaking,coolant,y
+adaptor,leaking,coolant,n
+implement pump,leaking,coolant,n
+fitting,leaking,coolant,y
+steering cylinder,leaking,coolant,n
+hydraulic hose,leaking,coolant,n
+lift cylinder,leaking,coolant,n
+auto-greaser,leaking,coolant,n
+duo-cone seals,leaking,coolant,n
+relay valve,leaking,coolant,n
+grease distributor,leaking,coolant,n
+transfer pipe,leaking,coolant,n
+accumulator,leaking,coolant,n
+chip indicators,leaking,coolant,n
+engine,leaking,coolant,n
+line,leaking,coolant,y
+pressure control valve,leaking,coolant,n
+taps,leaking,air,n
+lube hose,leaking,air,n
+pilot valve,leaking,air,n
+gasket,leaking,air,y
+pump,leaking,air,n
+hoist cylinder,leaking,air,n
+scavenge pump,leaking,air,n
+input seal,leaking,air,y
+cooling return hose,leaking,air,n
+steering hose,leaking,air,n
+hmu,leaking,air,n
+seals,leaking,air,y
+relief valves,leaking,air,y
+plug,leaking,air,y
+filter,leaking,air,n
+lube pump,leaking,air,n
+tap,leaking,air,n
+stick cylinders,leaking,air,n
+safety valve,leaking,air,n
+pressure compensator,leaking,air,n
+accessory drive,leaking,air,n
+bulk fuel tank,leaking,air,n
+hoses,leaking,air,y
+cooling hose,leaking,air,n
+charge hose,leaking,air,n
+centrifugal filter,leaking,air,n
+drive,leaking,air,n
+coolant hose,leaking,air,n
+water separator,leaking,air,n
+stick cylinder,leaking,air,n
+air conditioner,leaking,air,n
+hose,leaking,air,y
+adaptor,leaking,air,y
+implement pump,leaking,air,n
+fitting,leaking,air,y
+steering cylinder,leaking,air,n
+hydraulic hose,leaking,air,n
+lift cylinder,leaking,air,n
+auto-greaser,leaking,air,n
+duo-cone seals,leaking,air,n
+relay valve,leaking,air,n
+grease distributor,leaking,air,n
+transfer pipe,leaking,air,n
+accumulator,leaking,air,y
+chip indicators,leaking,air,n
+engine,leaking,air,n
+pressure control valve,leaking,air,y
+taps,leaking,centrifugal oil filter,n
+lube hose,leaking,centrifugal oil filter,n
+pilot valve,leaking,centrifugal oil filter,n
+gasket,leaking,centrifugal oil filter,n
+pump,leaking,centrifugal oil filter,n
+hoist cylinder,leaking,centrifugal oil filter,n
+scavenge pump,leaking,centrifugal oil filter,n
+input seal,leaking,centrifugal oil filter,n
+cooling return hose,leaking,centrifugal oil filter,n
+steering hose,leaking,centrifugal oil filter,n
+hmu,leaking,centrifugal oil filter,n
+seals,leaking,centrifugal oil filter,n
+relief valves,leaking,centrifugal oil filter,n
+chord,leaking,centrifugal oil filter,n
+plug,leaking,centrifugal oil filter,n
+lube pump,leaking,centrifugal oil filter,n
+tap,leaking,centrifugal oil filter,n
+stick cylinders,leaking,centrifugal oil filter,n
+safety valve,leaking,centrifugal oil filter,n
+pressure compensator,leaking,centrifugal oil filter,n
+accessory drive,leaking,centrifugal oil filter,n
+bulk fuel tank,leaking,centrifugal oil filter,n
+hoses,leaking,centrifugal oil filter,n
+cooling hose,leaking,centrifugal oil filter,n
+charge hose,leaking,centrifugal oil filter,n
+centrifugal filter,leaking,centrifugal oil filter,n
+drive,leaking,centrifugal oil filter,n
+coolant hose,leaking,centrifugal oil filter,n
+water separator,leaking,centrifugal oil filter,n
+stick cylinder,leaking,centrifugal oil filter,n
+air conditioner,leaking,centrifugal oil filter,n
+hose,leaking,centrifugal oil filter,n
+adaptor,leaking,centrifugal oil filter,n
+implement pump,leaking,centrifugal oil filter,n
+fitting,leaking,centrifugal oil filter,n
+steering cylinder,leaking,centrifugal oil filter,n
+hydraulic hose,leaking,centrifugal oil filter,n
+lift cylinder,leaking,centrifugal oil filter,n
+auto-greaser,leaking,centrifugal oil filter,n
+duo-cone seals,leaking,centrifugal oil filter,n
+relay valve,leaking,centrifugal oil filter,n
+grease distributor,leaking,centrifugal oil filter,n
+transfer pipe,leaking,centrifugal oil filter,n
+accumulator,leaking,centrifugal oil filter,n
+chip indicators,leaking,centrifugal oil filter,n
+engine,leaking,centrifugal oil filter,n
+line,leaking,centrifugal oil filter,n
+pressure control valve,leaking,centrifugal oil filter,n
+taps,leaking,fuel,n
+lube hose,leaking,fuel,n
+pilot valve,leaking,fuel,n
+gasket,leaking,fuel,y
+pump,leaking,fuel,y
+hoist cylinder,leaking,fuel,n
+scavenge pump,leaking,fuel,n
+input seal,leaking,fuel,y
+cooling return hose,leaking,fuel,n
+steering hose,leaking,fuel,n
+hmu,leaking,fuel,n
+seals,leaking,fuel,y
+relief valves,leaking,fuel,n
+chord,leaking,fuel,n
+plug,leaking,fuel,y
+filter,leaking,fuel,y
+lube pump,leaking,fuel,n
+tap,leaking,fuel,n
+stick cylinders,leaking,fuel,n
+safety valve,leaking,fuel,n
+pressure compensator,leaking,fuel,n
+accessory drive,leaking,fuel,n
+bulk fuel tank,leaking,fuel,n
+hoses,leaking,fuel,y
+cooling hose,leaking,fuel,n
+charge hose,leaking,fuel,y
+centrifugal filter,leaking,fuel,n
+drive,leaking,fuel,n
+coolant hose,leaking,fuel,n
+stick cylinder,leaking,fuel,n
+air conditioner,leaking,fuel,n
+hose,leaking,fuel,y
+adaptor,leaking,fuel,n
+implement pump,leaking,fuel,n
+fitting,leaking,fuel,y
+steering cylinder,leaking,fuel,n
+hydraulic hose,leaking,fuel,n
+lift cylinder,leaking,fuel,n
+auto-greaser,leaking,fuel,n
+duo-cone seals,leaking,fuel,n
+relay valve,leaking,fuel,n
+grease distributor,leaking,fuel,n
+transfer pipe,leaking,fuel,n
+accumulator,leaking,fuel,n
+chip indicators,leaking,fuel,n
+engine,leaking,fuel,n
+line,leaking,fuel,y
+pressure control valve,leaking,fuel,n
+taps,leaking,oil,n
+lube hose,leaking,oil,y
+gasket,leaking,oil,y
+pump,leaking,oil,y
+hoist cylinder,leaking,oil,y
+scavenge pump,leaking,oil,n
+input seal,leaking,oil,y
+cooling return hose,leaking,oil,y
+steering hose,leaking,oil,y
+hmu,leaking,oil,?
+seals,leaking,oil,y
+relief valves,leaking,oil,n
+chord,leaking,oil,n
+plug,leaking,oil,y
+filter,leaking,oil,y
+lube pump,leaking,oil,y
+tap,leaking,oil,y
+stick cylinders,leaking,oil,y
+safety valve,leaking,oil,n
+pressure compensator,leaking,oil,n
+bulk fuel tank,leaking,oil,n
+hoses,leaking,oil,y
+cooling hose,leaking,oil,n
+charge hose,leaking,oil,y
+centrifugal filter,leaking,oil,n
+coolant hose,leaking,oil,n
+water separator,leaking,oil,n
+stick cylinder,leaking,oil,y
+hose,leaking,oil,y
+adaptor,leaking,oil,n
+implement pump,leaking,oil,y
+fitting,leaking,oil,y
+steering cylinder,leaking,oil,y
+hydraulic hose,leaking,oil,y
+lift cylinder,leaking,oil,y
+duo-cone seals,leaking,oil,n
+relay valve,leaking,oil,n
+grease distributor,leaking,oil,n
+transfer pipe,leaking,oil,y
+accumulator,leaking,oil,?
+chip indicators,leaking,oil,n
+line,leaking,oil,y
+pressure control valve,leaking,oil,n
+pressure compensator,weeping,hose,n
+exhaust,leaks,oil,n

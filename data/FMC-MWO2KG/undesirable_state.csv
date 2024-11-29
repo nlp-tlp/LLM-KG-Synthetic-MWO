@@ -1,0 +1,439 @@
+Event,Text,Failure Mode
+not working,<id> air conditioner thermostat not working
+unserviceable,<id> air conditioner thermostat unserviceable
+unserviceable,<id> air conditioner unserviceable
+unserviceable,<id> air conditioner unserviceable when stationary
+warm,<id> air conditioner warm
+plugged,<id> air filters plugged
+disconnected,<id> air horn disconnected
+doesn't work,<id> air horn doesn't work
+fault,<id> air horn fault
+not working,<id> air horn not working
+not working,<id> air horn not working compressor awaiting
+stuck on,<id> air horn stuck on
+unserviceable,<id> air horn unserviceable
+working intermittently,<id> air horn working intermittently
+not working,<id> airhorn not working
+doesn't work,<id> alarm on VIMS doesn't work
+on,<id> all dash lights on
+failed,<id> alternator failed
+not charging,<id> alternator not charging
+overcharge fault,<id> alternator overcharge fault
+fault,<id> alternator overcharge fault
+overcharged,<id> alternator overcharged
+failed,<id> analyse failed driveline component
+faults,<id> and <id> lube system faults
+unserviceable,<id> armrest unserviceable
+unserviceable,<id> auto-greaser unserviceable
+error,<id> auto-lube error PO
+not working,<id> auto-spray feature not working
+temperature fault,<id> axle temperature fault
+fault,<id> axle temperature fault
+fault,<id> axle temperature sensor fault
+unserviceable,<id> back rest unserviceable handle broken
+broken,<id> back rest unserviceable handle broken
+to be fixed,<id> backhoe windscreen to be fixed
+unserviceable,<id> backlight on dash unserviceable
+blown,<id> backlights on dash blown
+not working,<id> backup alarm not working
+out of service,<id> batteries out of service
+unserviceable,<id> batteries unserviceable
+seized,<id> battery cover hinges seized
+broken,<id> beacon mount is broken
+not working,<id> beacon not working
+unserviceable,<id> beacon unserviceable
+unserviceable,<id> bearing on air conditioner compressor unserviceable
+shot,<id> bearings are shot
+missing,<id> belly plate bolt missing
+bent,<id> bent belly plate
+blown,<id> blade light blown needs replacing
+needs,<id> blade light blown needs replacing
+cracked,<id> blade skin cracked
+worn,<id> blade wear plates cracked and worn
+cracked,<id> blade wear plates cracked and worn
+blown,<id> blown air conditioner hose
+blown,<id> blown air conditioner hose to radiator
+blown,<id> blown brake hose
+blown,<id> blown crowd cylinder hose
+blown,<id> blown extension line from position <num>
+blown,<id> blown hose in hitch
+blown,<id> blown hose on boom
+blown,<id> blown lift cylinder o-ring
+blown,<id> blown light on boom
+blown,<id> blown o-ring off steering hose
+blown,<id> blown o-ring on left hand lift cylinder
+blown,<id> blown o-ring on steering hose
+blown,<id> blown oil cooler hose - <num> x <num> <num> metre
+blown,<id> blown position <num> tyre
+blown,<id> blown right hand bucket cylinder hose
+blown,<id> blown steering hose
+blown,<id> blown steering pump hose
+broken,<id> boarding gate hinge broken
+not working,<id> boarding gate latch not working
+not working,<id> boarding ladder not working
+boost fault,<id> boost fault
+fault,<id> boost fault
+fault,<id> brake release fault
+release fault,<id> brake release fault
+error,<id> brake temperature error
+temperature error,<id> brake temperature error
+broken,<id> broken air conditioner guard
+broken,<id> broken clamp on crowd cylinder hose TBC
+broken,<id> broken fuel cooler mounts
+broken,<id> broken grease plug
+broken,<id> broken hinge
+broken,<id> broken joystick PO
+broken,<id> broken left hand side mirror
+broken,<id> broken mirror
+broken,<id> broken right hand side door window
+broken,<id> broken ripper tooth
+broken,<id> broken weld on handrail
+cracked,<id> bucket cracked in arch near cancelled
+cracked,<id> cabin door window cracked
+needs,<id> cabin needs resealing
+needs,<id> cabin seat needs replacing
+needs,<id> cabin window needs resealing
+fault,<id> camera fault
+popped,<id> carousel popped bolt needs Loctite
+needs,<id> carousel popped bolt needs Loctite
+fault,<id> centrifugal oil filter fault
+blown,<id> change out blown o-ring on steering pump
+blown,<id> change out blown position <num> tyre
+blown,<id> change out blown steering hose
+broken,<id> change out broken bolt on brake pump
+broken,<id> change out broken prelube bracket
+broken,<id> change out broken stabilizer bar
+cracked,<id> change out cracked pipe on valve bank
+cracked,<id> change out cracked position <num> adaptor and tooth
+broken,<id> change out exhaust clamp broken on left hand side [t |]
+cracked,<id> change out front upper window cracked
+worn out,<id> change out position <num> and <num> tyre worn out
+not reading,<id> change out position <num> tyre - sensor not reading
+damage,<id> change out position <num> tyre damage
+unserviceable,<id> change out unserviceable jacket water pump
+unserviceable,<id> change out unserviceable left hand bucket cylinder hose
+unserviceable,<id> change out unserviceable position <num> tyre
+unserviceable,<id> change out unserviceable right hand clam cylinder hose
+unserviceable,<id> change out unserviceable right hand tilt cylinder
+unserviceable,<id> change out unserviceable swing brake cylinder
+worn,<id> change out worn position <num> tyre
+flat,<id> change position <num> flat tyre
+damage,<id> change position <num> tyre damage text
+charging fault,<id> charging fault
+fault,<id> charging fault
+charge fault,<id> check for charge fault
+fault,<id> check for charge fault
+shutdown fault,<id> check repair shutdown fault
+fault,<id> check repair shutdown fault
+pressure fault,<id> chord pressure fault
+fault,<id> chord pressure fault
+unserviceable,<id> compressor oil pressure switch unserviceable
+fault,<id> contactor fault
+unserviceable,<id> control valve unserviceable see long text
+needs,<id> coolant pipe clamps needs fitting TBC
+cracked,<id> cords cracked at <id> and <id>
+cracked,<id> cracked front window
+cracked,<id> cracked fuel tank
+cracked,<id> cracked hydraulic pipe
+cracked,<id> cracked steering tank suction tube
+cracked,<id> cracked suction tube
+cracked,<id> cracked walkway and handrails
+error,<id> crankcase error
+loose,<id> cutting edges loose
+need,<id> cutting edges need change out
+damage,<id> damage to position <num> tyre
+damaged,<id> damaged position <num> tyre
+damaged,<id> damaged position <num> tyre and rim
+broken,<id> dash broken
+fault,<id> diagnose / repair fuel fault
+fuel fault,<id> diagnose / repair fuel fault
+slow,<id> diagnose / repair slow steering
+faults,<id> diagnose and repair spray faults
+error,<id> diagnose and repair torque converter temperature error
+temperature error,<id> diagnose and repair torque converter temperature error
+fault,<id> diagnose engine fault
+overheat fault,<id> diagnose transmission overheat fault
+fault,<id> diagnose transmission overheat fault
+slipping fault,<id> diagnose transmission slipping fault
+fault,<id> diagnose transmission slipping fault
+broken,<id> differential lock broken
+out,<id> dogbone pin out
+need,<id> dragline air conditioner units need cleaning
+broken,<id> drill out broken bolt see text
+broken,<id> driver's door top hinge broken
+fault,<id> drivers window fault
+electrical fault,<id> electrical fault
+fault,<id> electrical fault
+electrical fault,<id> electrical fault in the <id>
+fault,<id> electrical fault in the <id>
+electrical faults,<id> electrical faults
+faults,<id> electrical faults
+fault,<id> electrical harness fault
+fuel fault,<id> repair fuel fault
+fault,<id> repair fuel fault
+faulty,<id> replace faulty brake sensor <num> task
+not working,speedometer not working
+failed,<id> failed PTO and auxiliary drive PO
+tripped,drag tripped on electrical
+temperature error,<id> position <num> brake temperature error
+error,<id> position <num> brake temperature error
+not working,front revolving light not working
+out of date,fire extinguisher out of date
+wired incorrectly,hoist motor <num> RTD wired incorrectly
+won't start,machine won't start
+blown,<id> replace blown implement hose
+blown,<id> replace blown right hand steering hose
+not working,crane not working
+unserviceable,grease pump unserviceable
+unserviceable,transmission fill / drain plug unserviceable
+found,oil found in revolving frame
+fault,IOV fault on drag package
+unserviceable,rear through shaft universal joint unserviceable
+requires,all lighting requires testing and tagging
+excess play,steering cylinder bearings have excess play
+error,<num> volt supply error
+<num> volt supply error,<num> volt supply error
+supply error,<num> volt supply error
+unserviceable,<id> rear wiper motor unserviceable
+need,front right hand roller need to be fitted
+needs,main isolator needs clean out
+cracked,<id> replace transmission - cracked
+sounds continuously,<id> park brake alarm sounds continuously
+not working,system <id> pump pressure gauge not working
+unserviceable,<id> replace unserviceable differential drain plugs
+fault,<id> park brake alarm fault
+alarm fault,<id> park brake alarm fault
+fault,<id> investigate / repair no gear fault
+cracked,handrail above battery box cracked
+cracked,<id> front window cracked replace
+out,VIMS keypad light out
+fault,diagnose and repair ladder fault
+damaged,<id> replace damaged position <num> tyre and position <num>
+ground fault,ground fault welding board
+fault,ground fault welding board
+requires,<id> grease gauges requires replacing
+loose,<id> fire extinguisher bracket on deck loose
+fault,<id> trace logic box fault
+logic box fault,<id> trace logic box fault
+require,rear door struts require replacing
+not meshing,mechanical - PTO not meshing
+pressure fault,swing brake pressure fault
+fault,swing brake pressure fault
+no,<id> tail pulley has no grease lines
+missing,replace missing cutting edge
+cracked,<id> replace <num> x cracked windows
+fault,ground fault in propel
+ground fault,ground fault in propel
+fault,drag generator fault
+broken,parts washer pump broken
+blown,position <num> tyre blown
+fault,<id> grease system fault
+fault,<id> investigate auto-lube fault
+on,brake warning light on
+faulty,<id> faulty fuel pressure sensor
+worn,bottom steering shaft universal joint worn
+unserviceable,right hand bobbin roller unserviceable
+damaged,<id> replace damaged tyre on position <num>
+fault,<id> repair brake fault
+trip,synchronous motor <num> trip
+fault,walk motor <num> brake fault
+fault,<id> tray fault
+hydraulic fault,<id> investigate / repair hydraulic fault
+fault,<id> investigate / repair hydraulic fault
+require,steering hub caps require replacing
+cracked,bulk fuel tank cracked and leaking
+not counting,swing resolver not counting
+fault,<id> repair gear fault
+fault,<id> repair air conditioner and wiring fault
+damage,<id> replace damage auto-greaser door
+fault,swing resolver fault
+needs,<id> investigate / repair joystick needs repair
+fault,drag chain fault
+broken,<id> headboard welds broken / cracked
+cracked,<id> headboard welds broken / cracked
+need,hoist brake switches need adjusting
+worn,change out position <num> tyre worn
+unserviceable,cabin jacking cylinder ends unserviceable
+blown,<id> replace blown main pump hose
+need,tracks need adjusting
+cracked,<id> replace cracked transmission dropbox
+no excitation,no excitation on hoist
+broken,front window roller blind broken
+damaged,<id> replace position <num> tyre damaged
+unserviceable,cabin seat unserviceable needs replacing
+needs,cabin seat unserviceable needs replacing
+error,diagnose VIMS error
+mismatched,<id> replace position <num> tyre - mismatched
+out of adjustment,<id> hoist brake number <num> position out of adjustment
+requires,PTO shaft requires replacing
+missing,<id> - <id> missing poppet valve
+needs,<id> - AM / FM radio needs new aerial
+fault,<id> - Tele-Remote camera fault
+fault,<id> - Tele-Remote cameras fault - text -
+fault,<id> - Tele-Remote fault
+faults,<id> - Tele-Remote faults
+issues,<id> - Tele-Remote issues
+corroded,<id> - air conditioner compressor corroded
+unserviceable,<id> - air conditioner compressor unserviceable
+fault,<id> - air conditioner fault
+no good,<id> - air conditioner no good
+not working,<id> - air horn not working
+needs,<id> - brake hose needs to be replaced
+blown,<id> - change out blown hose
+broken,<id> - change out broken grease lines
+faulty,<id> - change out number <num> faulty injector assembly
+plugged,<id> - change out plugged fuel filters
+worn,<id> - change out worn ripper tip ripper tip
+broken,<id> - emergency gate latch broken
+blown,<id> - engine bay light blown
+shutdown fault,<id> - engine shutdown fault
+blown,<id> - front headlight blown
+missing,<id> - fuel breather missing
+missing,<id> - fuel cap is missing
+fail,<id> - grease system fail
+fault,<id> - grease system fault
+fault,<id> - ladder fault
+cracked,<id> - left hand corner bonnet cracked
+fault,<id> - low power fault
+low power fault,<id> - low power fault
+power fault,<id> - low power fault
+blown,<id> - lower left hand headlight blown
+fault,<id> - lube fault
+does not self assign,<id> - modular does not self assign
+no reception,<id> - no reception on AM / FM radio
+worn,<id> - operators seat worn padding
+fault,<id> - park brake fault
+fault,<id> - rectify low power fault
+low power fault,<id> - rectify low power fault
+power fault,<id> - rectify low power fault
+blown,<id> - repair blown air conditioner hose
+cracked,<id> - repair cracked steering tank mo
+fault,<id> - repair position <num> overstroke fault
+overstroke fault,<id> - repair position <num> overstroke fault
+fault,<id> - repair transmission fault
+fault,<id> - repair tray up fault
+tray up fault,<id> - repair tray up fault
+broken,<id> - repaired <num> x broken lines
+blocked,<id> - replace blocked dryer
+blown,<id> - replace blown hose
+blown,<id> - replace blown work lights
+broken,<id> - replace broken onside mirror
+cracked,<id> - replace cracked exhaust shield
+failed,<id> - replace failed air conditioner compressor
+broken,<id> - ripper shank broken
+fault,<id> <id> charge fault
+charge fault,<id> <id> charge fault
+shutdown fault,<id> <id> engine shutdown fault
+fault,<id> <id> engine shutdown fault
+intermittent fault,<id> <id> grease system has intermittent fault
+fault,<id> <id> grease system has intermittent fault
+no,<id> <id> steering pin no grease text
+temperature fault,<id> <id> transmission temperature fault
+fault,<id> <id> transmission temperature fault
+error,<id> <num> V supply error
+<num> V supply error,<id> <num> V supply error
+supply error,<id> <num> V supply error
+error,<id> <num> injector error
+error,<id> <num> v supply error
+<num> v supply error,<id> <num> v supply error
+supply error,<id> <num> v supply error
+error,<id> <num> v supply error issue
+<num> v supply error,<id> <num> v supply error issue
+supply error,<id> <num> v supply error issue
+broken,<id> Bradken to repair broken clam
+failed,<id> CW PTO universal joint failed
+snapped,<id> CW engine water pump snapped shaft
+failed,<id> CW transmission failed
+worn,<id> GET change out worn cutting edges
+fault,<id> Tele-Remote fault
+plugged,<id> VIMS fuel filter plugged
+broken,<id> aftercooler tank gauge broken
+temperature error,<id> aftercooler temperature error
+error,<id> aftercooler temperature error
+broken,<id> air conditioner belt broken
+not working,<id> air conditioner compressor not working
+unserviceable,<id> air conditioner fan unserviceable - fit new
+fault,<id> air conditioner fault
+needs,<id> air conditioner needs a boost not cold
+not cold,<id> air conditioner needs a boost not cold
+not cold,<id> air conditioner not cold PO
+electrical faults,<id> air conditioner not cold electrical faults
+not cold,<id> air conditioner not cold electrical faults
+faults,<id> air conditioner not cold electrical faults
+unserviceable,<id> air conditioner pressure switch unserviceable
+needs,number <num> right hand air brake line needs replacing
+unserviceable,[ shutdown ] vinyl flooring unserviceable
+not working,air conditioner fan speed resistor not working <num> and <num>
+blown,air brake line blown - requires replacing
+requires,air brake line blown - requires replacing
+no,batteries have no charge
+dropped,battery unserviceable dropped cell replace
+unserviceable,battery unserviceable dropped cell replace
+tight,blade control cable tight
+blown,blown air conditioner fuse
+broken,broken proximity sensor tag - carosell
+broken,broken wire on speaker
+not working,cabin side weightometer not working
+missing,cabin smoke detector missing
+broken,collect broken tooth
+melted,constant voltage transformer melted
+on,contamination alarm on
+cracked,cracked power point in cabin
+not working,dry cell not working properly <id>
+unserviceable,depth counter unserviceable
+not working,diagnose / repair right hand scoreboard not working
+not working,<sensitive> depth counter not working
+needs,dust flap on cabin side of mast needs extending
+not working,electric propel siren not working
+broken,earth wire broken on bottom of radiator
+damaged,equipment damaged ( terminal box )
+missing,flag missing
+broken,fuel filter water separator housing broken
+unserviceable,generator flow regulator unserviceable
+locked,heat up locked steels
+unserviceable,heater hose in cab roof unserviceable
+broken,ignition switch broken replace
+sticking,ignition switch sticking
+fault,investigate main transformer overload fault
+overload fault,investigate main transformer overload fault
+broken,key broken in ignition switch
+unserviceable,left hand chain guide unserviceable
+worn,left hand chain guide worn at the top
+unserviceable,left hand PTO pump chip sensor harness unserviceable
+unserviceable,microwave oven unserviceable
+on,number <num> pump contamination switch on
+unserviceable,number <num> slew pump contamination switch unserviceable
+low,position <num> pump cavity low
+broken,power step control cable broken
+unserviceable,pump drive box coupling and shaft unserviceable
+blocked,radiator blocked with grass
+unserviceable,radiator sight glasses unserviceable
+unserviceable,remove unserviceable air separator
+cracked,repair cracked baffle in hydraulic tank
+cracked,repair cracked roof skin left hand side exhaust
+faulty,repair faulty safety valve
+cracked,repair left hand scoreboard base cracked
+worn,repair worn centrifuge filter
+broken,replace broken earth terminal
+cracked,replace cracked glass in entry door
+cracked,replace cracked water separator
+seized,replace seized air conditioner control cable
+shorted,replace shorted diode RPC <num>
+unserviceable,replace unserviceable grease distributor
+unserviceable,replace unserviceable chip indicators
+unserviceable,replace unserviceable ignition switch
+unserviceable,replace unserviceable transmission screen and magnet
+cracked,rock breaker cracked
+cracked,rock breaker in bucket cracked at base
+missing,safety flag missing
+unserviceable,siren unserviceable
+not communicating,troubleshoot smart meter not communicating
+trip,transformer trip
+doesn't turn on,TV monitor doesn't turn on
+no signal,TV monitor has no signal
+fault,voltage regulator fuse fault
+unserviceable,weightometer display on trailer unserviceable
+unserviceable,will not start - batteries unserviceable
+will not start,will not start - batteries unserviceable
+needs,window frame needs repair
+unserviceable,wiper fuse unserviceable

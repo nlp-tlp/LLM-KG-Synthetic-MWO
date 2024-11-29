@@ -1,0 +1,7526 @@
+OU089	<id>
+Replace	replace
+a/c	air conditioner
+fan	fan
+switch	switch
+
+OU089	<id>
+REP	repair
+LOW	low
+ENGINE	engine
+POWER	power
+FAULT	fault
+
+XH531	<id>
+REPLACE	replace
+L/H	left hand
+LIFT	lift
+CYLINDER	cylinder
+
+LEVEL	level
+SENSOR	sensor
+
+BF079	<id>
+PARK	park
+BRAKE	brake
+RELEASE	release
+FAULT	fault
+
+AN426	<id>
+REWELD	reweld
+BROKEN	broken
+BUCKET	bucket
+TOOTH	tooth
+LUG	lug
+
+PH639	<id>
+REPAIR	repair
+OIL	oil
+LEAK	leak
+REMOTE	remote
+FILTER	filter
+
+PH639	<id>
+REP	replace
+FULL	full
+SET	set
+OF	of
+WINDOWS	windows
+
+HF338	<id>
+INVESTAGATE	investigate
+24V	<num> V
+FAULT	fault
+
+MB119	<id>
+REPL	replace
+ALL	all
+BUCKET	bucket
+TEETH	teeth
+
+XH531	<id>
+REPLACE	replace
+BLOWN	blown
+STEERING	steering
+HOSE	hose
+
+OQ524	<id>
+REPLACE	replace
+BLOWN	blown
+HYDRAULIC	hydraulic
+HOSE	hose
+
+XH531	<id>
+REPAIR	repair
+PARKBRAKE	park brake
+FAULT	fault
+
+CC708	<id>
+repair	repair
+wiring	wiring
+to	to
+lights	lights
+
+PH639	<id>
+REPL	replace
+CAB	cabin
+PRESSURISER	pressurizer
+
+AN426	<id>
+REPAIR	repair
+AIR	air
+CON	conditioner
+FAULT	fault
+
+BF079	<id>
+RENEW	renew
+BOOM	boom
+LIGHTS	lights
+L/H	left hand
+
+MB119	<id>
+-	-
+Change	change
+Out	out
+Wiper	wiper
+Motor	motor
+and	and
+Arms	arms
+
+CC708	<id>
+6109	<num>
+HR	hour
+SERVICE	service
+
+MB119	<id>
+REP	repair
+SHUTDOWN	shutdown
+FAULT	fault
+
+XH531	<id>
+REPAIR	repair
+COOLANT	coolant
+LEAK	leak
+
+ZW767	<id>
+-	-
+Weekly	weekly
+Tyre	tyre
+Inspections	inspections
+
+PH639	<id>
+WELD	weld
+HEEL	heel
+BLOCKS	blocks
+TO	to
+WEAR	wear
+STRIPS	strips
+
+BP504	<id>
+REPLACE	replace
+BLOWN	blown
+MAIN	main
+STEER	steering
+HOSE	hose
+
+FA	<id>
+622	
+FIT	fit
+AND	and
+WELD	weld
+PROTECTOR	protector
+WINGS	wings
+
+PH639	<id>
+REPLACE	replace
+POS	position
+1&2	<num> and <num>
+TYRES	tyres
+
+AN426	<id>
+REPLACE	replace
+POS	position
+1	<num>
+
+CR871	<id>
+REPL	replace
+BUCKET	bucket
+ASSEMBLY	assembly
+
+BF079	<id>
+REPL	replace
+POS	position
+5	<num>
+TYRE	tyre
+HEAT	heat
+SEPARATION	separation
+
+ZW767	<id>
+REPL	replace
+BUCKET	bucket
+GROUSER	grouser
+BAR	bar
+
+ZW767	<id>
+TRANS	transmission
+OVERHEATING	overheating
+
+AN426	<id>
+REPLACE	replace
+BROKEN	broken
+ALT	alternator
+BOLT	bolt
+
+HF338	<id>
+reposition	reposition
+dog	dogbone
+bone	
+collets	collets
+
+OU089	<id>
+REPLACE	replace
+CAB	cabin
+DOOR	door
+WINDOW	window
+
+PH639	<id>
+OIL	oil
+LEAK	leak
+HYD	hydraulic
+
+MB119	<id>
+REPAIRS	repairs
+TO	to
+IMPLIMENT	implement
+VALVE	valve
+
+JP367	<id>
+REPLACE	replace
+DIFF	differential
+COOLING	cooling
+HOSE	hose
+
+CR871	<id>
+replace	replace
+steering	steering
+lock	lock
+lever	lever
+spring	spring
+
+CR871	<id>
+SOS	SOS
+SAMPLE	sample
+ENGINE	engine
+SEE	see
+LONG	long
+TEXT	text
+
+XH531	<id>
+REPAIR	repair
+ENGINE	engine
+ECM	ECM
+FAULT	fault
+
+XH531	<id>
+REPAIR	repair
+CRACKS	cracks
+AROUND	around
+BUCKET	bucket
+STOPS	stops
+
+BF079	<id>
+ORDER	order
+SPARE	spare
+9661	<id>
+TYRES	tyres
+FOR	for
+24	<id>
+V	
+
+BF079	<id>
+REP	replace
+BROKEN	broken
+HINGE	hinge
+ON	on
+POS	position
+7	<num>
+GUARD	guard
+
+CR871	<id>
+Refit	refit
+RHR	right hand rear
+mudguard	mudguard
+&	and
+rubber	rubber
+hinge	hinge
+
+WJ525	<id>
+REPLACE	replace
+WEEPING	weeping
+COOLER	cooler
+GASKET	gasket
+
+XH531	<id>
+REPAIR	repair
+FRONT	front
+LIGHTS	lights
+
+MB119	<id>
+REPLACE	replace
+CIRCUIT	circuit
+BREAKER	breaker
+
+CR871	<id>
+PUCHASE	purchase
+UP	updated
+DATED	
+ET	ET
+PROGRAMS	programs
+and	and
+a	a
+
+CR871	<id>
+REPLACE	replace
+STEERING	steering
+CYLINDER	cylinder
+
+GS690	<id>
+REPL	replace
+WORN	worn
+TURBO	turbo
+ASSY	assembly
+
+JP367	<id>
+LOW	low
+ENGINE	engine
+POWER	power
+
+CC708	<id>
+REPL	replace
+BLOWN	blown
+IMPLEMENT	implement
+HOSE	hose
+
+AN426	<id>
+Replace	replace
+A/Cond	air conditioner
+condensor	condensor
+fan	fan
+
+CC708	<id>
+PARK	park
+BRAKE	brake
+FAULT	fault
+
+MB119	<id>
+mob	mobile
+teleremote	Tele-Remote
+commissioning	commissioning
+161X	<id>
+
+MB119	<id>
+CHECK	check
+AND	and
+REPAIR	repair
+AUTO	auto-greaser
+GREASER	
+UNIT	unit
+
+CR871	<id>
+REAR	rear
+LIGHT	light
+FAULT	fault
+
+NI73	<id>
+REPLACE	replace
+POS	position
+3	<num>
+TYRE	tyre
+
+MB119	<id>
+REPLACE	replace
+CORNER	corner
+BUCKET	bucket
+TEETH	teeth
+
+HF338	<id>
+REPLACE	replace
+BRAKE	brake
+ACCUMULATOR	accumulator
+
+MB119	<id>
+REPL	replace
+BLOWN	blown
+IMP	implement
+VALVE	valve
+HOSE	hose
+
+CR871	<id>
+ORDER	order
+WEAR	wear
+BARS	bars
+FOR	for
+BUCKET	bucket
+
+MB119	<id>
+REPL	replace
+A/C	air conditioner
+EVAP	evaporator
+FAN	fan
+ASSY	assembly
+
+PH639	<id>
+REPLACE	replace
+WIPER	wiper
+BLADE	blade
+ASSEMBLY	assembly
+
+CC708	<id>
+-	-
+Reshim	reshim
+Centre	centre
+Hitch	hitch
+Bearings	bearings
+
+FIT	fit
+POS1+2	position <num> and <num>
+TYRES	tyres
+TO	to
+JACKS	<sensitive>
+HIRE	
+LOADER	loader
+
+AN426	<id>
+REPAIR	repair
+LIGHTS	lights
+
+CR871	<id>
+REPLACE	replace
+TRANSMISSION	transmission
+TBC	TBC
+
+AN426	<id>
+REPL	replace
+STEERING	steering
+CONTROL	control
+LEVER	lever
+
+ORDER	order
+RECOVERY	recovery
+STROP	strap
+KEVLAR	Kevlar
+
+CC708	<id>
+REP	replace
+WINDOW	window
+SPRAYS	sprays
+&	and
+BOTTLE	bottle
+
+CC708	<id>
+CHANGE	change
+OUT	out
+ALTERNATOR	alternator
+
+AN426	<id>
+replace	replace
+rear	rear
+1/4	quarter
+glass	glass
+and	and
+seal	seal
+
+CC708	<id>
+REPL	replace
+CRACKED	cracked
+PIPE	pipe
+ON	on
+IMPLEMENT	implement
+VLV	valve
+
+HF338	<id>
+REPL	replace
+1/2	half
+ARROW	arrow
+ON	on
+BUCKET	bucket
+
+GU245	<id>
+REPLACE	replace
+ENGINE	engine
+OIL	oil
+FILLER	filler
+CAP	cap
+
+AN426	<id>
+L/H	left hand
+STEER	steering
+CYL	cylinder
+/CO	/ change
+
+MB119	<id>
+REPLACE	replace
+CROWD	crowd
+HOSE	hose
+
+PH639	<id>
+-	-
+Change	change
+Out	out
+Tyre	tyre
+Pos	position
+9	<num>
+
+MB119	<id>
+REPLACE	replace
+AIR	air
+FILTER	filter
+BASE	base
+
+CR871	<id>
+REPLACE	replace
+AXLE	axle
+COOLING	cooling
+PRESSURE	pressure
+SWIT	switch
+
+GU245	<id>
+REPLACE	replace
+BROKEN	broken
+CAM	cam
+FOLLOWER	follower
+ASSEMB	assembly
+
+LNO	LNO
+MB119	<id>
+REPLACE	replace
+POS	position
+8	<num>
+TYRE	tyre
+
+CR871	<id>
+Replace	replace
+pos	position
+5	<num>
+tyre	tyre
+
+CJ3174	<id>
+-	-
+teleremote	Tele-Remote
+issues	issues
+
+CC708	<id>
+MIDLIFE	mid-life
+REBUILD	rebuild
+BOYES	Boyes
+MECHANICAL	mechanical
+
+HF338	<id>
+3484	<num>
+HOURS	hours
+SERVICE	service
+
+BF079	<id>
+REPL	replace
+POS	position
+7	<num>
+TYRE	tyre
+DAMAGE	damage
+
+WJ525	<id>
+REPL	replace
+BENT	bent
+RHS	right hand side
+LIFT	lift
+CYLINDER	cylinder
+
+HF338	<id>
+INSTALL	install
+BYF	<id>
+89	
+SELF	self-rescuer
+RESCUER	
+
+CR871	<id>
+Blown	blown
+brake	brake
+hose	hose
+
+XH531	<id>
+RESEAL	reseal
+RIDE	ride
+CONTROL	control
+ACCUMULATOR	accumulator
+
+CR871	<id>
+AIRCON	air conditioner
+FAULT	fault
+
+PH639	<id>
+replace	replace
+faulty	faulty
+isolater	isolator
+not	not
+turnin	turning
+
+XH531	<id>
+REPL	replace
+BLOWN	blown
+O'RING	o-ring
+ON	on
+LIFT	lift
+CIRCUIT	circuit
+
+CC708	<id>
+inv	investigate
+brake	brake
+drag	drag
+fault	fault
+
+MB119	<id>
+REMOVE	remove
+AND	and
+CLEAN	clean
+RADIATOR	radiator
+
+ORDER	order
+WHEEL	wheel
+CHOCKS	chocks
+FOR	for
+W/SHOP	workshop
+
+CR871	<id>
+REPL	replace
+BUCKET	bucket
+HEEL	heel
+SHROUDS	shrouds
+
+CC708	<id>
+REPAIR	repair
+CRACKS	cracks
+IN	in
+BUCKET	bucket
+
+OQ524	<id>
+REPAIR	repair
+WIRING	wiring
+FAULT	fault
+
+CR871	<id>
+REPLACE	replace
+REAR	rear
+AFFF	AFFF
+ACTIVATION	activation
+POIN	point
+
+OU089	<id>
+REPL	replace
+L/H	left hand
+STEER	steering
+CYL	cylinder
+DAMAGED	damaged
+FITTING	fitting
+
+CC708	<id>
+REPAIR	repair
+TRANS	transmission
+PRESSURE	pressure
+SWITCH	switch
+
+AN426	<id>
+REPLACE	replace
+AIR	air
+CONDENSOR	condensor
+FANS	fans
+
+CC708	<id>
+BOILERMAKER	boilermaker
+REPAIRS	repairs
+
+CC708	<id>
+-	-
+Straighten	straighten
+Guard	guard
+
+XH531	<id>
+-	-
+8	<num>
+Weekly	weekly
+Scheduled	scheduled
+Servicing	servicing
+TBC	TBC
+
+OU089	<id>
+REP	replace
+POS2	position <num>
+BRAKE	brake
+PACK	pack
+
+JP367	<id>
+RESAMPLE	resample
+AND	and
+CHANGE	change
+FRT	front
+DIFF	differential
+OIL	oil
+
+ZW767	<id>
+REPLACE	replace
+POS	position
+3	<num>
+FLAT	flat
+TYRE	tyre
+
+BF079	<id>
+REPAIR	repair
+RIDE	ride
+CONTROL	control
+
+MH27	<id>
+Fab	fabricate
+cover	cover
+for	for
+impliment	implement
+valve	valve
+
+AN426	<id>
+RECHARGE	recharge
+AFFF	AFFF
+SYSTEM	system
+
+PH639	<id>
+REPACE	replace
+CROUD	crowd
+CYL	cylinder
+HOSE	hose
+
+XH531	<id>
+change	change
+faulty	faulty
+isolater	isolator
+
+GS690	<id>
+REPAIR	repair
+POS	position
+4	<num>
+GUARD	guard
+DAMAGE	damage
+
+CR871	<id>
+REP	repair
+GREASE	grease
+LINE-FAN	line - fan
+PULLEY	pulley
+TEXT	text
+
+GS690	<id>
+REMOVE	remove
+FRONT	front
+DIFF	differential
+FOR	for
+O/HAUL	overhaul
+
+MB119	<id>
+Straighten	straighten
+Wheel	wheel
+Arch/Guard	arch / guard
+Pos	position
+0	<num>
+
+XH531	<id>
+REPL	replace
+LEAKING	leaking
+BRAKE	brake
+PRESSURE	pressure
+SWITCH	switch
+
+PH639	<id>
+REPLACE	replace
+BLOWN	blown
+STEERING	steering
+HOSE	hose
+
+CC708	<id>
+REPLACE	replace
+CENTRE	centre
+DRIVE	drive
+LINE	line
+ASSY	assembly
+
+JP367	<id>
+REPLACE	replace
+CENTER	centre
+BEARING	bearing
+core	core
+
+GS690	<id>
+-	-
+5	<num>
+Weekly	weekly
+Scheduled	scheduled
+Servicing	servicing
+
+LNO	LNO
+PH639	<id>
+REPLACE	replace
+ALL	all
+BUCKET	bucket
+TEETH	teeth
+
+HF338	<id>
+REPLACE	replace
+PARK	park
+BRAKE	brake
+COIL	coil
+
+PH639	<id>
+INVEST	investigate
+TRANS	transmission
+FILLING	filling
+WITH	with
+HYD	hydraulic
+OIL	oil
+
+PH639	<id>
+REPL	replace
+2x	<num> x
+BRAKE	brake
+RELEASE	release
+HOSE'S	hoses
+
+AJY70134	<id>
+REP	replace
+WIRELESS	wireless
+COMS	communications
+ADAPTERS	adapters
+X2	x <num>
+
+AN426	<id>
+REPL	replace
+BLOWN	blown
+HOSE	hose
+
+MB119	<id>
+C/O	change out
+BLOWN	blown
+O	o-ring
+RING	
+ON	on
+STEER	steering
+PUMP	pump
+
+PH639	<id>
+DAILY	daily
+PREVENTATIVE	preventative
+MAINTENANCE	maintenance
+
+PH639	<id>
+900	<num>
+HOUR	hour
+SERVICE	service
+TBC	TBC
+
+R/H	right hand
+Steering	steering
+Cyl	cylinder
+Pin	pin
+&	and
+Brg	bearing
+
+XH531	<id>
+-	-
+59	<num>
+Weekly	weekly
+Scheduled	scheduled
+Servicing	servicing
+
+CR871	<id>
+STEERING	steering
+CONTROL	control
+LEAKING	leaking
+
+CC708	<id>
+REPL	replace
+FAILED	failed
+IMPLEMENT	implement
+PUMP	pump
+
+CC708	<id>
+REPAIR	repair
+WINDOW	window
+WASHERS	washers
+
+AN426	<id>
+BUCKET	bucket
+TEETHS	teeth
+WORN	worn
+
+CC708	<id>
+REPAIR	repair
+OIL	oil
+LEAK	leak
+NEAR	near
+ISOLATOR	isolator
+
+MB119	<id>
+REPLACE	replace
+PROFILE	profile
+BAR	bar
+
+JP367	<id>
+REPLACE	replace
+MISSING	missing
+CORNER	corner
+TOOTH	tooth
+
+PH639	<id>
+REPL	replace
+ENGINE	engine
+CIRCUIT	circuit
+BREAKERS	breakers
+
+BP504	<id>
+REPAIR	repair
+ALTERNATOR	alternator
+WIRING	wiring
+
+ZW767	<id>
+REPLACE	replace
+BATTERYS	batteries
+
+IY74494	<id>
+REPLACE	replace
+COMP	compatible
+BUCKET	bucket
+TEETH	teeth
+
+CR871	<id>
+-	-
+REPLACE	replace
+TYRES	tyres
+
+XH531	<id>
+INSPECT	inspect
+OIL	oil
+LEAK	leak
+
+CR871	<id>
+REBUILD	rebuild
+BUCKET	bucket
+IN	in
+W/SHJOP	workshop
+
+MOB	mobilize
+AK	<id>
+38	
+remove	remove
+&	annd
+repair	repair
+remote	remote
+units	units
+
+BF079	<id>
+tighten	tighten
+and	and
+secure	secure
+all	all
+fuel	fuel
+hoses	hoses
+
+CC708	<id>
+REPLACE	replace
+STERING	steering
+FLOW	flow
+SWITCH	switch
+
+BF079	<id>
+Repair	repair
+cracks	cracks
+x	x
+5	<num>
+in	in
+bucket	bucket
+floor	floor
+
+BF079	<id>
+REPLACE	replace
+AUTO	autogreaser
+GREASER	
+VENT	vent
+VALVE	valve
+
+BP504	<id>
+REPAIR	repair
+ROCK	rock
+DAMAGED	damaged
+HOSES	hoses
+
+CC708	<id>
+REPL	replace
+POS	position
+8	<num>
+TYRE	tyre
+HEAT	heat
+SEPERATION	separation
+
+XH531	<id>
+1	<num>
+MONTHLY	monthly
+MHS	MHS
+AUDIT	audit
+
+PH639	<id>
+REPLACE	replace
+RADIATOR	radiator
+
+CC708	<id>
+REPLACE	replace
+ALTERNATOR	alternator
+PULLEY	pulley
+&	and
+BELT	belt
+
+AN426	<id>
+CHANGE	change
+OUT	out
+POS	position
+9	<num>
+WHEEL	wheel
+END	end
+
+BF079	<id>
+REPL	replace
+BLOWN	blown
+TILT	tilt
+HOSE	hose
+
+JP367	<id>
+regas	regas
+ride	ride
+control	control
+
+PH639	<id>
+REPLACE	replace
+ALLBUCKET	all bucket
+TEETH	teeth
+
+MB119	<id>
+REPLACE	replace
+BATTERYS	batteries
+
+OQ524	<id>
+REPAIR	repair
+AFFF	AFFF
+AND	and
+CLEAN	clean
+OFF	off
+MUD	mud
+
+CR871	<id>
+REPLACE	replace
+FAULTY	faulty
+ALTERNATOR	alternator
+
+GU245	<id>
+RESEAL	reseal
+FUEL	fuel
+RAIL	rail
+
+BF079	<id>
+REPLACE	replace
+POS	position
+0	<num>
+TYRE	tyre
+
+XH531	<id>
+ALL	all
+STANDUPS	stand ups
+ON	on
+BONET	bonnet
+TOBE	to be
+CUT	cut
+OFF	off
+
+CR871	<id>
+Mid-Life	mid-life
+Overhaul	overhaul
+TBC	TBC
+
+OU089	<id>
+ENGINE	engine
+DERATING	derating
+
+NI73	<id>
+REPL	replace
+GREASE	grease
+LINE	line
+REAR	rear
+CROWD	crowd
+CYL	cylinder
+PIN	pin
+
+JP367	<id>
+-	-
+Change	change
+Out	out
+Tyre	tyre
+Pos	position
+3	<num>
+
+MB119	<id>
+REPLACE	replace
+TURBO	turbo
+TBC	TBC
+16/01	<date>
+
+CC708	<id>
+REPL	replace
+PROFILE	profile
+BAR	bar
+ON	on
+BUCKET	bucket
+
+MB119	<id>
+BLOWN	blown
+STEERING	steering
+PUMP	pump
+HOSE	hose
+
+OU089	<id>
+Replace	replace
+ABA	ABA
+switch	switch
+
+BP504	<id>
+REPLACE	replace
+ELBOW	elbow
+PAD	pad
+ON	on
+DOOR	door
+
+XH531	<id>
+REPLACE	replace
+FAN	fan
+HUB	hub
+BEARINGS	bearings
+
+CR871	<id>
+REPLACE	replace
+PURIFIER	purifier
+TBC	TBC
+
+CC708	<id>
+REPL	replace
+EVAPORATOR	evaporator
+FAN	fan
+ASSY	assembly
+
+GU245	<id>
+MINESITE	minesite
+GLASS	glass
+REPAIRS	repairs
+
+XH531	<id>
+REP	repair
+LHS	left hand side
+CROSS	crossover
+OVER	
+PIPES	pipes
+DAMAGE	damage
+
+BF079	<id>
+DAILY	daily
+PREVENTATIVE	preventative
+MAINTENANCE	maintenance
+
+OU089	<id>
+REPLACE	replace
+R/H	right hand
+LIFT	lift
+CYL	cylinder
+LEAKING	leaking
+
+MB119	<id>
+REPL	replace
+WORN	worn
+CORNER	corner
+BUCKET	bucket
+TEETH	teeth
+
+XH335	<id>
+REPLACE	replace
+POS	position
+0	<num>
+TYRE	tyre
+
+XH531	<id>
+RECTIFY	rectify
+GEAR	gear
+SELECTION	selection
+FAULT	fault
+
+lb611	<id>
+temp	temperature
+repairs	repairs
+to	to
+air	air
+con	conditioner
+comp	compressor
+mount	mount
+
+CR871	<id>
+FIT	fit
+AND	and
+WELD	weld
+PROTECTOR	protector
+WINGS	wings
+
+GU245	<id>
+REPLACE	replace
+ATMOSPHERIC	atmospheric
+SENSOR	sensor
+
+PH639	<id>
+REPAIR	repair
+LEAK	leak
+AT	at
+HYD	hydraulic
+TANK	tank
+
+OU089	<id>
+Repair	repair
+oil	oil
+leaks	leaks
+remote	remote
+block	block
+fron	front
+
+CC708	<id>
+P/BRAKE	park brake
+FAULT	fault
+
+BF079	<id>
+124	<num>
+HR	hour
+SERVICE	service
+
+EX01	<id>
+REPAIR	repair
+OIL	oil
+TRANSFER	transfer
+FAULT	fault
+
+BF079	<id>
+REPLACE	replace
+BLOWN	blown
+IMPLEMENT	implement
+HOSE	hose
+
+AN426	<id>
+replace	replace
+charge	charge
+valve	valve
+switch	switch
+
+CR871	<id>
+REPLACE	replace
+LH	left hand
+LIFT	lift
+CYL	cylinder
+HOSE	hose
+
+PH639	<id>
+REPLACE	replace
+COOLANT	coolant
+LEVEL	level
+SENSOR	sensor
+
+AN426	<id>
+REPLACE	replace
+CORNER	corner
+BUCKET	bucket
+TEETH	teeth
+
+CC708	<id>
+REPLACE	replace
+DOGBONE	dogbone
+COLLET	collet
+BUNGS	bungs
+
+CR871	<id>
+AIR	air
+CON	conditioner
+INOP	inoperable
+
+MB119	<id>
+REPAIR	repair
+LIGHTS&WIRING	lights and wiring
+
+PH639	<id>
+CHECK/REP	check / repair
+ENGINE	engine
+OIL	oil
+PRESS	pressure
+FAULT	fault
+
+CR871	<id>
+REPAIR	repair
+A/CON	air conditioner
+FAULT	fault
+
+OQ524	<id>
+Replace	replace
+op	operators
+seat	seat
+
+CR871	<id>
+REAPLACE	replace
+BOTH	both
+CORNER	corner
+TEETH	teeth
+
+OU089	<id>
+REPAIR	repair
+LEAKING	leaking
+TURBO	turbo
+DRAIN	drain
+PIPE	pipe
+
+AN426	<id>
+REPLACE	replace
+PILOT	pilot
+PRESSURE	pressure
+CONTROL	control
+VLV	valve
+
+WJ525	<id>
+REPL	replace
+HYDRAULIC	hydraulic
+HOSE	hose
+
+CR871	<id>
+replace	replace
+cooler	cooler
+hoses	hoses
+
+WEEKLY	weekly
+LOADER	loader
+FLEET	fleet
+TYRE	tyre
+INSPECTION	inspection
+
+GU245	<id>
+REPLACE	replace
+ENGINE	engine
+
+CC708	<id>
+REP	replace
+NOISY	noisy
+LIFT	lift
+CYL	cylinder
+BEARINGS	bearings
+
+BP504	<id>
+REPLACE	replace
+CENTRE	centre
+Drive	driveline
+Line	
+
+WEEKLY	weekly
+LOADER	loader
+FLEET	fleet
+TYRE	tyre
+&	and
+RIM	rim
+REPAIRS	repairs
+
+CR871	<id>
+REPLACE	replace
+WIPER	wiper
+SWITCH	switch
+KNOBS	knobs
+
+BF079	<id>
+REPLACE	replace
+FAILED	failed
+UPPER	upper
+DRIVESHAFT	driveshaft
+
+LD05	<id>
+REPLACE	replace
+BRAKE	brake
+HOSE	hose
+
+HF338	<id>
+REP	repair
+OIL	oil
+LEAK	leak
+
+PH639	<id>
+REPLACE	replace
+BLOWN	blown
+HOSES	hoses
+
+JP367	<id>
+rep	repair
+throttle	throttle
+fault	fault
+
+ZW767	<id>
+RIDE	ride
+CONTROL	control
+FAULT	fault
+
+PH639	<id>
+REP	repair
+DAMAGED	damaged
+POS3	position <num>
+GAURD	guard
+
+PH639	<id>
+Inspect	inspect
+Centre	centre
+hitch	hitch
+for	for
+wear	wear
+
+OU089	<id>
+REPLACE	replace
+BONNET	bonnet
+HINGES	hinges
+
+AN426	<id>
+REPL	replace
+BLOWN	blown
+O'RING	o-ring
+ON	on
+IMPL	implement
+VALVE	valve
+
+MB119	<id>
+CHANGE	change
+OUT	out
+POS	position
+8	<num>
+TYRE	tyre
+
+HF338	<id>
+0	<num>
+Weekly	weekly
+Scheduled	scheduled
+Service	service
+
+AN426	<id>
+REPAIR	repair
+OIL	oil
+LEAK	leak
+
+XH531	<id>
+REPAIR	repair
+WIRING	wiring
+FAULT	fault
+WITH	with
+E	emergency-stop
+STOP	
+
+PH639	<id>
+REPL	replace
+A/C	air conditioner
+COMPRESSOR	compressor
+
+AN426	<id>
+Replace	replace
+Turbo	turbo
+feed	feed
+line	line
+
+PH639	<id>
+Damage	damage
+to	to
+pos	position
+7	<num>
+tyre	tyre
+
+XH531	<id>
+CHANGE	change
+OUT	out
+POS	position
+2	<num>
+WHEEL	wheel
+END	end
+
+PH639	<id>
+REPL	replace
+L/H	left hand
+LIFT	lift
+CYL	cylinder
+HOSE	hose
+
+CR871	<id>
+REPLACE	replace
+BRAKE	brake
+SWITCH	switch
+TEXT	text
+
+MB119	<id>
+Inspect	inspect
+brake	brake
+cooling	cooling
+filters	filters
+for	for
+
+MB119	<id>
+REPL	replace
+BOTH	both
+CORNER	corner
+TEETH	teeth
+
+CR871	<id>
+REPLACE	replace
+TRANS	transmission
+SHIFT	shift
+CONTROL	control
+
+BF079	<id>
+REPLACE	replace
+BLOWN	blown
+GREASE	grease
+LINE	line
+
+PH639	<id>
+REPAIR	repair
+ROCKFALL	rockfall
+DAMAGE	damage
+
+WJ525	<id>
+REPL	replace
+BLOWN	blown
+HOSE	hose
+
+PH639	<id>
+REPL	replace
+R/H	right hand
+LIFT	lift
+CYL	cylinder
+
+MB119	<id>
+Rep	replace
+leaking	leaking
+R/H	right hand
+steering	steering
+cylinder	cylinder
+
+MB119	<id>
+REPL	replace
+A/C	air conditioner
+COMPRESSOR	compressor
+
+CC708	<id>
+-	-
+42	<num>
+Weekly	weekly
+Scheduled	scheduled
+Servicing	servicing
+
+W/Q71	<id>
+1W	<num> week
+Remotes	remotes
+Maintenance	maintenance
+
+ALL	all
+ULO	ULO
+-INS	- install
+AFFF	AFFF
+PRESSURE	pressure
+SWITCHES	switches
+
+MB119	<id>
+REPAIR	repair
+OIL	oil
+LEAK	leak
+-	-
+DIFF	differential
+COOLER	cooler
+
+BF079	<id>
+INV	investigate
+PARK	park
+BRAKE	brake
+FAULT	fault
+
+AN426	<id>
+REPLACE	replace
+CAB	cabin
+BLOWER	blower
+FAN	fan
+
+XH531	<id>
+REPL	replace
+REAR	rear
+TRANS	transmission
+MOUNTS	mounts
+
+CC708	<id>
+REPAIR	repair
+PARK	park
+BRAKE	brake
+FAULT	fault
+
+BP504	<id>
+REPLACE	replace
+GET	GET
+
+ALG	<id>
+CC708	<id>
+RIDE	ride
+CONTROL	contrrol
+ACCUM	accumulator
+TBC	TBC
+
+CC708	<id>
+REPAIR	repair
+LOW	low
+HYD	hydraulic
+POWER	power
+FAULT	fault
+
+PH639	<id>
+REPAIR	repair
+TRANS	transmission
+TEMP	temperature
+SENDER	sender
+
+MB119	<id>
+REPL	replace
+RIDE	ride
+CONTROL	control
+ACCUMULATOR	accumulator
+
+AN426	<id>
+REPLACE	replace
+WIPER	wiper
+MOTOR	motor
+
+BF079	<id>
+REPLACE	replace
+LIFT	lift
+CYL	cylinder
+CROSS	crossover
+OVER	
+PIPES	pipes
+
+CR871	<id>
+REPL	replace
+POS	position
+8	<num>
+TYRE	tyre
+
+CR871	<id>
+L/H	left hand
+STEERING	steering
+CYL	cylinder
+LEAKING	leaking
+TBC	TBC
+
+MB119	<id>
+REPL	replace
+ARM	arm
+PAD	pad
+IN	in
+CAB	cabin
+
+mob	mobilize
+HF338	<id>
+commission	commission
+tele	Tele-Remotes
+remotes	
+
+CR871	<id>
+REPAIR	repair
+TRANS	transmission
+OIL	oil
+LEAK	leak
+
+PH639	<id>
+REPAIR	repair
+COOLANT	coolant
+LEVEL	level
+FAULT	fault
+
+XH531	<id>
+FIT	fit
+SHIM'S	shims
+REMOVE	remove
+LATERAL	lateral
+MOVEMENT	movement
+
+OQ524	<id>
+regas	regas
+ride	ride
+control	control
+
+OU089	<id>
+REPLACE	replace
+ALL	all
+9	<num>
+TYRES	tyres
+
+OQ524	<id>
+REPAIR	repair
+AIR	air
+CON	conditioner
+
+CR871	<id>
+REPLACE	replace
+WORN	worn
+CROUD	crowd
+CYLINDER	cylinder
+HOSE	hose
+
+CC708	<id>
+REPLACE	replace
+MAIN	main
+STEERING	steering
+PUMP	pump
+core	core
+re	return
+
+XH531	<id>
+INSPECT	inspect
+FUEL	fuel
+LINES	lines
+SEE	see
+TEXT	text
+
+CR871	<id>
+647	<num>
+HR	hour
+PREVENTATIVE	preventative
+MAINTENANCE	maintenance
+
+AN426	<id>
+REPL	replace
+STARTER	starter
+MOTOR	motor
+
+CC708	<id>
+REPL	replace
+WATER	water
+PUMP	pump
+BYPASS	bypass
+HOSE	hose
+TBC	TBC
+
+PH639	<id>
+Repl	replace
+Air	air
+intake	intake
+tube	tube
+and	and
+hoses	hoses
+
+OU089	<id>
+REPLACE	replace
+TURBO	turbo
+INLET	inlet
+HOSE	hose
+
+PH639	<id>
+REPLACE	replace
+TILT	tilt
+CYL	cylinder
+HOSE	hose
+
+AN426	<id>
+Radiator	radiator
+Mounts	mounts
+
+NL323	<id>
+REPLACE	replace
+ALTERNATOR	alternator
+
+BP504	<id>
+C/O	change out
+POS	position
+8	<num>
+TYRE	tyre
+
+XH531	<id>
+REPLACE	replace
+REAR	rear
+DOOR	door
+HINGE	hinge
+PINS	pins
+
+CC708	<id>
+REPLACE	replace
+ALTERNATOR	alternator
+
+MB119	<id>
+Replace	replace
+mud	mud
+flaps	flaps
+
+HF338	<id>
+9	<num>
+MONTHLY	monthly
+MHS	MHS
+AUDIT	audit
+
+AN426	<id>
+REP	repair
+LEAK	leak
+AT	at
+TRANSFER	transfer
+PUMP	pump
+
+AN426	<id>
+Replace	replace
+lift	lift
+cylinder	cylinder
+pins	pins
+&	and
+brgs	bearings
+
+OQ524	<id>
+TRANS	transmission
+OIL	oil
+BURNT	burnt
+
+CR871	<id>
+WELD	weld
+BLOCKS	blocks
+TO	to
+BUCKET	bucket
+HEELS	heels
+
+ANL	<id>
+0544	
+REPAIR/	repair /
+REP	replace
+FOX	<sensitive>
+ET	ET
+COMMUNICATOR	communicator
+
+CR871	<id>
+REPLACE	replace
+POS	position
+6	<num>
+TYRE	tyre
+
+XH531	<id>
+REPLACE	replace
+L/H	left hand
+FRONT	front
+WHEEL	wheel
+GROUP	group
+
+HF338	<id>
+remote	remote
+throttle	throttle
+fault	fault
+
+GS690	<id>
+REP	repair
+COOLANT	coolant
+LEAK	leak
+
+MB119	<id>
+REPAIR	repair
+TURBO	turbo
+OIL	oil
+SUPPLY	supply
+LINE	line
+
+PH639	<id>
+REPAIR	repair
+COVER	cover
+FOR	for
+HYDRALIC	hydraulic
+FILTERS	filters
+
+XH531	<id>
+REPAIR	repair
+LEAK	leak
+FROM	from
+TRANS	transmission
+
+BF079	<id>
+repair	repair
+z	Z-link
+link	
+grease	grease
+lines	lines
+
+SUPPLY	supply
+STICKERS	stickers
+FOR	for
+FRCP	FRCP
+ISOLATORS	isolators
+
+JP367	<id>
+REPAIR	repair
+POS	position
+7	<num>
+INNER	inner
+SKIN	skin
+
+JP367	<id>
+REPLACE	replace
+DAMAGED	damaged
+WINDOW	window
+
+BF079	<id>
+CHANGE	change
+OUT	out
+HYDRAULIC	hydraulic
+COOLER	cooler
+
+AN426	<id>
+REPLACE	replace
+HYDRAULIC	hydraulic
+TANK	tank
+SIGHT	sight
+GLASS	glass
+
+BF079	<id>
+CHANGE	change
+OUT	out
+RADIATOR`	radiator
+
+HF338	<id>
+REPIAR	repair
+WIRE	wire
+TO	to
+ALTERNATOR	alternator
+
+HF338	<id>
+REPL	replace
+REAR	rear
+GUARD	guard
+
+ZA339	<id>
+REPLACE	replace
+POS	position
+1	<num>
+TYRE	tyre
+
+WJ525	<id>
+CHECK/REP	check / repair
+ENGINE	engine
+OIL	oil
+LEAK	leak
+
+CR871	<id>
+REPLACE	replace
+ALTERNATOR	alternator
+BELTS	belts
+
+XH531	<id>
+CHANGE	change
+OUT	out
+TRUNNION	trunnion
+BEARINGS	bearings
+
+AN426	<id>
+REPLACE	replace
+UNI'S	universal joints
+ON	on
+REAR	rear
+DRIVELINE	driveline
+
+AN426	<id>
+-	-
+Scheduled	scheduled
+Servicing	servicing
+
+OQ524	<id>
+REPLACE	replace
+FAULTY	faulty
+STARTER	starter
+MOTOR	motor
+
+BF079	<id>
+QUOTE	quote
+FOR	for
+REPAIR	repair
+OF	of
+RIMS	rims
+
+MB119	<id>
+-	-
+Weekly	weekly
+Tyre	tyre
+&	and
+Rim	rim
+Repairs	repairs
+
+XH531	<id>
+REPLACE	replace
+TRANSMISSION	transmission
+
+WJ525	<id>
+REPL	replace
+RIDE	ride
+CONTROL	control
+ACCUMULATOR	accumulator
+
+ZW767	<id>
+REGAS	regas
+RIDE	ride
+CONTROL	control
+AND	and
+CHECK	check
+OPP	operation
+
+AN426	<id>
+-	-
+3	<num>
+Weekly	weekly
+PIPECO	<sensitive>
+Hose	hose
+Repairs	repairs
+
+XH531	<id>
+REPL	replace
+AIR	air
+FILTER	filter
+RESTRIC	restriction
+LIGHT	light
+ON	on
+
+CR871	<id>
+replace	replace
+blown	blown
+lift	lift
+'o'	o-ring
+ring	
+
+XH531	<id>
+REPAIR	repair
+HYDRAULIC	hydraulic
+OIL	oil
+LEAK	leak
+
+MB119	<id>
+ENGINE	engine
+FEUL	fuel
+TRANSFER	transfer
+PUMP	pump
+FAULT	fault
+
+CR871	<id>
+631	<num>
+HR	hour
+PREVENTATIVE	preventative
+MAINTENANCE	maintenance
+
+JP367	<id>
+REPL	replace
+DAMAGED	damaged
+QUARTER	quarter
+WINDOW	window
+
+CR871	<id>
+REPAIR	repair
+HYD	hydraulic
+LEAK	leak
+
+PH639	<id>
+REPLACE	replace
+AXLE	axle
+COOLING	cooling
+PRES	pressure
+SWITCH	switch
+
+MB119	<id>
+CHANGE	change
+OUT	out
+TRANSMISSION	transmission
+
+JP367	<id>
+AIR	air
+CON	conditioner
+NOT	not
+WORKING	working
+
+CR871	<id>
+REPL	replace
+LEAKING	leaking
+CAB	cabin
+STEERING	steering
+HOSES	hoses
+
+PH639	<id>
+R/H	right hand
+BUCKET	bucket
+PIN	pin
+WALKING	walking
+OUT	out
+
+XH531	<id>
+REPAIR	repair
+OIL	oil
+LEAK	leak
+IN	in
+ARTIC	Artic
+
+CR871	<id>
+REPAIR	repair
+R/H	right hand
+BUCKET	bucket
+CORNER	corner
+
+PH639	<id>
+DRILL	drill
+OUT	out
+BROKEN	broken
+BOLT	bolt
+SEE	see
+TEXT	text
+
+AN426	<id>
+Replace	replace
+Bucket	bucket
+Pins	pins
+&	and
+Bushes	bushes
+
+BF079	<id>
+INSTALL	install
+BYF	<id>
+89	
+SELF	self-rescuer
+RESCUER	
+
+CR871	<id>
+REPL	replace
+MOUNTING	mounting
+BOLTS	bolts
+FOR	for
+TRANS	transmission
+COOL	cooler
+
+GS690	<id>
+TJH	<id>
+9588	
+REP	repair
+CENTRE	centre
+DRIVE	driveline
+LINE	
+TBC	TBC
+
+ZW767	<id>
+REPAIR	repair
+START	start
+FAULT	fault
+
+OU089	<id>
+-	-
+4	<num>
+Weekly	weekly
+Scheduled	scheduled
+Servicing	servicing
+
+GS690	<id>
+865	<num>
+HR	hour
+PREVENTATIVE	preventative
+MAINTENANCE	maintenance
+
+XH531	<id>
+Setup	set-up
+auto	auto
+greasing	greasing
+system	system
+
+STEER	steering
+HOSES	hoses
+
+ZW767	<id>
+REPL	replace
+POS	position
+3	<num>
+TYRE	tyre
+SEPERATION	separation
+
+OV	<id>
+433	<id>
+REPLACE	replace
+HORN	horn
+
+HF338	<id>
+REPL	replace
+L/H	left hand
+LIFT	lift
+CYL	cylinder
+TUBE	tube
+
+WO539	<id>
+REPLACE	replace
+DAMAGED	damaged
+POS	position
+0	<num>
+TYRE	tyre
+
+CC708	<id>
+-	-
+SUPPLY	supply
+Q3782O	<id>
+TYRES	tyres
+
+BF079	<id>
+REPLACE	replace
+TRANS	transmission
+NUTRALISER	neutralizer
+SWITCH	switch
+
+MB119	<id>
+Replace	replace
+Bonnet	bonnet
+Hinge	hinge
+Rusted	rusted
+
+OU089	<id>
+REPL	replace
+BLOWN	blown
+HOSES	hoses
+FROM	from
+DOOR	door
+TO	to
+CAB	cabin
+
+BF079	<id>
+REPLACE	replace
+E	emergency-stop
+STOP	
+
+MB119	<id>
+-	-
+Replace	replace
+Leaking	leaking
+Steering	steering
+Cyl	cylinder
+
+CC708	<id>
+REPL	replace
+RIDE	ride
+CONTROL	control
+TRANSFER	transfer
+PIPE	pipe
+
+CR871	<id>
+TEST	test
+FOR	for
+ENG/OIL	engine / oil
+PRESSURE	pressure
+FAULT	fault
+
+CR871	<id>
+Replace	replace
+alternator	alternator
+belts	belts
+
+CR871	<id>
+REPLACE	replace
+L/H	left hand
+STEER	steering
+CYLINDER	cylinder
+
+JP367	<id>
+REPLACE	replace
+POS	position
+4	<num>
+TYRE	tyre
+
+CR871	<id>
+C/O	change out
+POS	position
+7	<num>
+TYRE	tyre
+
+XH531	<id>
+REPLACE	replace
+FAN	fan
+BELT	belt
+
+C/O	change out
+L/HS	left hand side
+STEERING	steering
+HOSE	hose
+
+CC708	<id>
+CUT	cut
+L/H	left hand
+BATWING	batwing
+OFF	off
+
+AN426	<id>
+REPLACE	replace
+CAB	cabin
+PRESSURISER	pressurizer
+
+PH639	<id>
+check	check
+why	why
+fan	fan
+belts	belts
+siezed	seized
+should	should
+
+CC708	<id>
+REPLACE	replace
+ALL	all
+TYRES	tyres
+TBC	TBC
+
+CC708	<id>
+REPAIR	repair
+DAMAGED	damaged
+POS	position
+7	<num>
+MUDGUARD	mudguard
+
+MB119	<id>
+REMOTE	remote
+SERVICING	servicing
+
+CR871	<id>
+REP	repair
+ELECTRICAL	electrical
+FAULT	fault
+
+CR871	<id>
+REPLACE	replace
+WORN	worn
+TEETH	teeth
+
+XH531	<id>
+REP	repair
+BROKEN	broken
+HANDLE	handle
+POS	position
+9	<num>
+GUARD	guard
+
+OU089	<id>
+-	-
+0	<num>
+Weekly	weekly
+PIPECO	<sensitive>
+Hose	hose
+Repairs	repairs
+
+CR871	<id>
+-	-
+1	<num>
+Weekly	weekly
+PIPECO	<sensitive>
+Hose	hose
+Repairs	repairs
+
+AN426	<id>
+REPLACE	replace
+BLOWN	blown
+ORING	o-ring
+IN	in
+CENTER	centre
+HITC	hitch
+
+OU089	<id>
+REPL	replace
+LOWER	lower
+RAD	radiator
+MOUNT	mount
+BOLTS	bolts
+
+PH639	<id>
+REPL	replace
+MANIFOLD	manifold
+ON	on
+IMPLEMENT	implement
+VALVE	valve
+
+BP504	<id>
+REPLACE	replace
+DAMAGED	damaged
+TYRE	tyre
+POS2	position <num>
+
+PH639	<id>
+WATER	water
+PUMP	pump
+
+OU089	<id>
+REPAIR	repair
+AIR/CON	air conditioner
+UNIT	unit
+
+CR871	<id>
+SECURE	secure
+EXHAUST	exhaust
+COVER	cover
+
+CC708	<id>
+MODEL	model
+LOADERS	loaders
+
+BF079	<id>
+REPL	replace
+LIFT	lift
+CYL	cylinder
+CROSS	crossover
+OVER	
+PIPES	pipes
+
+CR871	<id>
+TIGHTEN	tighten
+FITTING	fitting
+ON	on
+ACCUMULATOR	accumulator
+
+AN426	<id>
+FIT	fit
+UP	up
+KIDNEY	kidney
+LOOP	loop
+HOSING&FITTINGS	hoses and fittings
+
+MB119	<id>
+REPLACE	replace
+OIL	oil
+COOLER	cooler
+LOCK	lock
+PINS	pins
+
+ZW767	<id>
+REP	replace
+ELEC	electrical
+FEED	feed
+TO	to
+2WAY	two-way
+
+CC708	<id>
+-	-
+6	<num>
+Weekly	weekly
+Scheduled	scheduled
+Servicing	servicing
+
+MB119	<id>
+REPL	replace
+AUTO	auto-lube
+LUBE	
+
+AN426	<id>
+REPLACE	replace
+LH	left hand
+CRACKED	cracked
+1/4	quarter
+WINDOW	window
+
+PH639	<id>
+REPLACE	replace
+A/C	air conditioner
+CONDENSOR	condensor
+
+OQ524	<id>
+replace	replace
+air	air
+intake	intake
+pre-cleaner	pre-cleaner
+
+XH531	<id>
+REPLACE	replace
+CRNR	corner
+TEETH	teeth
+
+XH531	<id>
+-	-
+Change	change
+Out	out
+Bucket	bucket
+GET	GET
+
+OQ524	<id>
+RADIATOR	radiator
+FAN	fan
+REPAIR	repair
+
+MB119	<id>
+REPL	replace
+CROWD	crowd
+CYL	cylinder
+HOSE	hose
+
+CR871	<id>
+DAMAGED	damaged
+L/H	left hand
+REAR	rear
+MUD	mud
+GAURD	guard
+
+OU089	<id>
+TEST	test
+FOR	for
+ENGINE	engine
+MISFIRE	misfire
+
+both	both
+tracks	tracks
+slack	slack
+
+Assemble	assemble
+CQMS	CQMS
+package	package
+
+UPS	UPS
+needed	needed
+powering	powering
+up	up
+after	after
+cable	cable
+job	job
+
+Am/fm	AM / FM
+aerial	aerial
+needs	needs
+replacing	replacing
+
+under	under
+carriage	carriage
+grease	grease
+hose	hose
+blown	blown
+
+7897	<id>
+Exhaust	exhaust
+Fan	fan
+No2	number <num>
+Overhaul	overhaul
+Elec/Mech	electrical / mechanical
+
+Air	air
+con	conditioner
+freezing	freezing
+up/low	up / low
+flow	flow
+to	to
+cab	cabin
+
+Pump	pump
+servo	servo
+line	line
+crimps	crimps
+weeping	weeping
+
+Large	large
+cable	cable
+reroute	reroute
+for	for
+blast	blast
+
+Pre	pre-cleaner
+cleaner	
+bowl	bowl
+broken	broken
+/	/
+needs	needs
+replacin	replacing
+
+Change	change
+out	out
+u/s	unserviceable
+swing	swing
+brake	brake
+cylinder	cylinder
+060	<id>
+
+Worn	worn
+Horizontal	horizontal
+Roller	roller
+x	x
+2	<num>
+Replace	replace
+
+inspect	inspect
+and	and
+repair	repair
+all	all
+rtd's	RTDs
+
+22	<num>
+Bar	bar
+Compressor	compressor
+Service	service
+
+replace	replace
+short	short
+steer	steering
+U-bolts	U-bolts
+
+adjust	adjust
+#2	number <num>
+&3	and <num>
+hoist	hoist
+brakes	brakes
+
+cab	cabin
+insulation	insulation
+fallen	fallen
+down	down
+onto	onto
+exhaust	exhaust
+
+Tie	tie
+Down	down
+Straps	straps
+For	for
+DL	DL
+Cranes	cranes
+
+Replace	replace
+door	door
+strut	strut
+
+Grease	grease
+lines	lines
+broken	broken
+
+060	<id>
+Air	air
+reg/drain/filter	regulator / drain / filter
+assy	assembly
+leaking	leaking
+
+INSPECT	inspect
+HEATER	heater
+N/W	not working
+PROPERLY	properly
+
+reset	reset
+tritronics/PLC	Tri-Tronics / PLC
+link	link
+modbus	Modbus
+card	card
+
+Engine	engine
+stopped	stopped
+wil	will
+not	not
+start	start
+
+main	main
+grease	grease
+supply	supply
+hose	hose
+blown	blown
+
+No	no
+drag	drag
+excitaion	excitation
+
+gearshift	gearshift
+indication	indication
+label	label
+u/s	unserviceable
+
+7897	<id>
+Intake	intake
+Fan	fan
+No10	number <num>
+Overhaul-Elec/Mech	overhaul - electrical / mechanical
+
+hyd	hydraulic
+hose	hose
+leaking	leaking
+in	in
+centre	centre
+of	of
+machine	machine
+
+REPAIR	repair
+SUCTION	suction
+PUMP	pump
+N/W	not working
+
+Crack	crack
+under	under
+L/H	left hand
+propel	propel
+floor	floor
+repair	repair
+
+teeth	teeth
+
+cable	cable
+reroute	reroute
+to	to
+eastern	eastern
+sub	sub
+
+Hi-pressure	high pressure
+clean	clean
+Fairleads	fairleads
+area	area
+
+Blowout	blowout
+cieling	ceiling
+mounted	mounted
+aircon	air conditioner
+filters	filters
+
+RH5571	<id>
+Fuel	fuel
+leak	leak
+@	at
+Transfer	transfer
+pump	pump
+
+Empty	empty
+old	old
+service	service
+truck	truck
+grease	grease
+pods	pods
+
+neutral	neutral
+plane	plane
+adjustment	adjustment
+1.5mm	<num>.<num> mm
+AP4	<id>
+
+Machine	machine
+wont	won't
+take	take
+fuel	fuel
+
+dirt	dirt
+shute	chute
+sheave	sheave
+segment	segment
+bracket	bracket
+bolts	bolts
+
+5H	<id>
+MOBILE	mobile
+LABOUR	labour
+W/	with
+START	start
+06/10	<date>
+
+pipe	pipe
+missing	missing
+clamp	clamp
+
+Change	change
+tail	tail
+cable	cable
+ll124	<id>
+
+GD9992	<id>
+Eng	engine
+Elec	electrical
+24WK	<num> week
+Audit	audit
+
+replace	replace
+hose	hose
+end	end
+
+Isolation	isolation
+Handle	handle
+Faulty	faulty
+
+R	<id>
+air	air
+leak	leak
+from	from
+supply	supply
+hose	hose
+
+7897	<id>
+Tub	tub
+Hook	hook
+Lubrication	lubrication
+&	and
+Inspect	inspect
+
+Relocate	relocate
+oil	oil
+catcher	catcher
+drain	drain
+hose	hose
+
+888	<id>
+Clar	<sensitive>
+5172R	<id>
+-	-
+2000	<num>
+Hr	hour
+Service	service
+
+hoist	hoist
+generator	generator
+1sparking	<num> sparking
+
+Clearance	clearance
+light	light
+repairs	repairs
+
+NDT	NDT
+-	-
+Sus	suspension
+Rope	rope
+A	A-frame
+Frame	
+End	end
+Loc	location
+8	<num>
+RT	RT
+
+coolant	coolant
+pump	pump
+not	not
+pumping	pumping
+
+broken	broken
+grease	grease
+hose	hose
+on	on
+h	H-link
+link	
+
+Drag	drag
+gen	generator
+overvoltage	overvoltage
+alarms	alarms
+
+resocket	resocket
+hoist	hoist
+rope	rope
+
+change	change
+out	out
+leaking	leaking
+injector	injector
+
+cab	cabin
+leaning	leaning
+bac	back
+check	check
+cab	cabin
+leveling	leveling
+valve	valve
+
+J	<sensitive>
+Rinachi	
+Exc	excavator
+-	-
+500hr	<num> hour
+Machine	machine
+Service	service
+
+Boot	boot
+racks	racks
+&	and
+Tar	tar
+paper	paper
+Racks	racks
+
+Lost	lost
+gears	gears
+
+RTD	RTD
+on	on
+Hoist	hoist
+Box	box
+#2	number <num>
+inner	inner
+input	input
+
+earth	earth
+strap	strap
+missing	missing
+
+CLEAN	clean
+MOBILE	mobile
+WORKSHOP	workshop
+WEEK	week
+01/09	<date>
+
+Monitor	monitor
+SRB	SRB
+in	in
+FJ1	<id>
+
+hoist	hoist
+chain	chain
+pin	pin
+fell	fell
+out	out
+
+Remove	remove
+and	and
+overhaul	overhaul
+generator	generator
+
+7897	<id>
+Swing	swing
+No1	number <num>
+Vertical	vertical
+Shaft-Mechanical	shaft - mechanical
+
+7897	<id>
+Propel	propel
+No3	number <num>
+Motor	motor
+O/haul-Elec/Mech	overhaul - electrical / mechanical
+
+Remove	remove
+the	the
+3rd	third
+inside	inside
+wear	wear
+plate	plate
+
+7897	<id>
+Rear	rear
+A	A-frame
+Frame	
+Legs	legs
+Changeoutut-Mech	change out - mechanical
+
+Clar	<sensitive>
+5172R	<id>
+-	-
+Machine	machine
+Service	service
+500hr	<num> hour
+
+7897	<id>
+-	-
+NDT	NDT
+Sus	suspension
+Rope	rope
+Boom	boom
+End	end
+Loc	location
+9	<num>
+
+EG9576	<id>
+ladder	ladder
+raise	raise
+fault	fault
+
+input	input
+seal	seal
+into	into
+l/h	left hand
+walk	walk
+g/b	gearbox
+is	is
+leaking	leaking
+
+replace	replace
+onrom	Omron
+timer	timer
+on	on
+sinc	synchronous
+motor	motor
+4	<num>
+
+rv6535	<id>
+rear	rear
+work	work
+light	light
+u/s	unserviceable
+
+bolts	bolts
+missing	missing
+
+W/Place	workplace
+Insp	inspection
+-	-
+0162	<id>
+Maint	maintenance
+Blg	building
+Ground	ground
+Lvl	level
+
+Rotating	rotating
+light	light
+inop	inoperable
+
+Cable	cable
+work	work
+li648	<id>
+28/01/0012	<date>
+
+8664	<id>
+24WK	<num> week
+HV	high voltage
+Collector	collector
+Ring	ring
+Service	service
+
+985	<id>
+-	-
+2000	<num>
+Hr	hour
+Service	service
+
+stick	stick
+cylinder	cylinder
+leaking	leaking
+
+Repair	repair
+2X	<num> x
+cracks	cracks
+in	in
+rear	rear
+floor	floor
+castings	castings
+
+lighting	lighting
+faults	faults
+
+No	number
+5	<num>
+Hoist	hoist
+Gearbox	gearbox
+lube	lube
+filter	filter
+blocked	blocked
+
+Elec	electrical
+1	<num>
+Wk	week
+Service	service
+
+Hoist	hoist
+Motor	motor
+#2	number <num>
+Interpole	interpole
+Cable	cable
+
+dump	dump
+block	block
+sheave	sheave
+shaft	shaft
+broken	broken
+
+hoist	hoist
+electrical	electrical
+fault	fault
+
+5H	<id>
+Lean	lean
+for	for
+Remington	<sensitive>
+Wksp	workshop
+WK	week
+16	<num>
+
+7897	<id>
+Lower	lower
+Vert	vertical
+Fairlead	fairlead
+Sheave	sheave
+C/Out	change out
+
+Overheating	overheating
+-cutting	-cutting
+out	out
+
+TACHO	tachometer
+NOT	not
+WORKING	working
+
+GE	GE
+to	to
+attend	attend
+site	site
+and	and
+investigate	investigate
+faults	faults
+
+top	top
+up	up
+#4	number <num>
+swing	swing
+gear	gearcase
+case	
+
+ERRATIC	erratic
+THROTTLE	throttle
+OR	or
+FUEL	fuel
+SOLENOID	solenoid
+
+Change	change
+over	over
+to	to
+hydranuts	HydraNuts
+
+RP85	<id>
+RH	right hand
+Luffing	luffing
+Cylinder	cylinder
+Change	change
+
+CLEAN	clean
+MOBILE	mobile
+WORKSHOP	workshop
+WEEK	week
+25/08/0009	<date>
+
++0977	<id>
+1WK	<num> week
+GET	GET
+Sled	sled
+and	and
+Bucket	bucket
+Insp	inspection
+
+5H	<id>
+Lean	lean
+for	for
+Remington	<sensitive>
+Wksp	workshop
+WK	week
+12	<num>
+
+Crack	crack
+in	in
+L/H/S	left hand side
+Bucket	bucket
+rail	rail
+
+outer	outer
+l/h	left hand
+tooth	tooth
+and	and
+adapter	adapter
+missing	missing
+
+Replace	replace
+L/Hand	left hand
+wing	wing
+shroud	shroud
+Bkt	bucket
+#	number
+7	<num>
+
+REPLACE	replace
+FRONT	front
+BUMPER	bumper
+
+R	<id>
+Replace	replace
+all	all
+Undercarriage	undercarriage
+rollers	rollers
+
+replace	replace
+missing	missing
+battery	battery
+box	box
+bolts	bolts
+
+Floor	floor
+crack	crack
+repair	repair
+PY5	<id>
+
+Compressor	compressor
+4	<num>
+Water	water
+Contamination	contamination
+
+tidy	tidy
+up	up
+tyre	tyre
+bay	bay
+
+fuel	fuel
+leak	leak
+at	at
+filter	filter
+
+REPLACE	replace
+DRIVERS	drivers
+FLOOR	floor
+MAT	mat
+
+Replace	replace
+broken	broken
+lever	lever
+for	for
+trailer	trailer
+ramps	ramps
+
+scope	scope
+up	up
+problem	problem
+with	with
+fan	fan
+belt	belt
+alignment	alignment
+
+7897	<id>
+Propel	propel
+Motor	motor
+Lube	lube
+
+Remove	remove
+cable	cable
+out	out
+of	of
+line	line
+
+8664	<id>
+NDT	NDT
+48WK	<num> week
+Pressure	pressure
+Vessel	vessel
+Insp	inspection
+
+secure	secure
+broken	broken
+suspension	suspension
+rope	rope
+
+Cracking	cracking
+in	in
+bulk	bulk
+head	head
+under	under
+opperator	operator
+ca	cabin
+
+7897	<id>
+Pre	pre-service
+Service	
+Inspection	inspection
+Electrical	electrical
+
+REPLACE	replace
+FRT	front
+RADIATOR	radiator
+PROTECTION	protection
+BAR	bar
+
+Get	GET
+Sled	sled
+sort	sort
+out	out
+
+Drivers	drivers
+side	side
+mirror	mirror
+missing	missing
+
+I2V	<id>
+Lower	lower
+Hoist	hoist
+Chain	chain
+
+LH	left hand
+access	access
+door	door
+not	not
+shutting	shutting
+
+track	track
+frames	frames
+worn	worn
+
+earrth	earth
+continuity	continuity
+fault	fault
+
+5635	<id>
+Swing	swing
+Motor/Blower	motor / blower
+Connection	connection
+Insp	inspection
+
+5635	<id>
+Pre	pre-service
+Service	
+Inspect	inspect
+Elect	electrical
+
+Platform	platform
+support	support
+cracks	cracks
+above	above
+RHS	right hand side
+Crane	crane
+
+trace	trace
+and	and
+repair	repair
+air	air
+gauges	gauges
+n/w	not working
+
+Swing	swing
+Motor	motor
+Number	number
+3	<num>
+Field	field
+Coil	coil
+Shorted	shorted
+
+propel	propel
+grease	grease
+light	light
+
+5635	<id>
+Propel	propel
+Motor/Blower	motor / blower
+Lube	lube
+inspect	inspection
+
+Remove	remove
+ESCO	ESCO
+SA923	<id>
+sled	sled
+
+rear	rear
+hyd	hydraulic
+sight	sight
+glass	glass
+u/s	unserviceable
+
+Bucket	bucket
+cracking	cracking
+in	in
+LHS	left hand side
+RHS	right hand side
+transitions	transitions
+
+Cab	cabin
+&	and
+Bonnet	bonnet
+repairs	repairs
+-	-
+Off-site	off-site
+
+plc	PLC
+fault	fault
+
+replace	replace
+rear	rear
+cab	cabin
+rollers	rollers
+
+Lose	lose
+bolt	bolt
+on	on
+upper	upper
+LH	left hand
+fairlead	fairlead
+retainer	retainer
+
+Potential	potential
+cable	cable
+work	work
+requested	requested
+
+Inspect	inspect
+YV4	<id>
+Thrust	thrust
+bearing	bearing
+components	components
+
+MOBILE	mobile
+Step-up	step-up
+Labour	labour
+W45	week <num>
+
+Resocket	resocket
+drag	drag
+ropes	ropes
+526	<id>
+
+Replace	replace
+both	both
+drag	drag
+sockets	sockets
+
+5H	<id>
+Lean	lean
+for	for
+Remington	<sensitive>
+Wksp	workshop
+WK	week
+12	<num>
+
+Door	door
+strut	strut
+u/s	unserviceable
+
+grease	grease
+hoses	hoses
+crushed	crushed
+on	on
+'h'	H-link
+link	
+
+T	<sensitive>
+reported	reported
+broken	broken
+spreader	spreader
+bar	bar
+
+drag	drag
+gen	generator
+over	overvoltage
+voltage	
+
+refit	refit
+missing	missing
+pin	pin
+in	in
+dump	dump
+rope	rope
+socket	socket
+
+Safety	safety
+hook	hook
+latched	latched
+cracked	cracked
+
+C	<id>
+5542	
+7	<num>
+Weekly	weekly
+Servic	service
+Electric	electric
+-Attac	- attachement
+
+Replace	replace
+GET	GET
+on	on
+Bkt	bucket
+#	number
+9	<num>
+
+Crack	crack
+repair	repair
+to	to
+dampner	damper
+mount	mount
+
+Replace	replace
+upper	upper
+wiper	wiper
+motor	motor
+
+Tripping	tripping
+main	main
+circuit	circuit
+breaker	breaker
+
+Dove	<sensitive>
+742K	<id>
+-	-
+2000	<num>
+Hr	hour
+Air	air
+Con	conditioner
+Service	service
+has	has
+b	been
+
+TIGHTEN	tighten
+LOOSE	loose
+ROUND	round
+HYD	hydraulic
+TANK	tank
+
+FK2694	<id>
+NEW	new
+TYRES	tyres
+POS	position
+1&2	<num> and <num>
+ROTATE	rotate
+POS	position
+7	<num>
+
+DC	DC
+534	<id>
+Welder	welder
+Blowout	blowout
+
+Clean	clean
+A/C	air conditioner
+Evaporator	evaporator
+Core	core
+
+replace	replace
+leaking	leaking
+diff	differential
+through	through
+shaft	shaft
+seal	seal
+
+Wacky	<sensitive>
+to	to
+install	install
+Brethrs	breathers
+on	on
+DL	dragline
+GBoxs	gearboxes
+NR2	<id>
+
+Replace	replace
+control	control
+circuit	circuit
+breaker	breaker
+
+Cable	cable
+work	work
+ll124	<id>
+15/04/0011	<date>
+
+FI0830	<id>
+Swing	swing
+No2	number <num>
+Motor	motor
+Changeout	change out
+
+FIT	fit
+BUMP	bump
+RUBBERS	rubbers
+UNDER	under
+FRONT	front
+/	/
+MODULE	module
+
+INSIDE	inside
+SUNSHADE	sunshade
+MISSING	missing
+
+PA3124	<id>
+REPAIR	repair
+LEAK	leak
+FROM	from
+TANK	tank
+RETURN	return
+PIPE	pipe
+
+Fluro	Fluro
+not	not
+working	working
+
+060	<id>
+-	-
+Inspection	inspection
+of	of
+H	high
+V	voltage
+Changeover	changeover
+Swth	switch
+
+engine	engine
+shutdown	shutdown
+-cable	- cable
+u/s	unserviceable
+
+REPLACE	replace
+RHS	right hand
+TOP	top
+STEP	step
+ASSM	assembly
+
+SU1902	<id>
+c/o	change out
+u/s	unserviceable
+pos	position
+1	<num>
+tyre	tyre
+
+Change	change
+Oil	oil
+PX9	<id>
+Thrust	thrust
+
+Clean	clean
+up	up
+walk	walk
+motor	motor
+8	<num>
+commutator	commutator
+
+Change	change
+out	out
+u/s	unserviceable
+grease	grease
+pump	pump
+on	on
+B	<id>
+sys	system
+R/H	right hand
+
+check	check
+oil	oil
+leak	leak
+on	on
+drag	drag
+
+Rain	rain
+water	water
+leaking	leaking
+into	into
+cab	cabin
+526	<id>
+
+Change	change
+out	out
+1-5	<num> - <num>
+adaptors	adaptors
++	and
+LH	left hand
+wing	wing
+shroud	shroud
+
+INSTALL	install
+526	<id>
+PEDESTAL	pedestal
+BEARING	bearing
+TEMPERATURE	temperature
+
+EG9576	<id>
+Pos	position
+1	<num>
+turbo	turbo
+failure	failure
+
+pin	pin
+hole	hole
+broken	broken
+out	out
+of	of
+dump	dump
+block	block
+
+roller	roller
+
+air	air
+horn	horn
+too	too
+loud	loud
+
+MOBILE	mobile
+5H	<id>
+Internal	internal
+Labour	labour
+W47	week <num>
+
+Lost	lost
+all	all
+gears	gears
+
+DD1106	<id>
+-	-
+REPLACE	replace
+FRONT	front
+CRANKSHAFT	crankshaft
+SEAL	seal
+
+Crib	crib
+hut	hut
+brakes	brakes
+req	requires
+adjusting	adjusting
+
+Argon	<sensitive>
+H14H	<id>
+-	-
+Overhaul	overhaul
+Serv	service
+Brake	brake
+Front	front
+
+cab	cabin
+floor	floor
+rusted	rusted
+out	out
+
+blower	blower
+motor	motor
+u/s	unserviceable
+please	please
+change	change
+
+repair	repair
+damaged	damaged
+drag	drag
+drum	drum
+guard	guard
+
+REPORTED	reported
+BLOWN	blown
+HYDRAULIC	hydraulic
+HOSE	hose
+
+remove	remove
+radiator	radiator
+to	to
+be	be
+sent	sent
+to	to
+Natrad	Natrad
+
+7897	<id>
+-	-
+NDT	NDT
+Sus	suspension
+Rope	rope
+A	A-frame
+Frame	
+End	end
+Loc	location
+8	<num>
+
+Make	make
+no	no
+entry	entry
+gates	gates
+aroung	aroung
+MG	motor generator
+sets	sets
+
+I	<id>
+change	change
+out	out
+u/s	unserviceable
+pump	pump
+i	injection
+system	system
+
+repairs	repairs
+to	to
+bucket	bucket
+floor	floor
+lifting	lifting
+
+CABLE	cable
+MOVED	moved
+AROND	around
+TUB	tub
+
+replace	replace
+LHS	left hand side
+front	front
+guard	guard
+missing	missing
+
+plate	plate
+bolts	bolts
+loose	loose
+no	no
+tie	tie
+wire	wire
+
+Map	map
+out	out
+SA923	<id>
+cable	cable
+route	route
+
+Weld	weld
+repair	repair
+to	to
+Dirt	dirt
+chute	chute
+
+REAR	rear
+RH	right hand
+LIGHT	light
+N/W	not working
+
+replace	replace
+swing	swing
+vibraguard	Vibraguard
+resistor	resistor
+5	<num>
+
+JY8	<id>
+Roller	roller
+U/S	unserviceable
+and	and
+4	<num>
+bolts	bolts
+missing	missing
+
+DCS	DCS
+to	to
+come	come
+to	to
+site	site
+for	for
+problems	problems
+on	on
+D/L	dragline
+
+5H	<id>
+Lean	lean
+for	for
+Remington	<sensitive>
+Wksp	workshop
+WK	week
+52	<num>
+
+KY5634	<id>
+a/c	air conditioner
+not	not
+working	working
+
+Resocket	resocket
+Drag	drag
+ropes	ropes
+526	<id>
+D/line	dragline
+
+Change	change
+oil	oil
+YV4	<id>
+Lkp0	<id>
+
+RH	right hand
+TOP	top
+PLASTIC	plastic
+STEP	step
+BROKEN	broken
+
+Becket	Becket
+Cyl-	cylinder -
+Bolt	bolt
+Replace	replace
+
+measure	measure
+jackshaft	jackshaft
+worn	worn
+in	in
+slip	slip
+yoke	yoke
+
+Hoist	hoist
+motor	motor
+field	field
+fault	fault
+
+15W40	<num>W/<num>
+PUMP	pump
+FILTERS	filters
+REQUIRE	requires
+REPLACING	replacing
+
+Assist	assist
+DCS	DCS
+
+Check/Fit	check / fit
+Reverse	reverse
+alarm	alarm
+
+Fortnightly	fortnightly
+SA923	<id>
+sub	sub
+inspection	inspection
+
+I	<id>
+reported	reported
+engine	engine
+oil	oil
+over	over
+engine	engine
+
+drad	drag
+temp	temperature
+alarm	alarm
+
+LK621	<id>
+Rinachi	<sensitive>
+2000hr	<num> hour
+Service	service
+
+Synch	synchronous
+motor	motor
+unbalance	unbalance
+shutdown	shutdown
+
+Inspect	inspect
+and	and
+repair	repair
+brake	brake
+pins	pins
+
+quip	Kwik
+tip	Tip
+
+KI673	<id>
+Rinachi	<sensitive>
+Daily	daily
+Inspections	inspections
+WK	week
+52	<num>
+
+Remove	remove
+cable	cable
+from	from
+in-line	inline
+
+grease	grease
+leaks	leaks
+on	on
+H	H-link
+link	
+
+LK621	<id>
+Rinachi	<sensitive>
+1000	<num>
+Hr	hour
+Service	service
+
+top	top
+steering	steering
+box	box
+seal	seal
+leaking	leaking
+
+5635	<id>
+Lube	lube
+Service	service
+Aux	auxiliary
+Eng	engine
+-Mech	- mechanical
+
+grease	grease
+line	line
+off	off
+
+RH	right hand
+door	door
+strut	strut
+not	not
+working	working
+
+REPLACE	replace
+LUBE	lube
+MODULE	module
+DOOR	door
+LATCHES	latches
+
+Spare	spare
+Motor	motor
+Heaters	heaters
+connection	connection
+
+LK621	<id>
+Rinachi	<sensitive>
+4000hr	<num> hour
+Services	services
+Plan	plan
+
+5635	<id>
+Weekly	weekly
+Service	service
+Mechanical	mechanical
+WK	week
+
+Swing	swing
+Mtr	motor
+Brake	brake
+Exhaust	exhaust
+to	to
+be	be
+checked	checked
+
+Replace	replace
+R/H/S	right hand side
+propel	propel
+strainer	strainer
+o-ring	o-ring
+
+engine	engine
+wont	won't
+run	run
+
+DD1106	<id>
+c/o	change out
+blown	blown
+hyd	hydraulic
+hose	hose
+r/hand	right hand
+bucket	bucket
+
+Investigate	investigate
+pump	pump
+drive	drive
+wear	wear
+
+9	<num>
+monthly	monthly
+stat	statutory
+testing	testing
+ll124	<id>
+
+spreader	spreader
+bar	bar
+broken	broken
+
+Grease	grease
+pump	pump
+compressor	compressor
+engine	engine
+no	no
+go	go
+
+RQ1927	<id>
+oil	oil
+level	level
+dipstick	dipstick
+U/S	unserviceable
+
+LK621	<id>
+Rinachi	<sensitive>
+Daily	daily
+Inspections	inspections
+WK10	week <num>
+
+air	air
+leak	leak
+@	at
+rear	rear
+of	of
+middle	middle
+air	air
+tank	tank
+
+HYDRAULIC	hydraulic
+SYS	system
+-	-
+BLOWN	blown
+HOSE	hose
+
+Turnbuckle	turnbuckle
+broken	broken
+on	on
+LH	left hand
+ramp	ramp
+
+steer	steering
+hubs	hubs
+water	water
+contamination	contamination
+
+8664	<id>
+24WK	<num> week
+Swing	swing
+Mounting	mounting
+Bolt	bolt
+Insp	inspection
+
+reported	reported
+ripper	ripper
+pin	pin
+u/s	unserviceable
+
+tracks	tracks
+loose	loose
+
+Alternator	alternator
+over	over
+charging	charging
+
+compresor	compressor
+pin	pin
+hole	hole
+
+5635	<id>
+Swing	swing
+Coupling	coupling
+Lube	lube
+&	and
+Inspection	inspection
+
+REPLACE	replace
+WIRING	wiring
+&	and
+SEAL	seal
+RHR	right hand rear
+ELECTRICAL	electrical
+BOX	box
+
+REPAIR	repair
+AIR	air
+CLEANER	cleaner
+HOUSING	housing
+
+engine	engine
+shut	shut
+off	off
+mechanism	mechanism
+n/w	not working
+properly	properly
+
+LHR	left hand rear
+pos	position
+#7	number <num>
+&#8	and number <num>
+rock	rock
+ejector	ejector
+needs	needs
+welding	welding
+
+Machoona	<sensitive>
+JP	<id>
+095-6HY	<id>
+Mech	mechanical
+680	<id>
+Insp	inspection
+
+5635	<id>
+Hoist	hoist
+Ropes	ropes
+RH	right hand
+Changeout-Mechanical	change out - mechanical
+
+tighten	tighten
+loose	loose
+module	module
+retaining	retaining
+bolts	bolts
+
+boom	boom
+point	point
+sheave	sheave
+bumper	bumper
+rubber	rubber
+cracked	cracked
+
+3Month	<num> month
+Tool	tool
+Insp	inspection
+Y	<id>
+Crew	crew
+-	-
+Heavy	heavy
+
+Drag	drag
+generator	generator
+voltage	voltage
+problem	problem
+
+RH	right hand
+Walk	walk
+Motor	motor
+requires	requires
+2	<num>
+arc	arc
+horns	horns
+
+Dove	<sensitive>
+742K	<id>
+-	-
+500	<num>
+Hr	hour
+Service	service
+
+526	<id>
+1	<num>
+Weekly	weekly
+Service	service
+Mechanical	mechanical
+
+REPLACE	replace
+DOOR	door
+LATCH	latch
+
+5635	<id>
+Pre	pre-service
+-	
+Service	
+Inspect	inspect
+Electrical	electrical
+
+Drivers	drivers
+door	door
+hinges	hinges
+worn	worn
+out	out
+
+Change	change
+Compressor	compressor
+oil	oil
+
+7897	<id>
+Propel	propel
+Bullgear	bullgear
+LH	left hand
+Changeout-Mech	change out - mechanical
+
+drag	drag
+in	in
+limit	limit
+not	not
+close	close
+enough	enough
+
+fit	fit
+passengers	passengers
+side	side
+seatbelt	seatbelt
+
+Fortnightly	fortnightly
+sub	sub
+inspection	inspection
+FI463	<id>
+
+Wear	wear
+plate	plate
+material	material
+hanging	hanging
+off	off
+tub	tub
+
+swing	swing
+lube	lube
+motor	motor
+#5	number <num>
+
+laser	laser
+striker	striker
+fowling	fowling
+on	on
+bottle	bottle
+bolts	bolts
+
+fit	fit
+ladder	ladder
+storage	storage
+holders	holders
+
+LK621	<id>
+Rinachi	<sensitive>
+Service	service
+Day	day
+Wash	wash
+
+SWING	swing
+LOOP	loop
+6	<num>
+GROUND	ground
+FAULT	fault
+
+grease	grease
+pump	pump
+wont	won't
+run	run
+
+220	<id>
+Argon	<sensitive>
+GI4	<id>
+-	-
+500	<num>
+Hr	hour
+Service	service
+this	this
+ser	service
+
+Missing	missing
+oil	oil
+filler	filler
+cap	cap
+
+5635	<id>
+VistaCam	<sensitive>
+System	system
+inspect	inspect
+&	and
+Clean	clean
+
+float	float
+wont	won't
+build	build
+up	up
+air	air
+
+8664	<id>
+12WK	<num> week
+Portable	portable
+Appliance	appliance
+Service	service
+
+replace	replace
+drive	drive
+spring	spring
+&	and
+trunnion	trunnion
+bushes	bushes
+
+bp9386	<id>
+inspections	inspections
+
+remove	remove
+&	and
+change	change
+over	over
+drivers	drivers
+door	door
+
+r/h	right hand
+trammel	trammel
+all	all
+welds	welds
+broken	broken
+
+cable	cable
+work	work
+and	and
+walk	walk
+
+888	<id>
+-	-
+500	<num>
+Hr	hour
+Service	service
+
+Crack	crack
+repair	repair
+LHS	left hand side
+back	back
+of	of
+the	the
+arch	arch
+
+service	service
+mcc	MCC
+tripping	tripping
+
+Replace	replace
+quick	Kwik
+tips	Tips
+on	on
+Bkt	bucket
+#	number
+9	<num>
+
+5635	<id>
+Propel	propel
+Motor/Blower	motor / blower
+Conn	connection
+Inspect	inspect
+
+CAB	cabin
+SUSPENSION	suspension
+N/W	not working
+
+HYD	hydraulic
+PIPING	piping
+&	and
+HOSES	hoses
+-	-
+HYD	hydraulic
+HOSE	hose
+
+stopped	stopped
+with	with
+no	no
+alarms	alarms
+
+ladder	ladder
+location	location
+sensor	sensor
+struck	struck
+by	by
+paddle	paddle
+
+5635	<id>
+Intake	intake
+Fan	fan
+No1	number <num>
+Overhaul-Elec/Mech	overhaul - electrical / mechanical
+
+adjust	adjust
+left	left
+fairlead	fairlead
+anchor	anchor
+rope	rope
+
+Repair	repair
+hinge	hinge
+on	on
+WS	workshop
+press	pressure
+access	access
+gate	gate
+
+Power	power
+tripped	tripped
+
+drag	drag
+motion	motion
+trip	trip
+
+o	<id>
+system	system
+short	short
+cycling	cycling
+
+I	<id>
+cam	cam
+lube	lube
+
+LR2095	<id>
+Strg	storage
+pump	pump
+case	case
+drain	drain
+hose	hose
+leak	leak
+
+revolving	revolving
+frame	frame
+light	light
+need	need
+repairs	repairs
+
+Swing	swing
+Pinion	pinion
+Bolts	bolts
+Replace	replace
+
+Boom	boom
+rope	rope
+lube	lube
+valve	valve
+leaking	leaking
+
+Drag	drag
+field	field
+loss	loss
+warning/alarm	warning / alarm
+
+ladder	ladder
+rung	rung
+missing	missing
+deflection	deflection
+tower	tower
+
+985	<id>
+Argon	<sensitive>
+H14H	<id>
+-	-
+Ansul	Ansul
+System	system
+Service	service
+
+Reseal	reseal
+all	all
+temp	temperature
+probes	probes
+on	on
+all	all
+MG	motor generator
+sets	sets
+
+front	front
+wiper	wiper
+blade	blade
+u/s	unserviceable
+
+3Month	<num> month
+Tool	tool
+Insp	inspection
+W	<id>
+Crew	crew
+-	-
+Mobile	mobile
+
+47	<num>
+Week	week
+Tool	tool
+Inspection	inspection
+'O'	<id>
+Crew	crew
+Mobile	mobile
+
+Argon	<sensitive>
+H14H	<id>
+-	-
+Fuel	fuel
+Injectors	injectors
+Changeout	change out
+
+check	check
+front	front
+diff	differential
+lock	lock
+ingauging	engaging
+&	and
+dising	dosing
+
+Cable	cable
+re-route	re-route
+from	from
+O1	<id>
+to	to
+Milton	<sensitive>
+
+534	<id>
+Rinachi	<sensitive>
+Daily	daily
+Inspections	inspections
+
+drop	drop
+8	<num>
+cables	cables
+out	out
+of	of
+line	line
+
+RHS	right hand side
+Lower	lower
+Camframe	cam frame
+Inspect	inspect
+-	-
+post	post
+Shut	shutdown
+
+Cutting	cutting
+Blade	blade
+to	to
+be	be
+turned	turned
+
+broken	broken
+link	link
+l/h	left hand
+drag	drag
+chain	chain
+
+C/O	change out
+dump	dump
+blocks	blocks
+
+swing	swing
+resolver	resolver
+fault	fault
+
+7897	<id>
+-	-
+Weekly	weekly
+Rope	rope
+Work	work
+-	-
+teco	TECO
+
+5635	<id>
+Pre	pre-service
+Service	
+Inspect	inspect
+Electrical	electrical
+
+R/H/S	right hand side
+Dump	dump
+rope	rope
+damaged	damaged
+
+a/c	air conditioner
+not	not
+working	working
+
+shutdown	shutdown
+at	at
+sub	sub
+
+Upper	upper
+Spreader	spreader
+Bar	bar
+C/O	change out
+
+Repair	repair
+flood	flood
+light	light
+rear	rear
+rhs	right hand side
+under	under
+deck	deck
+
+CM-NDT	CM - NDT
+-	-
+A	A-frame
+Frame	
+Walkways	walkways
+VI	VI
+MT	MT
+
+dump	dump
+rope	rope
+failed	failed
+
+Resample	resample
+SA923	<id>
+UG8	<id>
+Geg5	<id>
+Oil	oil
+
+Replace	replace
+r/h	right hand
+machine	machine
+end	end
+connecting	connecting
+link	link
+
+filter	filter
+housing	housing
+off	off
+RH	right hand
+chassis	chassis
+rail	rail
+
+2	<num>
+monthlyLube	monthlyLube
+Room	room
+Panel	panel
+Service	service
+
+front	front
+diff	differential
+filter	filter
+mount	mount
+and	and
+pipe	pipe
+leaking	leaking
+
+cable	cable
+sheathing	sheathing
+damaged	damaged
+
+MECHANICAL	mechanical
+-	-
+PIN	pin
+TRACK	track
+ROLLER	roller
+
+Dump	dump
+Block	block
+Ass	assembly
+C/O	change out
+
+hoist	hoist
+blower	blower
+6	<num>
+tripping	tripping
+out	out
+
+instantaneous	instantaneous
+shutdown	shutdown
+
+5635	<id>
+-	-
+Swing	swing
+Blower	blower
+#4	number <num>
+to	to
+be	be
+replaced	replaced
+
+Power	power
+tripped	tripped
+at	at
+sub	sub
+No	no
+restart	restart
+
+li648	<id>
+Cracks	cracks
+near	near
+propell	propell
+boxes	boxes
+L/Hside	left hand side
+
+Argon	<sensitive>
+H14H	<id>
+-	-
+2000	<num>
+Hr	hour
+Air	air
+Con	conditioner
+Service	service
+
+drag	drag
+limits	limits
+reset	reset
+after	after
+crop	crop
+
+Update	update
+ll124	<id>
+cable	cable
+run	run
+map	map
+
+INSPECT	inspect
+BRAKE	brake
+WARNING	warning
+LIGHT	light
+COMING	coming
+UP	up
+
+LHF	left hand front
+module	module
+compartment	compartment
+mount	mount
+bolts	bolts
+u/s	unserviceable
+
+recalibrate	recalibrate
+for	for
+bucket	bucket
+#	number
+3	<num>
+
+RHS	right hand side
+Shoe	shoe
+access	access
+handrail	handrail
+broken	broken
+
+Repair	repair
+r/h	right hand
+rear	rear
+trammel	trammel
+
+Inspect	inspect
+A/C	air conditioner
+Compressor	compressor
+bolts	bolts
+and	and
+belt	belt
+
+Welding	welding
+d/b	distributor
+e/l	electrical
+trip	trip
+
+Clean	clean
+exit	exit
+light	light
+/fan	/ fan
+house	house
+light	light
+difuse	diffuser
+
+8664	<id>
+NDT	NDT
+Boom	boom
+Structure	structure
+Insp	inspection
+
+dragline	dragline
+3	<num>
+hoist	hoist
+lube	lube
+valve	valve
+replacement	replacement
+
+C/O	change out
+upper	upper
+hoist	hoist
+spreader	spreader
+Bar	bar
+
+Boom	boom
+point	point
+winch	winch
+E/Leakage	electrical leakage
+relay	relay
+faulty	faulty
+
+Light	light
+Vehicle	vehicle
+680	<id>
+Inspection	inspection
+
+C/O	change out
+No	number
+6	<num>
+lip	lip
+shroud	shroud
+
+Brush	brush
+Arm	arm
+Insulators	insulators
+to	to
+be	be
+fitted	fitted
+
+noise	noise
+in	in
+no1	number <num>
+swing	swing
+gearbox	gearbox
+
+front	front
+sway	sway
+bar	bar
+bushes	bushes
+worn	worn
+out	out
+
+R/H/S	right hand side
+Propel	propel
+filter	filter
+needs	needs
+changing	changing
+
+Change	change
+out	out
+#2	number <num>
+Propel	propel
+mtr	motor
+
+swing	swing
+loop	loop
+#2	number <num>
+ground	ground
+fault	fault
+
+CHECK	check
+ALL	all
+BRAKES	brakes
+
+7897	<id>
+Drag	drag
+Ropes	ropes
+LH	left hand
+Changeout-Mechanical	change out - mechanical
+
+Fortnigntly	fortnightly
+sub	sub
+inspection	inspection
+Gq142	<id>
+
+Both	both
+A-frame	A-frame
+upper	upper
+lights	lights
+out	out
+
+7897	<id>
+Propel	propel
+Bullgear	bullgear
+RH	right hand
+Changeout-Mech	change out - mechanical
+
+7897	<id>
+-	-
+House	house
+Roller	roller
+Bushes	bushes
+Grease	grease
+
+Go	go
+over	over
+last	last
+5	<num>
+days	days
+of	of
+Minvu	MinVu
+reports	reports
+
+RH	right hand
+DOOR	door
+REQUIRES	requires
+MAINTAINENCE	maintenance
+
+C	<id>
+5542	
+Drag	drag
+Ropes	ropes
+Changeout	change out
+-	-
+Mechanica	mechanical
+
+CM	condition monitoring
+Oil	oil
+Sampling	sampling
+Dragline	dragline
+526	<id>
+
+PERFORM	perform
+VALVE	valve
+SET/	set /
+TAPPIT	tappit
+ADJ	adjust
+
+replace	replace
+lost	lost
+arch	arch
+anchor	anchor
+link	link
+pin	pin
+
+Unit	unit
+ran	ran
+out	out
+of	of
+fuel	fuel
+
+MG	motor generator
+6	<num>
+overspeed	overspeed
+switch	switch
+faulty	faulty
+
+Cable	cable
+reroute	reroute
+
+Crack	crack
+in	in
+boom	boom
+at	at
+#	number
+4	<num>
+Bchord	<id> chord
+on	on
+060	<id>
+
+985	<id>
+Argon	<sensitive>
+H14H	<id>
+250	<num>
+Hr	hour
+Service14	service <date>
+05	
+2009	
+
+OK5862	<id>
+ladder	ladder
+controler	controller
+u/s	unserviceable
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+FN5736	<id>
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+TRK	track
+Roll	roller
+3	<num>
+RH	right hand
+UF2558	<id>
+
+CW	CW
+XF3996-C/out	<id> - change out
+Uni's	universal joints
+Eng-Pump	engine - pump
+Drvcondu	drive
+
+GE2963	<id>
+goanna	Goanna
+bar	Bar
+missing	missing
+pin	pin
+
+RT3290	<id>
+Pos	position
+8	<num>
+tyre	tyre
+u/s	unserviceable
+
+DO7053	<id>
+Minor	minor
+oil	oil
+leak	leak
+LH	left hand
+Final	final
+drive	drive
+
+SM2291	<id>
+failed	failed
+aux	auxiliary
+water	water
+pump	pump
+
+2000H	<num> hour
+Mech	mechanical
+Insp	inspection
+VLV	valve
+Spring	spring
+TO0487	<id>
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Lift	lift
+RH	right hand
+GY9113	<id>
+
+3M	<num> month
+Mech	mechanical
+Cond	condition
+Ball	ball
+Stut	stud
+Crack	crack
+Test	test
+FV0302	<id>
+
+UN7986	<id>
+Electric	electric
+horn	horn
+switch	switch
+on	on
+dash	dash
+
+GE2963-C/out	<id> - change out
+Starter	starter
+Motor	motor
+
+QR0218-Inspect	<id> - inspect
+Track	track
+Roller	roller
+3	<num>
+LFT	left
+
+RW7142	<id>
+Remount	remount
+access	access
+gate	gate
+
+TV3998	<id>
+Replace	replace
+intake	intake
+hose	hose
+
+Rear	rear
+A/C	air conditioner
+Compressor	compressor
+clutch	clutch
+u/s	unserviceable
+
+RW7142	<id>
+replace	replace
+u/s	unserviceable
+cab	cabin
+mounts	mounts
+
+UQ9701	<id>
+Park	park
+brake	brake
+filter	filter
+lines	lines
+u/s	unserviceable
+
+XW7976	<id>
+Replace	replace
+height	height
+adjuster	adjuster
+valve	valve
+
+FW9593	<id>
+Repair	repair
+park	park
+brake	brake
+door	door
+alarm	alarm
+
+vims	VIMS
+keypad	keypad
+light	light
+out	out
+
+JZ9248	<id>
+LH	left hand
+reverse	reverse
+light	light
+loose	loose
+
+XH1714	<id>
+500hr	<num> hour
+Service	service
+&	and
+Inspection	inspection
+
+DO7053	<id>
+1000hr	<num> hour
+Service	service
+&	and
+Inspection	inspection
+
+EZ7111	<id>
+no	no
+payload	payload
+indicator	indicator
+
+BC4051	<id>
+repair	repair
+work	work
+lights	lights
+
+DB2637	<id>
+Fabricate	fabricate
+radiator	radiator
+stands	stands
+
+BT0391	<id>
+change	change
+out	out
+pump	pump
+dve	drive
+uni's	universal joints
+
+RT3290	<id>
+Re-gas	regas
+Pos	position
+5	<num>
+Strut	strut
+
+CZ6065	<id>
+Cracks	cracks
+in	in
+Head	head
+board	board
+
+LL3433	<id>
+-	-
+Refurbish	refurbish
+Front	front
+End	end
+n	
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Carry	carry
+Roll	roller
+No	number
+5	<num>
+RH	right hand
+TV3998	<id>
+
+LD3192	<id>
+wIggins	Wiggins
+station	station
+door	door
+lugs	lugs
+u/s	unserviceable
+
+XF3996-	<id> -
+CW	CW
+RH	right hand
+hoist	hoist
+cylinder	cylinder
+leaking	leaking
+
+OO9426	<id>
+Greaseline	grease line
+rod	rod
+support	support
+broken	broken
+
+4000H	<num> hour
+Mech	mechanical
+Svce	service
+Eng	engine
+Tune	tune
+CZ6065	<id>
+
+XF3996	<id>
+Fuel	fuel
+cap	cap
+missing	missing
+
+fail	failed
+unis	universal joints
+pump	pump
+drive	drive
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Operator	operator
+Seat	seat
+MR0229	<id>
+
+500H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+GO8941	<id>
+
+DU7016	<id>
+Minor	minor
+engine	engine
+oil	oil
+leak	leak
+
+AF5037	<id>
+250hr	<num> hour
+Service	service
+&	and
+Inspection	inspection
+
+XK9760	<id>
+beacon	beacon
+u/s	unserviceable
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Carry	carry
+Roll	roller
+No	number
+1	<num>
+LH	left hand
+DB2637	<id>
+
+Air	air
+Con	conditioner
+blowing	blowing
+hot	hot
+when	when
+going	going
+uphill	uphill
+
+PD2335	<id>
+System	system
+voltage	voltage
+issue	issue
+
+AE2918	<id>
+C/o	change out
+LH	left hand
+lower	lower
+blade	blade
+wear	wear
+strip	strip
+
+2000H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+AL6487	<id>
+
+DO7053	<id>
+F	<id>
+Replace	replace
+reverse	reverse
+cam	cam
+monitor	monitor
+
+KI2123	<id>
+Check	check
+over	over
+issue	issue
+with	with
+a/c	air conditioner
+system	system
+
+Ko4962	<id>
+front	front
+after	after
+cooler	cooler
+temp	temperature
+err	error
+
+UN7986	<id>
+Replace	replace
+diff	differential
+cooler	cooler
+hoses	hoses
+
+UQ9701	<id>
+Coolant	coolant
+leak	leak
+RHS	right hand side
+Oil	oil
+Cooler	cooler
+tube	tube
+
+1000H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+FW9593	<id>
+
+NF4651	<id>
+2000hr	<num> hour
+Service	service
+-	-
+GSAP	GSAP
+
+TO0487	<id>
+500hr	<num> hour
+Service	service
+&	and
+Inspection	inspection
+
+PH6610	<id>
+Diagnose	diagnose
+and	and
+repair	repair
+t/c	torque converter
+temp	temperature
+err	error
+
+windrow	windrow
+light	light
+out	out
+
+NF4651-Fire	<id> - fire
+Suppression	suppression
+Inspection	inspection
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+TRK	track
+Roll	roller
+0	<num>
+LH	left hand
+QR0218	<id>
+
+LL3433	<id>
+repace	replace
+damage	damage
+access	access
+ladder	ladder
+
+QR0218	<id>
+air	air
+con	conditioner
+1&2	<num> and <num>
+leaking	leaking
+
+JD8905	<id>
+Low	low
+Autolube	auto-lube
+Pressure	pressure
+
+UN7986	<id>
+Rear	rear
+Camera	camera
+Dirty	dirty
+inside	inside
+Cover	cover
+
+DN9817	<id>
+-	-
+C/O	change out
+Hyd	hydraulic
+Cooling	cooling
+Fans	fans
+
+LL3433	<id>
+Check	check
+over	over
+pos	position
+7	<num>
+strut	strut
+
+LM8022	<id>
+Repair	repair
+fuseholderandrelaybase	fuse holder and relay base
+PO	PO
+
+NGK788-	<id> -
+LOW	low
+POWER	power
+ISSUE	issue
+
+OO9426	<id>
+A/Cfan	air conditioner fan
+speed	speed
+controller	controller
+u/s	unserviceable
+
+CZ6065	<id>
+Batterys	batteries
+out	out
+of	of
+service	service
+
+C/Out	change out
+A/Con	air conditioner
+mounts	mounts
+rear	rear
+a/con	air conditioner
+
+Radio	radio
+cable	cable
+causing	causing
+modular	modular
+hub	hub
+to	to
+power	power
+
+EZ7111-C/out	<id> - change out
+Turbo	turbo
+Primary	primary
+LFT	left
+FRNT	front
+
+UF2558	<id>
+Head	head
+speed	speed
+gauge	gauge
+U/S	unserviceable
+
+RZ8994	<id>
+Repairs	repairs
+to	to
+bucket	bucket
+G	GET
+E	
+T	
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Control	control
+VLV	valve
+G3	<id>
+DB2637	<id>
+
+GY9113	<id>
+RH	right hand
+Arm	arm
+rest	rest
+broken	broken
+
+PH6610	<id>
+Hoist	hoist
+control	control
+valve	valve
+mounting	mounting
+u/s	unserviceable
+
+CC0233	<id>
+repair	repair
+broken	broken
+handrails	handrails
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Carry	carry
+Roll	roller
+No	number
+8	<num>
+LH	left hand
+UF2558	<id>
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Drill	drill
+HR950	<id>
+YC	<id>
+UF2558	<id>
+
+dd1938	<id>
+-	-
+ladder	ladder
+faultdectannerh	fault
+
+PY9512-Inspect	<id> - inspect
+Hyd	hydraulic
+Cyl	cylinder
+Tong	tong
+Break	break
+
+RT3290	<id>
+250hr	<num> hour
+Service	service
+-	-
+GSAP	GSAP
+
+RZ2293-Fire	<id> - fire
+Suppression	suppression
+Inspection	inspection
+
+KI2123	<id>
+1000hr	<num> hour
+Service	service
+-	-
+Out/stding	outstanding
+PO's	POs
+
+VN2231-C/out	<id> - change out
+Uni's	universal joints
+Eng-Pump	engine - pump
+Drvg	drag
+
+BT0391	<id>
+500hr	<num> hour
+Service	service
+-	-
+GSAP	GSAP
+
+KI2123	<id>
+Repair	repair
+Injector	injector
+Wiring	wiring
+Fault	fault
+
+QO879	<id>
+Cab	cabin
+vibrating	vibrating
+
+8000H	<num> hour
+Mech	mechanical
+Svce	service
+Eng	engine
+Tune	tune
+AE2918	<id>
+
+CW	CW
+FN5736	<id>
+POS	position
+7	<num>
+TURBO	turbo
+U/S	unserviceable
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+TRK	track
+Roll	roller
+3	<num>
+LH	left hand
+UF2558	<id>
+
+MR0229-C/out	<id> - change out
+Uni's	universal joints
+Eng-Pump	engine - pump
+Drv	drive
+
+BG0988	<id>
+A	A-frame
+frame	
+bearing	bearing
+repairs	repairs
+
+SM2291	<id>
+Ladder	ladder
+not	not
+raising	raising
+or	or
+loweringion	lowering
+
+AL6487	<id>
+right	right
+suspension	suspension
+cyl	cylinder
+low	low
+zm9	<id>
+
+VU1914	<id>
+Eng	engine
+oil	oil
+leak	leak
+LHS	left hand side
+several	several
+
+XS7870	<id>
+5	<num>
+grouser	grouser
+bolts	bolts
+missing	missing
+
+TY8010-C/out	<id> - change out
+Jockey	jockey
+Pulley	pulley
+Brng	bearing
+
+NF4651	<id>
+Engine	engine
+Lacks	lacks
+Power	power
+
+IT4005	<id>
+Fit	fit
+park	park
+brake	brake
+alarm	alarm
+to	to
+machine	machine
+
+FN5736	<id>
+Pos3	position <num>
+turbo	turbo
+cartridge	cartridge
+clamp	clamp
+failed	failed
+
+4000H	<num> hour
+Mech	mechanical
+Svce	service
+Eng	engine
+Tune	tune
+KI2123	<id>
+
+MR0229-C/out	<id> - change out
+Drv	drive
+Shaft	shaft
+Eng-Trans	engine - transmission
+
+oil	oil
+leaks	leaks
+at	at
+front	front
+brake	brake
+cooler	cooler
+
+JZ9248	<id>
+Repair	repair
+steering	steering
+tank	tank
+
+MR0229	<id>
+Replace	replace
+Pos	position
+6	<num>
+Turbo	turbo
+
+SM2291	<id>
+Repair	repair
+modular	modular
++	and
+camera	camera
+wiring	wiring
+
+AL6487	<id>
+Replace	replace
+alternatorPO	alternator PO
+
+Coolant	coolant
+leaks	leaks
+
+CW	CW
+VU1914	<id>
+Aux	auxiliary
+W/pump	water pump
+leaking	leaking
+at	at
+tell	telltale
+t	
+
+Retarder	retarder
+not	not
+holding	holding
+
+BC4051	<id>
+broken	broken
+weld	weld
+on	on
+handrail	handrail
+
+CW	CW
+DU7016	<id>
+Oil	oil
+cooler	cooler
+bypass	bypass
+tube	tube
+leakin	leaking
+
+CD3914	<id>
+watermeter	watermeter
+lights	lights
+sticking	sticking
+on	on
+25%	<num> %
+
+Restock	restock
+GET	GET
+trailer	trailer
+
+ID	<id>
+5079	
+R/H/R	right hand rear
+Brake	brake
+Defective	defective
+PO	PO
+
+VN2231	<id>
+Steering	steering
+wheel	wheel
+cover	cover
+missing	missing
+
+QR0218-C/out	<id> - change out
+Brake	brake
+Swing	swing
+RHT	right
+FRNT	front
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+FV0302	<id>
+
+500H	<num> hour
+Mech	mechanical
+Svce	service
+Drill	drill
+HR950	<id>
+OO9426	<id>
+
+ND5744	<id>
+Replace	replace
+cracked	cracked
+#6	number <num>
+rocker	rocker
+cover	cover
+
+FN5736-	<id> -
+Install	install
+precleaner	pre-cleaner
+dustvalves	dust valves
+PO	PO
+
+gk5982	<id>
+grease	grease
+module	module
+on	on
+backboard	backboard
+broken	broken
+
+QR0218	<id>
+250hr	<num> hour
+ServiceGSAPCOMP	service GSAP compressor
+PO	PO
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+EQL	equaliser
+Bar	bar
+XS7870	<id>
+
+QR0218	<id>
+Engine	engine
+4	<num>
+Midlife	midlife
+rebuild	rebuild
+
+CW	CW
+VU1914-C/out	<id> - change out
+Uni's	universal joints
+Eng-Pump	engine - pump
+Drvnd	drive
+u	
+
+CW	CW
+BT0391-	<id> -
+Replace	replace
+drive	drive
+shaft	shaft
+uni's	universal joints
+
+DB2637	<id>
+L/H	left hand
+TRACK	track
+FRAME	frame
+BOLT	bolt
+BROKEN	broken
+
+SS0308	<id>
+C/O	change out
+Pos	position
+1	<num>
+and	and
+7	<num>
+Tyres	tyres
+
+EZ7111	<id>
+ladder	ladder
+not	not
+raise	raise
+
+DN9817	<id>
+C/O	change out
+Leak	leak
+slew	slew
+motor	motor
+hose+	hose
+
+KI2123	<id>
+TRN	TRN
+ECM	ECM
+108	<id>
+44	<num>
+EVENTS	events
+
+CW	CW
+KI2123	<id>
+Replace	replace
+rear	rear
+steering	steering
+accumu	accumulator
+
+BT0391-C/out	<id> - change out
+Drv	drive
+Shaft	shaft
+Eng-Trans	engine - transmission
+
+BT0391	<id>
+Emergency	emergency
+ladder	ladder
+latch	latch
+broken	broken
+
+VU1914	<id>
+Coolant	coolant
+gauge	gauge
+u/s	unserviceable
+-	-
+full	full
+of	of
+dirt	dirt
+
+BG0988	<id>
+Air	air
+con	conditioner
+needs	needs
+a	a
+boost	boost
+not	not
+cold	cold
+
+PD2335	<id>
+Fuel	fuel
+Gauge	gauge
+u/s	unserviceable
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+SS0308	<id>
+
+AV0573-Fire	<id> - fire
+Suppression	suppression
+Inspection	inspection
+
+DU7016	<id>
+Crack	crack
+@	at
+boss	boss
+on	on
+RH	right hand
+brake	brake
+cool	cooling
+pip	pipe
+
+UF2558-Insp	<id> - inspection- inspection
+Mast	mast
+Raise	raise
+Cyl	cylinder
+Pin	pin
+LFT	left
+LOW	low
+
+OK5862	<id>
+Replace	replace
+Fuel	fuel
+transfer	transfer
+pump	pump
+
+CD3914	<id>
+created	created
+on	on
+wrong	wrong
+truck	truck
+close	close
+
+CW	CW
+JA0341	<id>
+Eng	engine
+coolant	coolant
+tube	tube
+cracked	cracked
+ed	
+
+ladder	ladder
+issues	issues
+
+PY9512-Insp	<id> - inspection
+Mast	mast
+Raise	raise
+Cyl	cylinder
+Pin	pin
+LFT	left
+LWR	lower
+
+500H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+BG0988	<id>
+
+Engine	engine
+oil	oil
+leak	leak
+
+greese	grease
+line	line
+hobo	hobo
+
+C/O	change out
+Leaking	leaking
+brake	brake
+cooling	cooling
+hose	hose
+
+WK1566	<id>
+no	no
+dash	dash
+lights	lights
+behind	behind
+keypad	keypad
+
+KI2123	<id>
+Fuel	fuel
+cap	cap
+missing	missing
+
+XF3996	<id>
+Steering	steering
+suction	suction
+pipe	pipe
+leaking	leaking
+
+DU7016	<id>
+Minor	minor
+engine	engine
+oil	oil
+leak	leak
+
+UN7986	<id>
+Repair	repair
+exhaust	exhaust
+leaks	leaks
+
+UM4228	<id>
+Repair	repair
+hinge	hinge
+on	on
+fill	fill
+point	point
+box	box
+
+JZ9248-C/out	<id> - change out
+Turbo	turbo
+Primary	primary
+RHT	right
+FRNT	front
+
+LV7795	<id>
+-	-
+Interior	interior
+Cab	cabin
+light	light
+not	not
+working	working
+
+DB2637	<id>
+Inspect	inspect
+Pins	pins
+Worn	worn
+RH	right hand
+Track	track
+Pad	pad
+
+BG9236	<id>
+RHS	right hand side
+coolant	coolant
+gauge	gauge
+broken	broken
+
+CZ6065	<id>
+windrow	windrow
+light	light
+not	not
+working	working
+
+Me9685-	<id> -
+c/o	change out
+both	both
+starters	starters
+on	on
+tn3	<id>
+PO	PO
+
+RT3290	<id>
+-	-
+LH	left hand
+headlight	headlight
+loose	loose
+
+RW7142-	<id> -
+Slew	slew
+ring	ring
+Deflection	deflection
+
+3M	<num> month
+Mech	mechanical
+Cond	condition
+Ball	ball
+Stut	stud
+Crack	crack
+Test	test
+XF3996	<id>
+
+BG9236	<id>
+air	air
+con	conditioner
+fault	fault
+
+BT0391	<id>
+Loose	loose
+panel	panel
+front	front
+of	of
+cab	cabin
+exterior	exterior
+
+LV7795	<id>
+Repair	repair
+Rear/Brake	rear / brake
+Tail	tail
+Light	light
+
+1000H	<num> hour
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Mast	mast
+Lock	lock
+RH	right hand
+OO9426	<id>
+
+WK1566	<id>
+crankcase	crankcase
+press	pressure
+err	error
+
+MV3594	<id>
+low	low
+steer	steering
+pressure	pressure
+
+AF5037	<id>
+No	no
+audible	audible
+VIMS	VIMS
+alarm	alarm
+sound	sound
+
+SS0308	<id>
+Rotate	rotate
+pos	position
+2&3	<num> and <num>
+tyre	tyre
+
+QR0218	<id>
+Fab	fabrication
+up	up
+trans	transmission
+stands	stands
+for	for
+Swing	swing
+box	box
+
+UN7986	<id>
+fuel	fuel
+filters	filters
+plugged	plugged
+
+CC0233	<id>
+C/O	change out
+BROKEN	broken
+STABILIZER	stabilizer
+BAR	bar
+
+UF2558	<id>
+cab	cabin
+windows	windows
+to	to
+have	have
+XIR	XIR
+glass	glass
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Drill	drill
+O08S	<id>
+OK5862	<id>
+
+Coolant	coolant
+leaking	leaking
+
+MR0229	<id>
+C/O	change out
+Jack	jacket
+water	water
+pump	pump
+
+GE2963	<id>
+Inside	inside
+LH	left hand
+Eng	engine
+cover	cover
+oil	oil
+leak	leak
+
+XK9760	<id>
+Clean	clean
+out	out
+hydraulic	hydraulic
+stystem	system
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Carry	carry
+Roll	roller
+No	number
+2	<num>
+LH	left hand
+DN9817	<id>
+
+DU7016	<id>
+Repair	repair
+air	air
+leak	leak
+
+AF5037	<id>
+LEFT	left
+REAR	rear
+BRAKE	brake
+TEMP	temperature
+1466	<num>
+
+BG9236	<id>
+250hr	<num> hour
+Service	service
+
+JA0341	<id>
+Blown	blown
+Pos3	position <num>
+tyre	tyre
+
+CC0233	<id>
+Install	install
+reverse	reverse
+camera	camera
+
+2000H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+UN7986	<id>
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Dozer	dozer
+M76S	<id>
+XS7870	<id>
+
+QR0218-Insp	<id> - inspection
+Carrier	carrier
+RHT	right
+Roller	roller
+No	number
+4	<num>
+LFT	left
+
+UQ9701	<id>
+Blown	blown
+extension	extension
+line	line
+from	from
+pos	position
+0	<num>
+
+GO8941	<id>
+Replace	replace
+brake	brake
+relay	relay
+valve	valve
+
+1000H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+RT3290	<id>
+
+EZ7111	<id>
+Fuel	fuel
+Breather	breather
+Leaking	leaking
+Fuel	fuel
+
+NF4651	<id>
+repair	repair
+power	power
+issue	issue
+to	to
+rear	rear
+lights	lights
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Lift	lift
+PD2335	<id>
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+TRK	track
+Roll	roller
+0	<num>
+RH	right hand
+DB2637	<id>
+
+XF3996-C/out	<id> - change out
+Turbo	turbo
+Primary	primary
+LFT	left
+REAR	rear
+
+JZ9248	<id>
+onside	onside
+lo	low
+beam	beam
+u/s	unserviceable
+
+FV0302	<id>
+Air	air
+Con	conditioner
+blowing	blowing
+warm	warm
+air	air
+
+3M	<num> month
+Mech	mechanical
+Cond	condition
+Ball	ball
+Stub	Stud
+Crack	crack
+Test	test
+VU1914	<id>
+
+6M	<num> month
+Mech	mechanical
+Insp	inspection
+Fire	fire
+Suppression	suppression
+UQ9701	<id>
+
+AE2918	<id>
+C/out	change out
+pos	position
+6	<num>
+tyre	tyre
+
+Air	air
+Con	conditioner
+Clutch	clutch
+Fried	fried
+
+FSG	FSG
+stock	stock
+level	level
+adjustment	adjustment
+
+Exhaust	exhaust
+collecter	collector
+broken	broken
+requires	requires
+weld	weld
+
+VN2231	<id>
+FRT	front
+fuel	fuel
+tank	tank
+mount	mount
+bracket	bracket
+
+JA0341	<id>
+Offside	offside
+mirror	mirror
+damaged	damaged
+
+KI2123	<id>
+Investigate	investigate
+5V	<num> V
+supply	supply
+error	error
+
+UY2435	<id>
+C/O	change out
+Pos	position
+6	<num>
++	and
+0	<num>
+Tyres	tyres
+
+JD8905	<id>
+replace	replace
+turbo	turbo
+leaking	leaking
+mount	mount
+PO	PO
+
+XK9760	<id>
+Sunvisor	sunvisor
+u/s	unserviceable
+
+AI9714	<id>
+Hoist	hoist
+lever	lever
+for	for
+tray	tray
+
+1000H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+DU7016	<id>
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+PH6610	<id>
+
+1000H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+KI2123	<id>
+
+FV0302	<id>
+500hr	<num> hour
+Service	service
+-	-
+Out/stding	outstanding
+
+KI2123	<id>
+Bottom	bottom
+offside	offside
+headlight	headlight
+out	out
+
+GE2963-C/out	<id> - change out
+Battery	battery
+RHT	right
+
+500H	<num> hour
+Mech	mechanical
+Svce	service
+Shovel	shovel
+O804	<id>
+DB2637	<id>
+
+LV7795	<id>
+Eng	engine
+Prelube	prelube
+ERR	error
+constantly	constantly
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+UQ9701	<id>
+
+smashed	smashed
+windscreen	windscreen
+
+CZ6065	<id>
+Dash	dash
+Backlight	backlight
+U/S	unserviceable
+
+ti2034	<id>
+pos	position
+2	<num>
+turbo	turbo
+rotated	rotated
+
+TO0487	<id>
+ladder	ladder
+leaking	leaking
+oil	oil
+
+BG9236	<id>
+Centrifugal	centrifugal
+oil	oil
+fltr	filter
+fault	fault
+
+dv1176	<id>
+Ripper	ripper
+Middle	middle
+Light	light
+Blown	blown
+
+1000H	<num> hour
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Rip	rip
+Lift	lift
+RH	right hand
+GE2963	<id>
+
+CZ6065	<id>
+C/O	change out
+Pos	position
+1	<num>
+tyre	tyre
+
+fuel	fuel
+gun	gun
+change	change
+out	out
+
+OK5862	<id>
+repiar	repair
+faulty	faulty
+level	level
+sensor	sensor
+
+AF5037	<id>
+Air	air
+horn	horn
+not	not
+working	working
+
+RZ8994	<id>
+Cooler	cooler
+module	module
+door	door
+latches	latches
+
+UY2435	<id>
+INVESTIGATE	investigate
+ENGINE	engine
+OIL	oil
+LEAK	leak
+
+TO0487	<id>
+Reverse	reverse
+camera	camera
+bulb	bulb
+blown	blown
+
+2000H	<num> hour
+Mech	mechanical
+Svce	service
+Dozer	dozer
+A14V	<id>
+BC4051	<id>
+
+isolator	isolator
+very	very
+stiff	stiff
+and	and
+requires	requires
+freeing	freeing
+
+AI9714	<id>
+blown	blown
+a/c	air conditioner
+hose	hose
+
+BT0391	<id>
+CW	CW
+PTO	PTO
+uni	universal joint
+failed	failed
+
+AL6487	<id>
+Unfiltered	unfiltered
+iol	oil
+presure	pressure
+sensor	sensor
+U/S	unserviceable
+
+DO7053	<id>
+Needs	needs
+R/side	right hand side
+fire	fire
+extinguisher	extinguisher
+
+JD8905	<id>
+-	-
+REPLACE	replace
+LIFT	lift
+CYL	cylinder
+FITTINGS	fittings
+L/H	left hand
+
+LV7795	<id>
+Strg	storage
+accumulators	accumulators
+not	not
+bleeding	bleeding
+
+SM2291	<id>
+Eng	engine
+dip	dip
+stick	stick
+not	not
+secure	secure
+
+QR0218	<id>
+-	-
+Change	change
+out	out
+R/H	right hand
+Track	track
+pins	pins
+
+BC4051-Inspect	<id> - inspect
+Hyd	hydraulic
+Cyl	cylinder
+Blade	blade
+Lift	lift
+LFT	left
+
+BG0988	<id>
+Replace	replace
+frt	front
+panel	panel
+section	section
+
+1000H	<num> hour
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Level	level
+Jack	Jack
+RF	right front
+UF2558	<id>
+
+AF5037-C/out	<id> - change out
+Turbo	turbo
+Primary	primary
+RHT	right
+
+1000H	<num> hour
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Wheel	wheel
+Lean	lean
+JD8905	<id>
+
+2000H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+BT0391	<id>
+
+BG9236	<id>
+Front	front
+right	right
+brake	brake
+cooler	cooler
+hose	hose
+
+Zk2486	<id>
+r/h	right hand
+engine	engine
+CAN	CAN
+BUS	bus
+error	error
+
+UF2558	<id>
+500hr	<num> hour
+Service	service
+-	-
+Out/stding	outstanding
+PO's	POs
+
+SM2291	<id>
+Air	air
+con	conditioner
+hot	hot
+then	then
+cold	cold
+
+1000H	<num> hour
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Level	level
+Jack	Jack
+RF	right front
+OO9426	<id>
+
+RW7142	<id>
+BUCKET	bucket
+AND	and
+STICK	stick
+REPAIRS/INSPECTI	repairs / inspection
+
+r/h	right hand
+tray	tray
+lights	lights
+not	not
+working	working
+
+TY8010	<id>
+Bucket	bucket
+to	to
+stick	stick
+cyl	cylinder
+pin	pin
+movement	movement
+
+Repairs	repairs
+to	to
+bucket	bucket
+weld	weld
+wear	wear
+plate	plate
+
+2000H	<num> hour
+Mech	mechanical
+Insp	inspection
+VLV	valve
+Spring	spring
+XW7976	<id>
+
+3M	<num> month
+Mech	mechanical
+Cond	condition
+Ball	ball
+Stut	stud
+Crack	crack
+Test	test
+SS0308	<id>
+
+QR0218	<id>
+Supply	supply
+hose	hose
+fittings	fittings
+Flex-Tube	<sensitive>
+
+MV3594	<id>
+-	-
+Tow	tow
+machine	machine
+to	to
+HVWorhshop	high voltage workshop
+
+SS0308	<id>
+Steering	steering
+Wheel	wheel
+telescopic	telescopic
+adj	adjuster
+U/S	unserviceable
+
+SM2291-	<id> -
+C/out	change out
+Steering	steering
+Ball	ball
+Studs	studs
+PO	PO
+
+Adjust	adjust
+A/C	air conditioner
+belts	belts
+
+BG0988-	<id> -
+Replace	replace
+rear	rear
+struts	struts
+PO	PO
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Stick	stick
+LH	left hand
+TY8010	<id>
+
+WK1566	<id>
+lockout	lockout
+indicator	indicator
+lite	light
+nt	not
+working	working
+
+bolts	bolts
+missing	missing
+on	on
+l/h	left hand
+and	and
+r/h	right hand
+tracks	tracks
+PO	PO
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Operator	operator
+Seat	seat
+GE2963	<id>
+
+IT4005	<id>
+left	left
+side	side
+blade	blade
+shim	shim
+worn	worn
+
+Franna	Franna
+856	<id>
+a/c	air conditioner
+fan	fan
+u/s	unserviceable
+
+JZ9248	<id>
+Front	front
+brake	brake
+cooler	cooler
+leak	leak
+
+BC1618	<id>
+C/Breaker	circuit breaker
+to	to
+be	be
+replaced	replaced
+
+MR0229-	<id> -
+Valve	valve
+Spring	spring
+Inspection	inspection
+
+Fuel	fuel
+dilution	dilution
+in	in
+engine	engine
+oil	oil
+
+XF3996	<id>
+Camera	camera
+monitor	monitor
+in	in
+cab	cabin
+faulty	faulty
+
+UF2558	<id>
+rear	rear
+gate	gate
+and	and
+handrails	handrails
+bent	bent
+
+1000H	<num> hour
+Insp	inspection
+EQL	equaliser
+Bar	bar
+OUT	out
+BRG	bearing
+RH	right hand
+GE2963	<id>
+
+MV3594	<id>
+Repair	repair
+Air	air
+Conditioner	conditioner
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+A-Frame	A-frame
+BRG	bearing
+RT3290	<id>
+
+FN5736	<id>
+sys	system
+vltg	voltage
+low	low
+
+Me9685	<id>
+replace	replace
+wiggins	Wiggins
+dust	dust
+caps	caps
+
+AI9714	<id>
+low	low
+engine	engine
+oil	oil
+fault	fault
+
+RZ2293	<id>
+enviro	environmental
+vims	VIMS
+sensor	sensor
+failure	failure
+
+VN2231	<id>
+Payload	payload
+meter	meter
+needs	needs
+calibrating	calibrating
+
+CW	CW
+RZ8994	<id>
+Leaking	leaking
+Pos	position
+4	<num>
+Hyd	hydraulic
+cooler	cooler
+fan	fan
+
+XH1714	<id>
+Repair	repair
+Coolant	coolant
+pipe	pipe
+
+TV3998-	<id> -
+C/O	change out
+BLOWN	blown
+HOSE	hose
+ON	on
+STICK	stick
+
+KI2123	<id>
+LH	left hand
+bottom	bottom
+light	light
+replaced	replaced
+
+TO0487	<id>
+-	-
+Air	air
+Con	conditioner
+thermostat	thermostat
+dial	dial
+broken	broken
+
+DN9817	<id>
+1000hr	<num> hour
+Service	service
+&	and
+Inspection	inspection
+
+UQ9701	<id>
+Replace	replace
+cab	cabin
+blind	blind
+
+EX1793	<id>
+Rectify	rectify
+fire	fire
+suppression	suppression
+issues	issues
+
+BT0391	<id>
+Dust	dust
+entering	entering
+cab	cabin
+check	check
+seals	seals
+
+BC1618	<id>
+PTO	PTO
+Drive	driveshaft
+shaft	
+worn	worn
+out	out
+PO	PO
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+CTR	centre
+shift	shift
+IT4005	<id>
+
+JA0341	<id>
+Low	low
+engine	engine
+power	power
+fault	fault
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+FW9593	<id>
+
+1000H	<num> hour
+Insp	inspection
+EQL	equaliser
+Bar	bar
+OUT	out
+BRG	bearing
+RH	right hand
+BC4051	<id>
+
+NF4651	<id>
+repair	repair
+headlight	headlight
+fault	fault
+
+PTO	PTO
+Shaft	shaft
+guard	guard
+broken	broken
+
+XH1714	<id>
+Leaking	leaking
+tranny	transmission
+charge	charge
+hose	hose
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Carry	carry
+Roll	roller
+No	number
+6	<num>
+LH	left hand
+DB2637	<id>
+
+PY9512	<id>
+needle	needle
+valve	valve
+on	on
+compressor	compressor
+u/s	unserviceable
+
+CW	CW
+RZ8994	<id>
+S/N	serial number
+016452	<id>
+Engine	engine
+Warning	warning
+Li	light
+
+DB2637	<id>
+BUCKET	bucket
+AND	and
+STICK	stick
+REPAIRS	repairs
+
+Engine	engine
+oil	oil
+cooler	cooler
+bypass	bypass
+tube	tube
+leaking	leaking
+
+SM2291-C/out	<id> - change out
+Hyd	hydraulic
+Cyl	cylinder
+Steer	steering
+LFT	left
+
+XH1714	<id>
+Ladder	ladder
+mirror	mirror
+over	over
+steps	steps
+broken	broken
+
+ec6466	<id>
+track	track
+frame	frame
+cylinder	cylinder
+cracks	cracks
+
+UF2558	<id>
+rod	rod
+support	support
+wear	wear
+plate	plate
+worn	worn
+
+VU1914	<id>
+Pos	position
+6	<num>
+missing	missing
+valve	valve
+cap	cap
+
+EX1793	<id>
+Reseal	reseal
+Pos	position
+4	<num>
+wheel	wheel
+end	end
+
+RZ8994	<id>
+C/O	change out
+U/S	unserviceable
+G	GET
+E	
+T	
+
+XF3996-REPAIR	<id> - repair
+COOLANT	coolant
+LEAK	leak
+
+XK9760	<id>
+Step	step
+Mounting	mounting
+starting	starting
+to	to
+tear	tear
+
+FN5736	<id>
+Pos	position
+8	<num>
+grease	grease
+line	line
+plate	plate
+missing	missing
+
+FW9593	<id>
+Repair	repair
+engine	engine
+oil	oil
+leak	leak
+
+RW7142	<id>
+investigate	investigate
+A/c	air conditioner
+fault	fault
+
+1000H	<num> hour
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Rip	rip
+Pitch	pitch
+LH	level
+GE2963	<id>
+
+CW	CW
+TO0487	<id>
+Rear	rear
+steer	steering
+accumalator	accumulator
+u/sid	unserviceable
+
+VN2231	<id>
+2000hr	<num> hour
+Service	service
+-	-
+Out/stding	outstanding
+PO's	POs
+
+500H	<num> hour
+Mech	mechanical
+Svce	service
+Drill	drill
+HR950	<id>
+YC	<id>
+UF2558	<id>
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Carry	carry
+Roll	roller
+No	number
+2	<num>
+LH	left hand
+QR0218	<id>
+
+gk5982	<id>
+cylinder	cylinder
+cradle	cradle
+
+AL6487	<id>
+O/Haul	overhaul
+trans	transmission
+pump	pump
+
+KI2123	<id>
+Fuel	fuel
+breather	breather
+missing	missing
+
+BC4051-	<id> -
+Engine	engine
+Tune	tune
+
+DN9817-C/out	<id> - change out
+Swing	swing
+Box	box
+LFT	left
+REAR1	rear
+
+WK1566	<id>
+air	air
+caps	caps
+missing	missing
+pos	position
+2	<num>
+
+Fire	fire
+Suppression	suppression
+Fault	fault
+
+LV7795	<id>
+Low	low
+engine	engine
+power	power
+fault	fault
+
+QR0218	<id>
+Servise	service
+flap	flap
+locking	locking
+pin	pin
+sticky	sticky
+
+DO7053	<id>
+Supply	supply
+hose	hose
+fittings	fittings
+Flex-Tube	<sensitive>
+
+BG9236	<id>
+Strg	storage
+pump	pump
+case	case
+drain	drain
+hose	hose
+leak	leak
+
+Oil	oil
+Leaking	leaking
+from	from
+front	front
+oil	oil
+cooler	cooler
+tube	tube
+
+TY8010	<id>
+RH	right hand
+boom	boom
+cyl	cylinder
+to	to
+carbody	carbody
+movement	movement
+
+10000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Cam	camshaft
+SFT	
+TO0487	<id>
+
+UN7986	<id>
+C/O	change out
+Pos	position
+7	<num>
+tyre	tyre
+
+BT0391	<id>
+change	change
+out	out
+leaking	leaking
+hmu	HMU
+on	on
+next	next
+
+Engine	engine
+oil	oil
+cooler	cooler
+coolant	coolant
+leak	leak
+
+MV3594	<id>
+fuel	fuel
+tank	tank
+breather	breather
+missing	missing
+
+CZ6065	<id>
+A/c	air conditioner
+thermostat	thermostat
+u/s	unserviceable
+
+AF5037	<id>
+-	-
+SIMPLE	<sensitive>
+Line	
+modifications	modifications
+to	to
+modul	module
+
+1000H	<num> hour
+Insp	inspection
+Hyd	hydraulic
+Cyl	cylinder
+Blade	blade
+Tilt	tilt
+RH	right hand
+CC0233	<id>
+
+FV0302	<id>
+Brk	brake
+filter	filter
+Plug	plug
+Cat	Cat
+9	<num>
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Control	control
+VLV	valve
+CTR	centre
+OO9426	<id>
+
+EZ7111-C/out	<id> - change out
+Uni's	universal joints
+Eng-Pump	engine - pump
+Drv	drive
+
+500H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+SM2291	<id>
+
+500H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+PH6610	<id>
+
+12000H	<num> hour
+Mech	mechanical
+Repl	replace
+Swing	swing
+Box	box
+RF	right front
+QR0218	<id>
+
+BG0988-Fire	<id> - fire
+Suppression	suppression
+Inspection	inspection
+
+MY6517	<id>
+Rh	right hand
+window	window
+regulator	regulator
+faulty	faulty
+
+l/h	left hand
+windrow	windrow
+light	light
+not	not
+working	working
+
+FN5736	<id>
+Rplace	replace
+LH	left hand
+brake	brake
+pedal	pedal
+rubber	rubber
+
+RW7142	<id>
+c/o	change out
+blown	blown
+hyd	hydraulic
+hose	hose
+r/hand	right hand
+bucket	bucket
+
+UF2558	<id>
+door	door
+handel	handle
+faulty	faulty
+
+JZ9248	<id>
+Centrifugal	centrifugal
+oil	oil
+fltr	filter
+leaking	leaking
+
+OK5862	<id>
+investigate	investigate
+rotary	rotary
+head	head
+fault	fault
+
+RT3290-Inspect	<id> - inspect
+Rear	rear
+Diff	differential
+Pivot	pivot
+
+XH1714	<id>
+Torque	torque
+converter	converter
+pump	pump
+leaking	leaking
+
+GO8941	<id>
+Minor	minor
+weld	weld
+cracks	cracks
+around	around
+gate	gate
+
+1000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Control	control
+VLV	valve
+CTR	centre
+UF2558	<id>
+
+WK1566	<id>
+hose	hose
+blown	blown
+fan	fan
+case	case
+drain	drain
+
+fan	fan
+pump	pump
+hose	hose
+leaking	leaking
+oil	oil
+p/n	P/N
+621-7881	<id>
+
+RZ8994	<id>
+REPLACE	replace
+1	<num>
+X	x
+CAB	cabin
+RISER	riser
+PRESSURISER	pressuriser
+
+TY8010	<id>
+Clamps	clamps
+for	for
+steel	steel
+pipes	pipes
+missing	missing
+
+3M	<num> month
+Mech	mechanical
+Cond	condition
+Ball	ball
+Stut	stud
+Crack	crack
+Test	test
+AL6487	<id>
+
+10000H	<num> hour
+Mech	mechanical
+Insp	inspection
+Cam	camshaft
+SFT	
+AI9714	<id>
+
+DU7016	<id>
+1000hr	<num> hour
+Service	service
+&	and
+Inspection	inspection
+
+MQR429	<id>
+C/o	change out
+Blown	blown
+HID	HID
+Globe	globe
+L/H	left hand
+Front	front
+
+250H	<num> hour
+Mech	mechanical
+Svce	service
+Haul	haul
+Truck	truck
+AI9714	<id>
+
+W	
+Replace	replace
+RH	right hand
+hoist	hoist
+cylinder	cylinder
+
+BT0391	<id>
+Repair	repair
+VIMS	VIMS
+Faults	faults
+
+FN5736	<id>
+Replace	replace
+air	air
+con	conditioner
+guard	guard
+
+AI9714	<id>
+Replace	replace
+reverse	reverse
+camera	camera
+
+FN5736	<id>
+pos	position
+7	<num>
+aftercooler	aftercooler
+hose	hose
+U/S	unserviceable
+
+UQ9701	<id>
+Righthand	right hand
+front	front
+susp	suspension
+err	error
+
+QR0218-	<id> -
+Repair	repair
+No	number
+6	<num>
+air	air
+conditioner	conditioner
+
+PH6610	<id>
+Fit	fit
+new	new
+version	version
+rear	rear
+ID	ID
+
+QR0218	<id>
+Grease	grease
+leak	leak
+in	in
+back	back
+board	board
+
+CW	CW
+SS0308-C/out	<id> - change out
+Uni's	universal joints
+Eng-Pump	engine - pump
+Drv	drive
+PO	PO
+
+EZ7111-Fire	<id> - fire
+Suppression	suppression
+Inspection	inspection
+
+SS0308	<id>
+Coolant	coolant
+topup	top up
+every	every
+19	<num>
+hours	hours
+
+ZJ7104-Fire	<id> - fire
+Suppression	suppression
+Inspection	inspection
+
+BT0391	<id>
+Tranny	transmission
+Oil	oil
+leak	leak
+
+TO0487	<id>
+Fit	fit
+new	new
+version	version
+rear	rear
+ID	ID
+
+XK9760-C/out	<id> - change out
+Turbo	turbo
+Primary	primary
+LFTls	left
+
+BC4051Cab	<id> cabin
+fliter	filter
+unit	unit
+missing	missing
+base	base
+
+MR0229	<id>
+Minor	minor
+oil	oil
+leak	leak
+inside	inside
+pos4	position <num>
+rim7-C	rim <id>
+

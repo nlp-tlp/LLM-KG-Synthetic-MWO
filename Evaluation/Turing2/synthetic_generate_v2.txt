@@ -1,0 +1,438 @@
+replace headboard with cracks
+repair cracks on cross braces
+repair crack in headboard
+chute is cracked
+replace cracked glass window
+crack in heat shield
+repair cracks in mud bucket
+cracked blade liner needs replacement
+noise from jockey pulley bearing
+repair crack in rock deflector
+cracked mast cross braces
+chord has crack
+adjust noisy bearing
+door frame with hole
+repair crack in boom chord
+repair cracks in fire suppression mounts
+decking has cracks
+equalizer bar bearing making noise
+bearing on compressor noisy
+handrail is cracked
+cracked window
+cracked cabin mounts need repair
+mounts have cracks
+replace cracked chassis cross member
+noise from hydraulic lift cylinder
+steering cylinder bearing is noisy
+roller bearing has noise
+cracked cable gantry
+inspect cracks in stick
+crack in windscreen
+leak in condenser fan hose
+leaking filter
+repair leaking seal
+pump motor hoses are leaking
+hydraulic motor engine oil cooler leaking
+fix transmission hose leak
+cabin seals need replacing due to leaks
+fan pump drive has leak
+centrifuge filter leaking
+repair leak on cover plate
+tank is leaking
+drag rope pump hose has leak
+leak in hoist brake hose
+repair leaking cooling return hose
+replace leaking plug
+fix leaking lube pump
+slew pump hose is leaking
+pump drive has a leak
+replace leaking alternator drive
+repair leaking brake pump hose
+repair leak in slew brake pump
+jacket water pump leak needs repair
+slew pump has a leak
+repair leak in oil cooler
+replace leaking fan motor hose
+leaking chip indicators
+differential pump drive has leak
+leak in hoist motor hose
+fan motor hoses leaking
+repair leak in hmu hose
+blower inverter batteries are discharging
+operator cabin fuse is blowing
+air conditioner compressor continuously tripping out
+blowing fuse issue
+cracked engine cover
+emptying drag rope pump cavity
+steering pump oil leaks
+leak found in fan pump oil
+repair weeping brake filter hose
+weeping found in transmission hose
+batteries discharging too quickly
+fix earthing out hoist blower inverter
+leaking hydraulic motor engine oil
+fix bogging tele-remote
+differential oil is leaking
+weeping hose
+repair pin grease leak
+alarm activated in pto pump chip sensor
+roof heater hose found weeping
+leaks in fan pump oil
+blowing engine air conditioner fuse
+steering pump oil leaking
+parts washer pump chip sensor alarm
+steering cylinder pin grease is leaking
+brake pump cavity emptying issue
+alarm sounding for drag rope pump sensor
+oil leaking from cooler pump
+weeping found on slew pump hose
+cracking on cover
+replace cabin air conditioner fuse blowing
+boarding ladder is not working
+unserviceable hose on differential pump
+not working thermostat
+replace unserviceable dragline air conditioner fan
+emergency gate latch found not working
+snapped drive shaft
+repair drag roller bearings with excess play
+repair damage to auto-greaser door
+engine fault present
+differential lock is broken
+steering shaft needs replacement
+controller filter needs replacement worn
+engine air conditioner guard broken
+change out water pump shaft unserviceable
+tilt cylinder guard found broken
+auto-lube system fault
+dragline air conditioner not producing cold
+engine water pump shaft snapped
+broken brake hose clamp
+hmu hose o-ring blown
+swing brake pump broken condition
+fan pump contamination switch stays on
+blown hose in boom cylinder
+bolt is popped
+operator cabin air conditioner has fault
+change out transmission magnet unserviceable
+unserviceable torque converter fan needs replacement
+repair fault in welding board
+slew pump oil was found
+cabin smoke detector needs replacement missing
+inverter batteries are not charged
+batteries need charging no charge
+blower inverter batteries are uncharged
+filter hose requires fitting
+roller need to change out
+pump hose is in need of repair
+repair hitch hose needed
+hose requires extending
+need clean out steering pump hose
+clam cylinder hose requires replacing
+replace the bolt
+parts washer pump bolt needs replaced
+seat requires extending
+change out pump motor hose
+extending needed for mast dust flap
+water separator filter hose needs repair
+replacing needed for carousel bolt
+adjusting needed for cutting edges
+hydraulic motor engine air conditioner needs to be fitted
+hitch hose needs replaced
+replacing engine water pump shaft needed
+replacing needed for engine pump bolt
+hitch hose requires clean out
+change out walk motor brake switches
+replace steering shaft
+swing brake hose is in need of repair
+window needs a replacement
+centrifuge hose requires repair
+cleaning needed for engine air conditioner
+hoist brake hose needs to be cleaned
+engine air conditioner hose needs replacing
+air conditioner requires replacement
+water pump shaft must be replaced
+revolving frame has oil
+coolant pipe clamps require loctite
+clevis pin needs grease
+seat needs loctite
+dropped cell in battery
+grease missing from steering cylinder pin
+a-frame clevis pin no grease
+loctite is needed on belly plate bolt
+engine pump bolt needs loctite
+cooler pump bolt needs loctite
+apply loctite on clamps
+no grease on pin
+apply loctite on bolt
+dogbone bolt needs loctite
+loctite needed on brake pump bolt
+pump bolt needs loctite
+no grease in dogbone pin
+loctite needed on slew pump bolt
+window frame requires loctite
+apply loctite to pto pump bolt
+loctite application needed on cabin seat
+oil found on frame
+loctite needed on differential pump bolt
+fan pump bolt needs loctite
+steering pin lacking grease
+cabin needs an aerial
+install missing smoke detector in cabin
+aerial required for am/fm radio
+radio requires new aerial
+loctite needed on steering pump bolt
+motor hose has oil leak
+replace leaking air conditioner fan pump
+wiper motor hose needs oil leak repair
+replace leaking bucket cylinder hose
+controller filter hose leaks oil
+leaking fuel from air conditioner hose
+leak fuel from tilt cylinder hose
+filter hose has leaking oil
+fuel leaking from fan pump
+leak of oil in slew pump
+leak oil from differential cooler pump
+fuel leak in bucket cylinder hose
+leak of hydraulic oil from cooler fan hose
+diverter valve leaking hydraulic oil
+slew pump hose has coolant leak
+leak air in compressor safety valve
+motor hoses found leaking fuel
+oil leak in return hose
+transmission has oil leak
+hydraulic oil leak from hoist brake pump
+replace charge hose leaking oil
+leak oil from transmission hose
+oil leak in engine air conditioner
+leak of hydraulic oil in crowd cylinder hose
+leaking coolant in filter hose
+coolant leak from transmission hose
+heater hose has air leak
+compressor safety valve leaks fuel
+hydraulic oil leak from brake pump hose
+oil leaking from brake filter hose
+repair crack in cable gantry
+windscreen crack needs repair
+cracked mounts
+cracked fuel cooler mounts
+repair crack in cross member
+compressor bearing making noise
+mud bucket cracking found
+cracks found in boom
+cracked headboard needs repair
+noise from hydraulic lift cylinder
+heat shield crack found
+tank has crack
+cracks found on stick
+diagonal braces cracking
+bucket has cracks
+frame has crack
+repair cracked backhoe windscreen
+cracked chassis cross member
+window has a crack
+replace noisy steering cylinder bearing
+cracks in cross braces
+equalizer bar bearing making noise
+cracked fire suppression mounts
+track frame has crack
+crack in rock deflector
+headboard has cracks
+boom foot has crack
+noisy jockey pulley bearing
+repair crack in glass window
+cracked mast cross braces
+hoist motor hose is leaking
+replace leaking taps
+leak in pilot valve solenoid
+fuel filter water separator filter is leaking
+repair leak in radiator tank
+motor hose has a leak
+slew motor hose leaking
+drag rope pump is leaking
+leaking engine pump drive
+leak in engine oil cooler
+engine fan pump leak found
+leaks in centre hitch
+fan pump hose leaking
+replace leaking centrifuge filter hose
+replace leaking swing pump
+leaking cooler fan pump
+leak in cover plate
+replace leaking cylinders
+leaking accessory drive
+replace leaking wiper motor hose
+slip ring leaking
+replace leaking condenser fan pump
+slew brake pump leak found
+leaking pump motor hose
+replace leaking hmu
+cooler hose leaking
+leaking controller filter hose
+leaking dragline air conditioner
+leaking swing brake filter
+hydraulic motor cooler pump leak found
+bucket cylinder hose is weeping
+leaking drag rope pump oil
+oil is leaking
+cracks in dragline air conditioner cover
+weeping steering pump hose
+steering cylinder pin is moving
+replace weeping brake hose
+replace weeping fan motor hose
+earthing out in drag blower inverter
+repair cracked cover
+leaking drag rope pump oil
+engine air conditioner cover cracking
+replace weeping cooler fan hose
+dogbone pin grease leak
+operator cabin air conditioner cover cracking
+replace leaking centre hitch oil
+leaking differential pump oil
+swing pump chip sensor triggering alarm
+differential pinion cover cracking
+oil leak detected
+drag motor hose is weeping
+slew brake hose is weeping
+drag brake hose is weeping
+steering pin grease has leak
+alarm activated on fan pump chip sensor
+weeping found in filter hose
+transmission oil leak
+tripping out dragline air conditioner compressor
+cooler pump oil leaks
+replace weeping engine pump hose
+propel ground fault
+differential oil has been found
+replace unserviceable cabin air conditioner
+motor is tripping
+hose is unserviceable
+blown light
+worn out transmission controller filter
+fuel breather found missing
+iov fault detected
+fire extinguisher bracket broken
+replace dragline air conditioner no good
+replace blown swing motor hose
+replace unserviceable tilt cylinder
+hinges seized
+axle oil cooler hose found unserviceable
+on slew brake warning light
+air conditioner compressor oil pressure switch found unserviceable
+steering hose is unserviceable
+low level in fan pump cavity
+compressor found unserviceable
+missing bolt
+repair cracked fuel tank
+repair snapped conveyor head pulley shaft
+air conditioner not working good
+cap needs replacement missing
+fan pump lube system has faults
+low level in swing pump cavity
+find missing slew pump bolt
+replace unserviceable dragline air conditioner compressor
+replace unserviceable fan motor hose
+blower inverter batteries need charging
+batteries showing no charge
+inverter batteries have no charge
+clam cylinder hose requires repair
+engine pump hose needs replacing
+auto-greaser door window requires replacing
+seat needs to be extended
+replace engine water pump shaft
+resealing needed for door window
+hoist brake hose replacement needed
+dust flap needs clean out
+engine air conditioner hose needs replacement
+hmu hose needs extension
+filter hose needs to be repaired
+fan motor hose needs to be extended
+fitting needed for differential cooler hose
+auto-greaser door struts require replacement
+need clean out brake hose
+tracks need cleaning
+clean out needed for hose
+fitting required for slew pump hose
+dragline air conditioner needs cleaning
+slew brake hose needs replacing
+torque converter fan hose needs clean out
+walk motor brake switches need to change out
+engine pump bolt needs replaced
+extending needed for slew brake hose
+replacing required for caps
+hydraulic motor engine air conditioner needs replaced
+pump hose needs extending
+repair needed for mast dust flap
+clean out needed for transmission hose
+replacing needed for hose
+boom foot clevis pin no grease
+steering cylinder pin needs grease
+am / fm radio requires aerial
+brake pump bolt needs loctite application
+loctite needed for engine pump bolt
+grease missing from dogbone pin
+loctite needed for window frame
+grease missing on a-frame clevis pin
+pto pump bolt needs loctite application
+loctite needed for swing pump bolt
+apply loctite to seat
+clear blocked grass from radiator
+carousel bolt needs loctite
+steering pin needs grease
+apply loctite to drag rope pump bolt
+differential pump bolt needs loctite
+apply loctite on fan pump bolt
+bolt needs loctite
+apply loctite on pump bolt
+coolant pipe clamps needs loctite application
+oil discovered on frame
+loctite needed for dogbone bolt
+cabin needs aerial work
+parts washer pump bolt needs loctite
+mast raise cylinder pin requires grease
+loctite needed for belly plate bolt
+radio needs an aerial
+revolving frame found oil
+loctite needed for cooler pump bolt
+no grease on pin
+tilt cylinder hose leak hydraulic oil
+slew brake pump has grease leak
+leaking oil from pto shaft input seal
+leak fuel from fan pump hose
+air leaking from bucket cylinder hose
+pump hose leaking hydraulic oil
+coolant leaking from hoist motor hose
+leaking fuel from hydraulic motor cooler hose
+cooler pump hose leaking oil
+fuel leak in boom cylinder hose
+leaking coolant from engine oil cooler hose
+engine fan pump leaking oil
+oil leaking from alternator drive
+hydraulic hose is leaking oil
+leak fuel from safety valve
+repair leaking coolant in torque converter fan hoses
+heater hose leaking air
+steering accumulator has air leak
+boom cylinder hose leaking hydraulic oil
+fuel leak from drag brake pump
+oil centrifuge gasket has oil leak
+replace leaking air slew brake hose
+engine fan hose is leaking air
+replace leaking steering shaft input seal
+air leak in centrifuge hose
+cabin air conditioner hose leaking grease
+engine air conditioner hose has coolant leak
+leak of hydraulic oil from slew brake pump
+grease leaking from fan pump
+hoist motor hose leaking oil
+diagonal braces cracked
+cross braces have cracks
+repair crack in fuel tank
+crack in cable gantry
+cracked mast cross braces
+steering cylinder bearing has noise
+cracked chute needs repair
+stick cracked
+repair crack in liner
+crack in track frame
+replace backhoe windscreen crack
+chord is cracked

@@ -1,0 +1,616 @@
+<id> air conditioner thermostat not working
+<id> air conditioner thermostat unserviceable
+<id> air conditioner unserviceable
+<id> air conditioner unserviceable when stationary
+<id> air conditioner warm
+<id> air filters plugged
+<id> air horn disconnected
+<id> air horn doesn't work
+<id> air horn fault
+<id> air horn not working
+<id> air horn not working compressor awaiting
+<id> air horn stuck on
+<id> air horn unserviceable
+<id> air horn working intermittently
+<id> airhorn not working
+<id> alarm on VIMS doesn't work
+<id> all dash lights on
+<id> alternator failed
+<id> alternator not charging
+<id> alternator overcharge fault
+<id> alternator overcharge fault
+<id> alternator overcharged
+<id> analyse failed driveline component
+<id> and <id> lube system faults
+<id> armrest unserviceable
+<id> auto-greaser unserviceable
+<id> auto-lube error PO
+<id> auto-spray feature not working
+<id> axle temperature fault
+<id> axle temperature fault
+<id> axle temperature sensor fault
+<id> back rest unserviceable handle broken
+<id> back rest unserviceable handle broken
+<id> backhoe windscreen to be fixed
+<id> backlight on dash unserviceable
+<id> backlights on dash blown
+<id> backup alarm not working
+<id> batteries out of service
+<id> batteries unserviceable
+<id> battery cover hinges seized
+<id> beacon mount is broken
+<id> beacon not working
+<id> beacon unserviceable
+<id> bearing on air conditioner compressor unserviceable
+<id> bearings are shot
+<id> belly plate bolt missing
+<id> bent belly plate
+<id> blade light blown needs replacing
+<id> blade light blown needs replacing
+<id> blade skin cracked
+<id> blade wear plates cracked and worn
+<id> blade wear plates cracked and worn
+<id> blown air conditioner hose
+<id> blown air conditioner hose to radiator
+<id> blown brake hose
+<id> blown crowd cylinder hose
+<id> blown extension line from position <num>
+<id> blown hose in hitch
+<id> blown hose on boom
+<id> blown lift cylinder o-ring
+<id> blown light on boom
+<id> blown o-ring off steering hose
+<id> blown o-ring on left hand lift cylinder
+<id> blown o-ring on steering hose
+<id> blown oil cooler hose - <num> x <num> <num> metre
+<id> blown position <num> tyre
+<id> blown right hand bucket cylinder hose
+<id> blown steering hose
+<id> blown steering pump hose
+<id> boarding gate hinge broken
+<id> boarding gate latch not working
+<id> boarding ladder not working
+<id> boost fault
+<id> boost fault
+<id> brake release fault
+<id> brake release fault
+<id> brake temperature error
+<id> brake temperature error
+<id> broken air conditioner guard
+<id> broken clamp on crowd cylinder hose TBC
+<id> broken fuel cooler mounts
+<id> broken grease plug
+<id> broken hinge
+<id> broken joystick PO
+<id> broken left hand side mirror
+<id> broken mirror
+<id> broken right hand side door window
+<id> broken ripper tooth
+<id> broken weld on handrail
+<id> bucket cracked in arch near cancelled
+<id> cabin door window cracked
+<id> cabin needs resealing
+<id> cabin seat needs replacing
+<id> cabin window needs resealing
+<id> camera fault
+<id> carousel popped bolt needs Loctite
+<id> carousel popped bolt needs Loctite
+<id> centrifugal oil filter fault
+<id> change out blown o-ring on steering pump
+<id> change out blown position <num> tyre
+<id> change out blown steering hose
+<id> change out broken bolt on brake pump
+<id> change out broken prelube bracket
+<id> change out broken stabilizer bar
+<id> change out cracked pipe on valve bank
+<id> change out cracked position <num> adaptor and tooth
+<id> change out exhaust clamp broken on left hand side [t |]
+<id> change out front upper window cracked
+<id> change out position <num> and <num> tyre worn out
+<id> change out position <num> tyre - sensor not reading
+<id> change out position <num> tyre damage
+<id> change out unserviceable jacket water pump
+<id> change out unserviceable left hand bucket cylinder hose
+<id> change out unserviceable position <num> tyre
+<id> change out unserviceable right hand clam cylinder hose
+<id> change out unserviceable right hand tilt cylinder
+<id> change out unserviceable swing brake cylinder
+<id> change out worn position <num> tyre
+<id> change position <num> flat tyre
+<id> change position <num> tyre damage text
+<id> charging fault
+<id> charging fault
+<id> check for charge fault
+<id> check for charge fault
+<id> check repair shutdown fault
+<id> check repair shutdown fault
+<id> chord pressure fault
+<id> chord pressure fault
+<id> compressor oil pressure switch unserviceable
+<id> contactor fault
+<id> control valve unserviceable see long text
+<id> coolant pipe clamps needs fitting TBC
+<id> cords cracked at <id> and <id>
+<id> cracked front window
+<id> cracked fuel tank
+<id> cracked hydraulic pipe
+<id> cracked steering tank suction tube
+<id> cracked suction tube
+<id> cracked walkway and handrails
+<id> crankcase error
+<id> cutting edges loose
+<id> cutting edges need change out
+<id> damage to position <num> tyre
+<id> damaged position <num> tyre
+<id> damaged position <num> tyre and rim
+<id> dash broken
+<id> diagnose / repair fuel fault
+<id> diagnose / repair fuel fault
+<id> diagnose / repair slow steering
+<id> diagnose and repair spray faults
+<id> diagnose and repair torque converter temperature error
+<id> diagnose and repair torque converter temperature error
+<id> diagnose engine fault
+<id> diagnose transmission overheat fault
+<id> diagnose transmission overheat fault
+<id> diagnose transmission slipping fault
+<id> diagnose transmission slipping fault
+<id> differential lock broken
+<id> dogbone pin out
+<id> dragline air conditioner units need cleaning
+<id> drill out broken bolt see text
+<id> driver's door top hinge broken
+<id> drivers window fault
+<id> electrical fault
+<id> electrical fault
+<id> electrical fault in the <id>
+<id> electrical fault in the <id>
+<id> electrical faults
+<id> electrical faults
+<id> electrical harness fault
+<id> repair fuel fault
+<id> repair fuel fault
+<id> replace faulty brake sensor <num> task
+speedometer not working
+<id> failed PTO and auxiliary drive PO
+drag tripped on electrical
+<id> position <num> brake temperature error
+<id> position <num> brake temperature error
+front revolving light not working
+fire extinguisher out of date
+hoist motor <num> RTD wired incorrectly
+machine won't start
+<id> replace blown implement hose
+<id> replace blown right hand steering hose
+crane not working
+grease pump unserviceable
+transmission fill / drain plug unserviceable
+oil found in revolving frame
+IOV fault on drag package
+rear through shaft universal joint unserviceable
+all lighting requires testing and tagging
+steering cylinder bearings have excess play
+<num> volt supply error
+<num> volt supply error
+<num> volt supply error
+<id> rear wiper motor unserviceable
+front right hand roller need to be fitted
+main isolator needs clean out
+<id> replace transmission - cracked
+<id> park brake alarm sounds continuously
+system <id> pump pressure gauge not working
+<id> replace unserviceable differential drain plugs
+<id> park brake alarm fault
+<id> park brake alarm fault
+<id> investigate / repair no gear fault
+handrail above battery box cracked
+<id> front window cracked replace
+VIMS keypad light out
+diagnose and repair ladder fault
+<id> replace damaged position <num> tyre and position <num>
+ground fault welding board
+ground fault welding board
+<id> grease gauges requires replacing
+<id> fire extinguisher bracket on deck loose
+<id> trace logic box fault
+<id> trace logic box fault
+rear door struts require replacing
+mechanical - PTO not meshing
+swing brake pressure fault
+swing brake pressure fault
+<id> tail pulley has no grease lines
+replace missing cutting edge
+<id> replace <num> x cracked windows
+ground fault in propel
+ground fault in propel
+drag generator fault
+parts washer pump broken
+position <num> tyre blown
+<id> grease system fault
+<id> investigate auto-lube fault
+brake warning light on
+<id> faulty fuel pressure sensor
+bottom steering shaft universal joint worn
+right hand bobbin roller unserviceable
+<id> replace damaged tyre on position <num>
+<id> repair brake fault
+synchronous motor <num> trip
+walk motor <num> brake fault
+<id> tray fault
+<id> investigate / repair hydraulic fault
+<id> investigate / repair hydraulic fault
+steering hub caps require replacing
+bulk fuel tank cracked and leaking
+swing resolver not counting
+<id> repair gear fault
+<id> repair air conditioner and wiring fault
+<id> replace damage auto-greaser door
+swing resolver fault
+<id> investigate / repair joystick needs repair
+drag chain fault
+<id> headboard welds broken / cracked
+<id> headboard welds broken / cracked
+hoist brake switches need adjusting
+change out position <num> tyre worn
+cabin jacking cylinder ends unserviceable
+<id> replace blown main pump hose
+tracks need adjusting
+<id> replace cracked transmission dropbox
+no excitation on hoist
+front window roller blind broken
+<id> replace position <num> tyre damaged
+cabin seat unserviceable needs replacing
+cabin seat unserviceable needs replacing
+diagnose VIMS error
+<id> replace position <num> tyre - mismatched
+<id> hoist brake number <num> position out of adjustment
+PTO shaft requires replacing
+<id> - <id> missing poppet valve
+<id> - AM / FM radio needs new aerial
+<id> - Tele-Remote camera fault
+<id> - Tele-Remote cameras fault - text -
+<id> - Tele-Remote fault
+<id> - Tele-Remote faults
+<id> - Tele-Remote issues
+<id> - air conditioner compressor corroded
+<id> - air conditioner compressor unserviceable
+<id> - air conditioner fault
+<id> - air conditioner no good
+<id> - air horn not working
+<id> - brake hose needs to be replaced
+<id> - change out blown hose
+<id> - change out broken grease lines
+<id> - change out number <num> faulty injector assembly
+<id> - change out plugged fuel filters
+<id> - change out worn ripper tip ripper tip
+<id> - emergency gate latch broken
+<id> - engine bay light blown
+<id> - engine shutdown fault
+<id> - front headlight blown
+<id> - fuel breather missing
+<id> - fuel cap is missing
+<id> - grease system fail
+<id> - grease system fault
+<id> - ladder fault
+<id> - left hand corner bonnet cracked
+<id> - low power fault
+<id> - low power fault
+<id> - low power fault
+<id> - lower left hand headlight blown
+<id> - lube fault
+<id> - modular does not self assign
+<id> - no reception on AM / FM radio
+<id> - operators seat worn padding
+<id> - park brake fault
+<id> - rectify low power fault
+<id> - rectify low power fault
+<id> - rectify low power fault
+<id> - repair blown air conditioner hose
+<id> - repair cracked steering tank mo
+<id> - repair position <num> overstroke fault
+<id> - repair position <num> overstroke fault
+<id> - repair transmission fault
+<id> - repair tray up fault
+<id> - repair tray up fault
+<id> - repaired <num> x broken lines
+<id> - replace blocked dryer
+<id> - replace blown hose
+<id> - replace blown work lights
+<id> - replace broken onside mirror
+<id> - replace cracked exhaust shield
+<id> - replace failed air conditioner compressor
+<id> - ripper shank broken
+<id> <id> charge fault
+<id> <id> charge fault
+<id> <id> engine shutdown fault
+<id> <id> engine shutdown fault
+<id> <id> grease system has intermittent fault
+<id> <id> grease system has intermittent fault
+<id> <id> steering pin no grease text
+<id> <id> transmission temperature fault
+<id> <id> transmission temperature fault
+<id> <num> V supply error
+<id> <num> V supply error
+<id> <num> V supply error
+<id> <num> injector error
+<id> <num> v supply error
+<id> <num> v supply error
+<id> <num> v supply error
+<id> <num> v supply error issue
+<id> <num> v supply error issue
+<id> <num> v supply error issue
+<id> Bradken to repair broken clam
+<id> CW PTO universal joint failed
+<id> CW engine water pump snapped shaft
+<id> CW transmission failed
+<id> GET change out worn cutting edges
+<id> Tele-Remote fault
+<id> VIMS fuel filter plugged
+<id> aftercooler tank gauge broken
+<id> aftercooler temperature error
+<id> aftercooler temperature error
+<id> air conditioner belt broken
+<id> air conditioner compressor not working
+<id> air conditioner fan unserviceable - fit new
+<id> air conditioner fault
+<id> air conditioner needs a boost not cold
+<id> air conditioner needs a boost not cold
+<id> air conditioner not cold PO
+<id> air conditioner not cold electrical faults
+<id> air conditioner not cold electrical faults
+<id> air conditioner not cold electrical faults
+<id> air conditioner pressure switch unserviceable
+number <num> right hand air brake line needs replacing
+[ shutdown ] vinyl flooring unserviceable
+air conditioner fan speed resistor not working <num> and <num>
+air brake line blown - requires replacing
+air brake line blown - requires replacing
+batteries have no charge
+battery unserviceable dropped cell replace
+battery unserviceable dropped cell replace
+blade control cable tight
+blown air conditioner fuse
+broken proximity sensor tag - carosell
+broken wire on speaker
+cabin side weightometer not working
+cabin smoke detector missing
+collect broken tooth
+constant voltage transformer melted
+contamination alarm on
+cracked power point in cabin
+dry cell not working properly <id>
+depth counter unserviceable
+diagnose / repair right hand scoreboard not working
+<sensitive> depth counter not working
+dust flap on cabin side of mast needs extending
+electric propel siren not working
+earth wire broken on bottom of radiator
+equipment damaged ( terminal box )
+flag missing
+fuel filter water separator housing broken
+generator flow regulator unserviceable
+heat up locked steels
+heater hose in cab roof unserviceable
+ignition switch broken replace
+ignition switch sticking
+investigate main transformer overload fault
+investigate main transformer overload fault
+key broken in ignition switch
+left hand chain guide unserviceable
+left hand chain guide worn at the top
+left hand PTO pump chip sensor harness unserviceable
+microwave oven unserviceable
+number <num> pump contamination switch on
+number <num> slew pump contamination switch unserviceable
+position <num> pump cavity low
+power step control cable broken
+pump drive box coupling and shaft unserviceable
+radiator blocked with grass
+radiator sight glasses unserviceable
+remove unserviceable air separator
+repair cracked baffle in hydraulic tank
+repair cracked roof skin left hand side exhaust
+repair faulty safety valve
+repair left hand scoreboard base cracked
+repair worn centrifuge filter
+replace broken earth terminal
+replace cracked glass in entry door
+replace cracked water separator
+replace seized air conditioner control cable
+replace shorted diode RPC <num>
+replace unserviceable grease distributor
+replace unserviceable chip indicators
+replace unserviceable ignition switch
+replace unserviceable transmission screen and magnet
+rock breaker cracked
+rock breaker in bucket cracked at base
+safety flag missing
+siren unserviceable
+troubleshoot smart meter not communicating
+transformer trip
+TV monitor doesn't turn on
+TV monitor has no signal
+voltage regulator fuse fault
+weightometer display on trailer unserviceable
+will not start - batteries unserviceable
+will not start - batteries unserviceable
+window frame needs repair
+wiper fuse unserviceable
+<id> crack in blade liner left hand side
+<id> crack in boom <id> chord
+<id> crack in fuel tank
+<id> crack in headboard
+<id> crack in lower centre of windscreen
+<id> crack in windscreen
+<id> crack onside rock deflector
+<id> cracks in back right hand side handrail
+<id> cracks in decking
+<id> cracks in diagonal braces in front
+<id> cracks in fire suppression mounts
+<id> cracks in headboard
+<id> cracks in the dirt chute
+repair cracks in mud bucket
+<num> - cable gantry crack repairs
+bearing noisy
+<id> repair right hand fuel tank crack
+<id> repair cracks on stick
+<id> repair boom cracks left hand side
+<id> - left hand side boom foot crack repair
+<id> - noisy hydraulic lift cylinder
+<id> - repair right hand track frame crack
+<id> - stick cracks
+<id> <id> chord is leaking air from crack
+crack repairs left hand window frame
+hole in door frame
+<num> glass window has large crack
+repair crack in right hand side of rear cross member
+repair chassis crack at right hand rear cross member
+repair crack in rear cross member
+repair crack on left hand front heat shield
+repair cracks in mast cross braces
+<id> air leak
+<id> air leak near side of door
+<id> air leaking from line outside
+<id> alternator drive leaking
+<id> auto-greaser leaking oil
+<id> batteries discharging
+<id> both stick cylinders leaking
+<id> brake cooling hose leaking
+<id> brake cooling hose leaking rear
+<id> brake cooling return hose leaking
+<id> cabin seals leaking dust PO
+<id> cabin seals leaking dust bad
+<id> centrifugal oil filter leaking
+<id> change out leak slew motor hose
+<id> change out leaking HMU on next
+<id> change out leaking fan hoses
+<id> change out leaking heater taps
+<id> change out leaking hydraulic hose
+<id> change out leaking implement pump
+<id> change out leaking relay valve
+<id> change out leaking steering hose
+<id> change out left hand steering cylinder leaking
+<id> change out weeping boom cylinder hose
+<id> check / repair engine oil leak
+<id> chord leaking air found <id>
+<id> coolant hose leaking at right hand bottom
+<id> coolant leak
+<id> coolant leak at engine oil cooler
+<id> coolant leak at jacket water pump
+<id> cooler return pipe coupling leak
+<id> crowd cylinder creeping replace
+<id> differential cooler fan hose leaking
+<id> differential cooler hose leaking
+<id> differential cooler pump leaking
+<id> differential leak
+<id> differential lube pump leaking
+<id> differential lube pump leaking PO
+<id> differential oil leak
+<id> differential pump motor hose leaking
+<id> duo-cone seals leaking number <num> swing
+<id> dust leak operators side window
+<id> ripper control valve falling off
+<id> replace leaking transfer pipe
+<id> possible minor leak on fuel tank
+<id> rear steering accumulator leak
+<id> replace oil leaks
+repair leaking swing <num> pedestal seals
+movement found right hand engine mount
+<id> investigate and repair oil leak <id>
+<id> grease pump is bypassing air
+<id> investigate engine oil leak
+<id> replace right hand lift cylinder leaking
+<id> oil leak at air compressor
+<id> replace leaking scavenge pump
+coolant leaking
+change out leaking transmission hose
+movement on steering column
+oil leak swingbox <num>
+middle air drain tap leaking
+<id> engine oil leaks right hand side
+<id> leaking brake cooling hose
+left hand side pinion change out cover cracking
+<id> left hand rear brake cooling hose leaking
+fitting leaking out of main air tanks
+<id> repair centre hitch oil leaks
+<id> repair oil leak position <num> wheel end
+bulk fuel tank cracked and leaking
+hydraulic hose leaking in centre of machine
+inspect bad engine oil leak
+repair movement in left hand steering pin
+park brake indicator light going on and off
+oil leak from behind water pump
+<id> repair exhaust leaks
+stick cylinder leaking
+<id> - CW left hand hoist cylinder leaking plug
+<id> - CW radiator core leak
+<id> - CW right hand hoist cylinder leaking
+<id> - HMU hose weeping
+<id> - PTO shaft input seal leaking
+<id> - air conditioner system leaking
+<id> - air leak
+<id> - change out leaking transmission hose
+<id> - coolant leak
+<id> - differential lube hose leaking
+<id> - differential oil leak
+<id> - engine fan hose weeping
+<id> - engine oil leak
+<id> - engine oil leak - inspection plate
+<id> - engine overheating
+<id> - engine vibration <num>-<num> RPM
+<id> - exhaust leak
+<id> - fan hose leaking
+<id> - fuel leak
+<id> - hoist drum cracking
+<id> - hose leak developing
+<id> - hydraulic oil leak from environmental
+<id> - investigate torque converter fan pump oil leak
+<id> - left hand boom cylinder hose leaking PO
+<id> - minor transmission oil leak
+<id> - radiator relief valves leaking
+<id> - rear steering accumulator leaking
+<id> - repair engine oil leak and
+<id> - repair engine oil leaking
+<id> - repair leaking centrifugal filter
+<id> - replace leaking steering cylinder
+<id> - replaced leaking steering hose
+<id> - set-up Tele-Remote bogging
+<id> - transmission charge hose leaking
+<id> <id> chord is leaking air from crack
+<id> <id> oil leak pilot filter text
+<id> <id> repair engine oil leak text
+<id> <id> repair transmission oil leak text
+<id> <id> replace hydraulic oil leak text
+<id> CW engine oil leaks x <num>
+<id> CW top radiator tank leak again
+<id> PTO input seal leaking
+<id> adaptor leaking at implement valve
+<id> air conditioner accessory drive leaking oil
+<id> air conditioner compressor tripping out
+<id> air conditioner drive leaking
+<id> air conditioner drive leaking oil
+air pressure safety valve exhausting
+centrifuge hose leaking - replace
+compressor safety valve leaking
+contamination alarm coming up
+engine oil blender running constantly
+front lights keep blowing fuse
+grease distributor leaking
+high voltage slip ring inspection - grease leak
+inverter earthing out <id>
+keeps blowing starter / horn fuse
+oil centrifuge gasket leaking right hand engine
+oil leak at diverter valve
+oil leak inlet to oil burner cover plate
+position <num> pressure compensator weeping
+position <num> chip sensor alarm
+pilot valve leaking oil
+pressure compensator leaking
+pressure control valve in cabin leaking
+right hand PTO cavity emptying
+repair air leak at air tank safety valve
+repair leak in pilot valve solenoid
+replace chip indicators ( leaking )
+slip ring overgreasing
+water separator filter leaking see photo
+water separator leaking fuel

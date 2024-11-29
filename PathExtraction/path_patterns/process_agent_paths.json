@@ -1,0 +1,2816 @@
+[
+    {
+        "object_name": "air compressor",
+        "object_type": "PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "compressor",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fuel tank",
+        "object_type": "PhysicalObject/StoringObject/EnclosedStationaryStoringObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "tank",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "exhaust",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "torque converter fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "condenser fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor cooler pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential cooler pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pilot filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "filter",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "radiator tank",
+        "object_type": "PhysicalObject/StoringObject/EnclosedStationaryStoringObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "high voltage slip ring",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyTransformingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "slip ring",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "compressor safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner compressor safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air tank safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "coupling",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "return pipe coupling",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler return pipe coupling",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist coupling",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic pump coupling",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag coupling",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist drag coupling",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "oil cooler",
+        "object_type": "PhysicalObject/EmittingObject/ThermalCoolingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "engine oil cooler",
+        "object_type": "PhysicalObject/EmittingObject/ThermalCoolingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine oil cooler",
+        "object_type": "PhysicalObject/EmittingObject/ThermalCoolingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "axle oil cooler",
+        "object_type": "PhysicalObject/EmittingObject/ThermalCoolingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "hydraulic motor engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "bucket cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "boom cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hmu hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "axle oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "clam cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "water separator filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "controller filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifuge filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "boom hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifuge hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "crowd cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "tilt cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "heater hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "roof heater hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "wiper motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "torque converter fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "condenser fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hitch hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "door",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cabin door",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "auto-greaser door",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "swingbox",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cover plate",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "oil burner cover plate",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "radiator",
+        "object_type": "PhysicalObject/EmittingObject/ThermalEnergyTransferObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "solenoid",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "pilot valve solenoid",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pilot valve solenoid",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering solenoid",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "jacket water pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "water pump",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "diverter valve",
+        "object_type": "PhysicalObject/ControllingObject/SolidSubstanceFlowVaryingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "window",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cabin window",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "door window",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin door window",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "auto-greaser door window",
+        "object_type": "PhysicalObject/ControllingObject/SpaceAccessObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "accumulator",
+        "object_type": "PhysicalObject/StoringObject/MechanicalEnergyStoringObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "steering accumulator",
+        "object_type": "PhysicalObject/StoringObject/MechanicalEnergyStoringObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "bucket cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "boom cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hmu hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "axle oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "clam cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "water separator filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "controller filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifuge filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "boom hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifuge hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "crowd cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "tilt cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "heater hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "roof heater hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "wiper motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "torque converter fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "condenser fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hitch hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "water separator filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fuel filter water separator filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "controller filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission controller filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifuge filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "implement pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "pump",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "hydraulic motor engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "compressor safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner compressor safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air tank safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "shaft input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering shaft input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto shaft input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drive shaft input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "water pump shaft input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "head pulley shaft input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto input seal",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "seal",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "taps",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "heater taps",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "roof heater taps",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "coolant hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "hose",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pressure compensator",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "hoist cylinder",
+        "object_type": "PhysicalObject/DrivingObject/FluidPoweredDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cylinder",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fitting",
+        "object_type": "PhysicalObject/InterfacingObject/SealedFlowConnectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "air tanks fitting",
+        "object_type": "PhysicalObject/InterfacingObject/SealedFlowConnectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "grease distributor",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cooling hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "brake cooling hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake cooling hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake cooling hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake cooling hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake cooling hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake cooling hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "seals",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cabin seals",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pedestal seals",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pedestal seals",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "motor hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing motor hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag motor hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "wiper motor hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist motor hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan motor hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump motor hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine fan hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "torque converter fan hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fan hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler fan hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "condenser fan hoses",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifugal filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "filter",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "torque converter fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "condenser fan pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor cooler pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential cooler pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "charge hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "transmission charge hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "tap",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "air drain tap",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "adaptor",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "implement valve adaptor",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "lift cylinder",
+        "object_type": "PhysicalObject/DrivingObject/FluidPoweredDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "stick cylinder",
+        "object_type": "PhysicalObject/DrivingObject/FluidPoweredDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "alternator drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump drive",
+        "object_type": "PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "relief valves",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "radiator relief valves",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "line",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "air brake line",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "lube hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "differential lube hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "chip indicators",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "lube pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "differential lube pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "bulk fuel tank",
+        "object_type": "PhysicalObject/StoringObject/EnclosedStationaryStoringObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "fuel tank",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "tank",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "chord",
+        "object_type": "PhysicalObject/HoldingObject/StructuralSupportingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "boom chord",
+        "object_type": "PhysicalObject/HoldingObject/StructuralSupportingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transfer pipe",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "crowd cylinder transfer pipe",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pipe",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "plug",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidSwitchingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "hoist cylinder plug",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidSwitchingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pressure control valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cabin pressure control valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "auto-greaser",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "accessory drive",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "air conditioner accessory drive",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner accessory drive",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner accessory drive",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner accessory drive",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner accessory drive",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drive",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "machine hydraulic hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering cylinder",
+        "object_type": "PhysicalObject/DrivingObject/FluidPoweredDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "pilot valve",
+        "object_type": "PhysicalObject/InformationProcessingObject/FluidSignallingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "steering pilot valve",
+        "object_type": "PhysicalObject/InformationProcessingObject/FluidSignallingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "accumulator",
+        "object_type": "PhysicalObject/StoringObject/MechanicalEnergyStoringObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "steering accumulator",
+        "object_type": "PhysicalObject/StoringObject/MechanicalEnergyStoringObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "stick cylinders",
+        "object_type": "PhysicalObject/DrivingObject/FluidPoweredDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "cylinders",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "relay valve",
+        "object_type": "PhysicalObject/ControllingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "air conditioner",
+        "object_type": "PhysicalObject/EmittingObject/ElectricCoolingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "operator cabin air conditioner",
+        "object_type": "PhysicalObject/EmittingObject/ElectricCoolingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner",
+        "object_type": "PhysicalObject/EmittingObject/ElectricCoolingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner",
+        "object_type": "PhysicalObject/EmittingObject/ElectricCoolingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner",
+        "object_type": "PhysicalObject/EmittingObject/ElectricCoolingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine air conditioner",
+        "object_type": "PhysicalObject/EmittingObject/ElectricCoolingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooling return hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "brake cooling return hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake cooling return hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake cooling return hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake cooling return hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake cooling return hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake cooling return hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "return hose",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hmu",
+        "object_type": "PhysicalObject/DrivingObject/FluidPoweredDrivingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "gasket",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "oil centrifuge gasket",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine oil centrifuge gasket",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "water separator",
+        "object_type": "PhysicalObject/MatterProcessingObject/ForceSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "fuel filter water separator",
+        "object_type": "PhysicalObject/MatterProcessingObject/ForceSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "duo-cone seals",
+        "object_type": "PhysicalObject/CoveringObject/InfillingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "seals",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "scavenge pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "pressure compensator",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "centre hitch",
+        "object_type": "PhysicalObject/InterfacingObject/DetachableCoupling",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "hydraulic motor engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "exhaust",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "grease pump",
+        "object_type": "PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject",
+        "event_name": "bypassing",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "pump",
+        "object_type": "PhysicalObject",
+        "event_name": "bypassing",
+        "valid": true,
+        "alternate": true
+    }
+]

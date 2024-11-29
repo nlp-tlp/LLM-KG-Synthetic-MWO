@@ -1,0 +1,33 @@
+Event,Text,Failure Mode
+crack,<id> crack in blade liner left hand side
+crack,<id> crack in boom <id> chord
+crack,<id> crack in fuel tank
+crack,<id> crack in headboard
+crack,<id> crack in lower centre of windscreen
+crack,<id> crack in windscreen
+crack,<id> crack onside rock deflector
+cracks,<id> cracks in back right hand side handrail
+cracks,<id> cracks in decking
+cracks,<id> cracks in diagonal braces in front
+cracks,<id> cracks in fire suppression mounts
+cracks,<id> cracks in headboard
+cracks,<id> cracks in the dirt chute
+cracks,repair cracks in mud bucket
+crack,<num> - cable gantry crack repairs
+noisy,bearing noisy
+crack,<id> repair right hand fuel tank crack
+cracks,<id> repair cracks on stick
+cracks,<id> repair boom cracks left hand side
+crack,<id> - left hand side boom foot crack repair
+noisy,<id> - noisy hydraulic lift cylinder
+crack,<id> - repair right hand track frame crack
+cracks,<id> - stick cracks
+crack,<id> <id> chord is leaking air from crack
+crack,crack repairs left hand window frame
+hole,hole in door frame
+crack,<num> glass window has large crack
+crack,repair crack in right hand side of rear cross member
+crack,repair chassis crack at right hand rear cross member
+crack,repair crack in rear cross member
+crack,repair crack on left hand front heat shield
+cracks,repair cracks in mast cross braces

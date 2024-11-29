@@ -1,0 +1,1515 @@
+cooler pump bolt requires replacing,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs replacing
+motor hose is unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,unserviceable
+clean out required for controller filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,needs clean out
+condenser fan hose is blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,blown
+speedometer not working,PhysicalObject/SensingObject/TimeRatingObject,speedometer,not working
+cracked rock deflector needs repair,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,rock deflector,crack
+air conditioner fan hose leaks grease,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,leak grease
+replace auto-greaser door window,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,needs replacing
+mast raise cylinder pin is without grease,PhysicalObject/HoldingObject/FasteningObject,mast raise cylinder pin,no grease
+siren found unserviceable,PhysicalObject/EmittingObject/AcousticWaveEmittingObject,siren,unserviceable
+unserviceable motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,unserviceable
+clevis pin grease leaking,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,leak
+cross braces have cracks,PhysicalObject/HoldingObject/ReinforcingObject,cross braces,cracks
+worn hoist brake filter,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,hoist brake filter,worn
+crack in rock deflector,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,rock deflector,crack
+exhaust clamp found broken,PhysicalObject/HoldingObject/PositioningObject,exhaust clamp,broken
+not meshing pto,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,pto,not meshing
+charge hose leaking needs replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,charge hose,leaking
+noise from roller bearing,PhysicalObject/HoldingObject/JointingObject,roller bearing,noisy
+pto cavity needs emptying,PhysicalObject/InterfacingObject/SpaceLinkingObject,pto cavity,emptying
+slew pump chip sensor has alarm,PhysicalObject/SensingObject/ConcentrationSensingObject,slew pump chip sensor,alarm
+replace differential pump bolt,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs replacing
+engine air conditioner hose needs to be repaired,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs repair
+slew pump cavity is low,PhysicalObject/InterfacingObject/SpaceLinkingObject,slew pump cavity,low
+control valve needs replacement unserviceable,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,unserviceable
+transmission oil leaks,PhysicalObject/ProtectingObject/WearProtectingObject,transmission oil,leaks
+operator cabin air conditioner cover cracking,PhysicalObject/CoveringObject/ClosureObject,operator cabin air conditioner cover,cracking
+differential pump oil has a leak,PhysicalObject/ProtectingObject/WearProtectingObject,differential pump oil,leak
+drag brake pump leaks fuel,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag brake pump,leak fuel
+replace leaking swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leaking coolant
+replace steering pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,steering pump hose,needs replaced
+fan motor hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan motor hose,needs replacing
+batteries are not charged,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,batteries,no charge
+extend engine fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine fan hose,needs extending
+engine pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,engine pump bolt,needs loctite
+extinguisher is out of date,PhysicalObject,extinguisher,out of date
+engine fan speed resistor not working,PhysicalObject/RestrictingObject/ElectricityRestrictingObject,engine fan speed resistor,not working
+brake pump hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leaking
+grease missing from dogbone pin,PhysicalObject/HoldingObject/FasteningObject,dogbone pin,no grease
+leaking air compressor oil,PhysicalObject/ProtectingObject/WearProtectingObject,air compressor oil,leaking
+crowd cylinder hose leaking hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,crowd cylinder hose,leak hydraulic oil
+movement in steering column,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,steering column,movement
+crack in pipe,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pipe,cracked
+fitting needed for slew brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs fitting
+leaking fuel from drag rope pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leaking fuel
+repair cracked exhaust shield,PhysicalObject/ProtectingObject/TemperatureProtectingObject,exhaust shield,cracked
+thermostat needs replacement unserviceable,PhysicalObject/SensingObject/TemperatureSensingObject,thermostat,unserviceable
+cooler fan hose needs to be cleaned,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+batteries need charging,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,batteries,no charge
+weeping pressure compensator,PhysicalObject/ProtectingObject/PressureProtectingObject,pressure compensator,weeping
+replace blown centrifuge hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,blown
+air conditioner faults found,PhysicalObject/EmittingObject/ElectricCoolingObject,air conditioner,faults
+liner has a crack,PhysicalObject/ProtectingObject/WearProtectingObject,liner,crack
+leaking air from radiator relief valves,PhysicalObject/ControllingObject/SealedFluidVaryingObject,radiator relief valves,leaking air
+repair crack in windscreen,PhysicalObject/ControllingObject/SpaceAccessObject,windscreen,crack
+repair crack in window,PhysicalObject,window,crack
+leaking oil from swing motor hoses,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hoses,leaking oil
+inverter batteries showing no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,inverter batteries,no charge
+need clean out cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+wiper motor hose leak hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak hydraulic oil
+headboard is cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,cracks
+found engine oil,PhysicalObject/ProtectingObject/WearProtectingObject,engine oil,found
+need repair mast dust flap,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,mast dust flap,needs repair
+replace leaking pilot valve solenoid,PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject,pilot valve solenoid,leak
+glass has a crack,PhysicalObject/InterfacingObject/SpaceLinkingObject,glass,cracked
+drag roller bearing is noisy,PhysicalObject/HoldingObject/JointingObject,drag roller bearing,noisy
+repair engine pump hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+replace leaking swing brake filter,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,swing brake filter,leaking oil
+replace engine fan speed resistor not working,PhysicalObject/RestrictingObject/ElectricityRestrictingObject,engine fan speed resistor,not working
+auto-greaser door window needs replacing,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,needs replacing
+replace leaking engine pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,leaking
+drag rope pump leaking,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leak
+broken auto-greaser door window,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,broken
+speedometer is not working,PhysicalObject/SensingObject/TimeRatingObject,speedometer,not working
+clean out cooler fan hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+bucket is cracked,PhysicalObject,bucket,cracks
+radiator is blocked by grass,PhysicalObject/EmittingObject/ThermalEnergyTransferObject,radiator,blocked grass
+replace fuse that keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,fuse,keep blowing
+pto cavity is in emptying state,PhysicalObject/InterfacingObject/SpaceLinkingObject,pto cavity,emptying
+transmission slipping fault present,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,transmission,slipping fault
+repair leak in drag rope pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leak
+engine oil found,PhysicalObject/ProtectingObject/WearProtectingObject,engine oil,found
+unserviceable shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft universal joint,unserviceable
+operator cabin air conditioner hose needs replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,needs replaced
+grease missing from mast raise cylinder pin,PhysicalObject/HoldingObject/FasteningObject,mast raise cylinder pin,no grease
+worn padding,PhysicalObject/ProtectingObject/PreventiveProtectingObject,padding,worn
+weeping cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,weeping
+replace leaking air conditioner fan pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,air conditioner fan pump,leak
+cracked liner,PhysicalObject/ProtectingObject/WearProtectingObject,liner,crack
+screen found unserviceable,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,screen,unserviceable
+compressor found not working,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,not working
+charge hose has a leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,charge hose,leaking
+cooler fan hose leaking hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak hydraulic oil
+slew motor hose requires fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,needs fitting
+mast lights harness found unserviceable,PhysicalObject/HoldingObject/StructuralSupportingObject,mast lights harness,unserviceable
+replace pto pump hose leaking coolant,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pto pump hose,leak coolant
+replace broken mirror,PhysicalObject/GuidingObject/LightGuidingObject,mirror,broken
+drag blower inverter is earthing out,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,drag blower inverter,earthing out
+motor hose found unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,unserviceable
+airhorn is not working,PhysicalObject/PresentingObject/AcousticDevice,airhorn,not working
+steering cylinder pin lacking grease,PhysicalObject/HoldingObject/FasteningObject,steering cylinder pin,no grease
+loctite needed for drag rope pump bolt,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs loctite
+drivers window has a fault,PhysicalObject/ControllingObject/SpaceAccessObject,drivers window,fault
+leak oil in transmission hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,leak oil
+low level in slew pump cavity,PhysicalObject/InterfacingObject/SpaceLinkingObject,slew pump cavity,low
+heater hose is unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,heater hose,unserviceable
+fault in lights fuse,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,lights fuse,fault
+drag motor lube has fault,PhysicalObject/ProtectingObject/WearProtectingObject,drag motor lube,fault
+replace dragline air conditioner hose leaking air,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,dragline air conditioner hose,leak air
+found thrust bearing oil,PhysicalObject/ProtectingObject/WearProtectingObject,thrust bearing oil,found
+hoist brake hose has hydraulic oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist brake hose,leak hydraulic oil
+replace cooler pump bolt,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs replacing
+leak hydraulic oil from wiper motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak hydraulic oil
+fault in drag motor lube,PhysicalObject/ProtectingObject/WearProtectingObject,drag motor lube,fault
+leak oil from hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak oil
+gantry has a crack,PhysicalObject,gantry,crack
+unserviceable siren,PhysicalObject/EmittingObject/AcousticWaveEmittingObject,siren,unserviceable
+fan hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan hose,needs replaced
+replace leaking condenser fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,leaking air
+contamination switch for pto pump on,PhysicalObject/SensingObject/ConcentrationSensingObject,pto pump contamination switch,on
+steering control valve falling off,PhysicalObject/ControllingObject/SealedFluidVaryingObject,steering control valve,falling off
+radio needs aerial,PhysicalObject,radio,needs aerial
+aerial needed for radio,PhysicalObject,radio,needs aerial
+crack found in tank,PhysicalObject,tank,crack
+leak in cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak
+fire suppression mounts cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,fire suppression mounts,cracks
+replace blown motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,blown
+exhaust shield has a crack,PhysicalObject/ProtectingObject/TemperatureProtectingObject,exhaust shield,cracked
+differential leaking oil,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,differential,leak oil
+operator cabin air conditioner feels warm,PhysicalObject/EmittingObject/ElectricCoolingObject,operator cabin air conditioner,warm
+steering pump drive leaking,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,steering pump drive,leaking
+hitch hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hitch hose,needs replacing
+compressor bearing has noise,PhysicalObject/HoldingObject/JointingObject,compressor bearing,noisy
+replace lights fuse fault,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,lights fuse,fault
+replace dogbone bolt needed,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs replaced
+repair cracked pipe,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pipe,cracked
+boom foot cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,boom foot,crack
+replace leaking drag rope pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,leak
+heater hose found unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,heater hose,unserviceable
+swing pump broken,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,swing pump,broken
+filter hose fitting required,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,filter hose,needs fitting
+found oil on frame,PhysicalObject,frame,found oil
+transmission hose requires replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,needs replacing
+clean out roof heater hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,roof heater hose,needs clean out
+cracks in cabin mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin mounts,cracks
+crack found in blade liner,PhysicalObject/ProtectingObject/WearProtectingObject,blade liner,crack
+repair needed for walk motor brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake hose,needs repair
+need change out dragline air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,dragline air conditioner,need change out
+walk motor brake sensor not functioning,PhysicalObject/SensingObject,walk motor brake sensor,not reading
+leak coolant from hydraulic motor engine oil cooler,PhysicalObject/EmittingObject/ThermalCoolingObject,hydraulic motor engine oil cooler,leak coolant
+repair needed for engine air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,needs repair
+replace head pulley shaft,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,head pulley shaft,requires replacing
+engine pump o-ring blown,PhysicalObject/CoveringObject/InfillingObject,engine pump o-ring,blown
+air conditioner compressor not functioning,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,air conditioner compressor,not working
+wiper fuse continues to blow,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,wiper fuse,keeps blowing
+repair needed for mast dust flap,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,mast dust flap,needs repair
+engine air conditioner is unserviceable,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,unserviceable
+blown o-ring in boom hose,PhysicalObject/CoveringObject/InfillingObject,boom hose o-ring,blown
+swing motor hoses have oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hoses,leaking oil
+fuel cooler mounts are cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,fuel cooler mounts,cracks
+air conditioner in operator cabin warm,PhysicalObject/EmittingObject/ElectricCoolingObject,operator cabin air conditioner,warm
+lighting requires to be tagged,PhysicalObject/EmittingObject/LightObject,lighting,requires tagging
+slipping fault in transmission,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,transmission,slipping fault
+leaking pump drive,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,pump drive,leaking
+pto pump contamination switch stays on,PhysicalObject/SensingObject/ConcentrationSensingObject,pto pump contamination switch,on
+apply loctite to coolant pipe clamps,PhysicalObject/HoldingObject/PositioningObject,coolant pipe clamps,needs loctite
+engine is vibrating,PhysicalObject/DrivingObject/CombustionEngine,engine,vibration
+cooler pump bolt needs to be replaced,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs replacing
+clam cylinder hose clamp needs replacement,PhysicalObject/HoldingObject/PositioningObject,clam cylinder hose clamp,broken
+blown cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,blown
+engine pump hose requires repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+coolant pipe clamps need adjusting with loctite,PhysicalObject/HoldingObject/PositioningObject,coolant pipe clamps,needs loctite
+replace unserviceable guide,PhysicalObject/GuidingObject/OpenEnclosureGuidingObject,guide,unserviceable
+drag rope pump hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,needs replacing
+unserviceable controller filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,unserviceable
+pump contamination switch found unserviceable,PhysicalObject/SensingObject/ConcentrationSensingObject,pump contamination switch,unserviceable
+walk motor brake switches need to be cleaned,PhysicalObject/HumanInteractionObject/HandInteractionObject,walk motor brake switches,need cleaning
+air tank safety valve has leak,PhysicalObject/ProtectingObject/PressureProtectingObject,air tank safety valve,leaking
+grease missing from clevis pin,PhysicalObject/HoldingObject/FasteningObject,clevis pin,no grease
+dogbone pin is without grease,PhysicalObject/HoldingObject/FasteningObject,dogbone pin,no grease
+clean walk motor brake switches needed,PhysicalObject/HumanInteractionObject/HandInteractionObject,walk motor brake switches,need cleaning
+steering column movement,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,steering column,movement
+engine air conditioner hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs replaced
+cooler hose clamp is broken,PhysicalObject/HoldingObject/PositioningObject,cooler hose clamp,broken
+fuse keeps blowing out,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,fuse,keep blowing
+boom hose requires extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom hose,needs extending
+fuel leaking from drag brake pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag brake pump,leak fuel
+auto-greaser door window needs a replacement,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,needs replacing
+compressor bearing is noisy,PhysicalObject/HoldingObject/JointingObject,compressor bearing,noisy
+slew pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,slew pump bolt,needs loctite
+engine pump o-ring is blown,PhysicalObject/CoveringObject/InfillingObject,engine pump o-ring,blown
+brake has temperature error,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+dragline air conditioner fuse blowing repeatedly,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,dragline air conditioner fuse,keep blowing
+cooler hose has blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,blown
+engine mount movement detected,PhysicalObject/HoldingObject/StructuralSupportingObject,engine mount,movement
+drag rope pump hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,leak
+fan hose requires replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan hose,needs replaced
+replace leaking pump drive,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,pump drive,leaking
+fix leaks in transmission oil,PhysicalObject/ProtectingObject/WearProtectingObject,transmission oil,leaks
+leaking drag motor hoses,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag motor hoses,leaking
+rock deflector has a crack,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,rock deflector,crack
+cooler pump hose leaking fuel,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking fuel
+repair crack on gantry,PhysicalObject,gantry,crack
+box coupling found unserviceable,PhysicalObject/InterfacingObject/NonDetachableCoupling,box coupling,unserviceable
+replace noisy drag roller bearing,PhysicalObject/HoldingObject/JointingObject,drag roller bearing,noisy
+repair cracks in cross braces,PhysicalObject/HoldingObject/ReinforcingObject,cross braces,cracks
+equalizer bar bearing making noise,PhysicalObject/HoldingObject/JointingObject,equalizer bar bearing,noisy
+cabin air conditioner belt is broken,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,cabin air conditioner belt,broken
+fuse for dragline air conditioner keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,dragline air conditioner fuse,keep blowing
+leak in walk motor brake pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,walk motor brake pump,leak
+drag motor hoses leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag motor hoses,leaking
+steering pin without grease,PhysicalObject/HoldingObject/FasteningObject,steering pin,no grease
+replace cabin air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cabin air conditioner hose,needs replaced
+cracked cabin mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin mounts,cracks
+slew pump chip sensor alarm,PhysicalObject/SensingObject/ConcentrationSensingObject,slew pump chip sensor,alarm
+pump chip sensor harness found unserviceable,PhysicalObject/HoldingObject/StructuralSupportingObject,pump chip sensor harness,unserviceable
+replace leaking air shaft input seal,PhysicalObject/CoveringObject/InfillingObject,shaft input seal,leaking air
+repair crack in tank,PhysicalObject,tank,crack
+replace blown line,PhysicalObject,line,blown
+condenser fan hose leaking air,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,leaking air
+inverter batteries have no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,inverter batteries,no charge
+transmission has slipping fault,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,transmission,slipping fault
+dragline air conditioner needs to change out,PhysicalObject/EmittingObject/ElectricCoolingObject,dragline air conditioner,need change out
+hitch hose requires replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hitch hose,needs replacing
+dragline air conditioner requires change out,PhysicalObject/EmittingObject/ElectricCoolingObject,dragline air conditioner,need change out
+wiper motor hose has oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak oil
+differential pump bolt needs replacing,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs replacing
+transmission hose has oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,leak oil
+repair cracked fuel tank,PhysicalObject,fuel tank,cracked
+leak in dust,PhysicalObject/Substance/Solid,dust,leak
+extend brake pump hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,needs extending
+dust flap needs to be replaced,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,dust flap,needs replaced
+replace leaking differential pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,differential pump oil,leak
+replace blown air conditioner fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,blown
+needs clean out for slew pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew pump hose,needs clean out
+cabin mounts have cracks,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin mounts,cracks
+diverter valve is leaking dust,PhysicalObject/ControllingObject/SolidSubstanceFlowVaryingObject,diverter valve,leak dust
+brake pump hose has a leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leak
+pressure compensator has weeping,PhysicalObject/ProtectingObject/PressureProtectingObject,pressure compensator,weeping
+leak in differential pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,differential pump oil,leak
+leaking grease,PhysicalObject/ProtectingObject/WearProtectingObject,grease,leak
+hoist drag brake is out of adjustment,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist drag brake,out of adjustment
+air brake line needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air brake line,needs replacing
+operator cabin air conditioner hose is blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,blown
+wiper fuse keeps blowing repeatedly,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,wiper fuse,keeps blowing
+replace leaking parts washer pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,parts washer pump oil,leaking
+lights fuse fault,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,lights fuse,fault
+repair leaking brake filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,leaking
+operator cabin air conditioner hose requires replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,needs replaced
+extending needed for brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,needs extending
+air conditioner compressor keeps tripping out,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,operator cabin air conditioner compressor,tripping out
+repair broken exhaust clamp,PhysicalObject/HoldingObject/PositioningObject,exhaust clamp,broken
+engine pump leaking oil,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,engine pump,leaking
+belly plate bolt needs replaced,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+weightometer is not working,PhysicalObject/SensingObject/ForceSensingObject,weightometer,not working
+cabin has missing smoke detector,PhysicalObject/HoldingObject/EnclosingObject,cabin,missing smoke detector
+brake pump bolt needs locking adhesive,PhysicalObject/HoldingObject/FasteningObject,brake pump bolt,needs loctite
+steering pump hose needs a replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,steering pump hose,needs replaced
+replace the dogbone bolt,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs replaced
+repair leaking head pulley shaft input seal,PhysicalObject/CoveringObject/InfillingObject,head pulley shaft input seal,leaking
+hose has oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak oil
+oil found on revolving frame,PhysicalObject/HoldingObject/StructuralSupportingObject,revolving frame,found oil
+replace cabin seat needed,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs replacing
+drag blower inverter earthing out,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,drag blower inverter,earthing out
+replace cabin door struts needed,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin door struts,require replacing
+pump bolt found missing,PhysicalObject/HoldingObject/FasteningObject,pump bolt,missing
+motor hose needs to be extended,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,needs extending
+replace leaking brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leaking
+pump contamination switch is unserviceable,PhysicalObject/SensingObject/ConcentrationSensingObject,pump contamination switch,unserviceable
+belly plate bolt needs to be replaced,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+replace weeping pressure compensator,PhysicalObject/ProtectingObject/PressureProtectingObject,pressure compensator,weeping
+earthing issue with inverter,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,inverter,earthing out
+shaft needs replacing,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft,requires replacing
+cooler hose clamp found broken,PhysicalObject/HoldingObject/PositioningObject,cooler hose clamp,broken
+leak of hydraulic oil from cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak hydraulic oil
+walk motor brake pump leaking,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,walk motor brake pump,leak
+dirt chute has cracks,PhysicalObject/GuidingObject/SolidMatterGuidingObject,dirt chute,cracks
+leak air in dragline air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,dragline air conditioner hose,leak air
+apply loctite to cabin seat,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs loctite
+replace worn steering shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,worn
+cracked tank,PhysicalObject,tank,crack
+leaking slew pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,slew pump oil,leaking
+auto-spray not functioning,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,auto-spray,not working
+cracked braces,PhysicalObject,braces,cracks
+fan pump bolt broken,PhysicalObject/HoldingObject/FasteningObject,fan pump bolt,broken
+replace leaking transmission oil,PhysicalObject/ProtectingObject/WearProtectingObject,transmission oil,leaks
+swing brake hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,needs replaced
+drag roller bearing making noise,PhysicalObject/HoldingObject/JointingObject,drag roller bearing,noisy
+hoist drag brake needs adjustment,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist drag brake,out of adjustment
+replace gauges needed,PhysicalObject,gauges,requires replacing
+replace unserviceable cabin air conditioner fan,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,cabin air conditioner fan,unserviceable
+repair fault in generator,PhysicalObject/GeneratingObject/MechanicalToElectricalEnergyGeneratingObject,generator,fault
+motor hose is blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,blown
+bolt needs to be loctited,PhysicalObject/HoldingObject/FasteningObject,bolt,needs loctite
+pin has no grease,PhysicalObject/HoldingObject/FasteningObject,pin,no grease
+operator cabin air conditioner cover is cracking,PhysicalObject/CoveringObject/ClosureObject,operator cabin air conditioner cover,cracking
+dragline air conditioner hose has air leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,dragline air conditioner hose,leak air
+leak in grease,PhysicalObject/ProtectingObject/WearProtectingObject,grease,leak
+hydraulic oil leaking from swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leak hydraulic oil
+air conditioner cover in operator cabin cracking,PhysicalObject/CoveringObject/ClosureObject,operator cabin air conditioner cover,cracking
+blown hose for axle oil cooler,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,axle oil cooler hose,blown
+engine oil was found,PhysicalObject/ProtectingObject/WearProtectingObject,engine oil,found
+leaking fuel from pump motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pump motor hose,leaking fuel
+inverter is earthing out,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,inverter,earthing out
+replace belly plate bolt needed,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+carousel bolt needs to be loctited,PhysicalObject/HoldingObject/FasteningObject,carousel bolt,needs loctite
+replacing required for gauges,PhysicalObject,gauges,requires replacing
+air conditioner hose in operator cabin blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,blown
+drag rope pump bolt needs a replacement,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs replacing
+leaking operator cabin air conditioner accessory drive,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,operator cabin air conditioner accessory drive,leaking
+cracked windscreen,PhysicalObject/ControllingObject/SpaceAccessObject,windscreen,crack
+fuel tank has a crack,PhysicalObject,fuel tank,cracked
+replace unserviceable hydraulic motor engine air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,hydraulic motor engine air conditioner,unserviceable
+engine pump bolt needs to be loctited,PhysicalObject/HoldingObject/FasteningObject,engine pump bolt,needs loctite
+boom hose needs to be extended,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom hose,needs extending
+adjust hoist drag brake,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist drag brake,out of adjustment
+shaft universal joint unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft universal joint,unserviceable
+smoke detector missing from cabin,PhysicalObject/HoldingObject/EnclosingObject,cabin,missing smoke detector
+replace drag rope pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,needs replacing
+pto not meshing,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,pto,not meshing
+not working engine fan speed resistor,PhysicalObject/RestrictingObject/ElectricityRestrictingObject,engine fan speed resistor,not working
+loctite needed for carousel bolt,PhysicalObject/HoldingObject/FasteningObject,carousel bolt,needs loctite
+condenser fan hose is leaking air,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,leaking air
+repair cracks on headboard,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,cracks
+operator cabin air conditioner warm,PhysicalObject/EmittingObject/ElectricCoolingObject,operator cabin air conditioner,warm
+clevis pin out,PhysicalObject/HoldingObject/FasteningObject,clevis pin,out
+frame found with oil,PhysicalObject,frame,found oil
+air conditioner compressor is tripping out,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,operator cabin air conditioner compressor,tripping out
+hoist brake filter is worn,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,hoist brake filter,worn
+replace leaking radiator relief valves,PhysicalObject/ControllingObject/SealedFluidVaryingObject,radiator relief valves,leaking air
+airhorn not working,PhysicalObject/PresentingObject/AcousticDevice,airhorn,not working
+replace weeping swing pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing pump hose,weeping
+control valve has fallen off,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,falling off
+engine is leaking,PhysicalObject/DrivingObject/CombustionEngine,engine,leaks
+dust leak from diverter valve,PhysicalObject/ControllingObject/SolidSubstanceFlowVaryingObject,diverter valve,leak dust
+replace falling off control valve,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,falling off
+replace hitch hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hitch hose,needs replacing
+leak found in accumulator,PhysicalObject/StoringObject/MechanicalEnergyStoringObject,accumulator,leak
+differential is leaking oil,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,differential,leak oil
+engine has leaks,PhysicalObject/DrivingObject/CombustionEngine,engine,leaks
+cabin air conditioner thermostat found unserviceable,PhysicalObject/SensingObject/TemperatureSensingObject,cabin air conditioner thermostat,unserviceable
+engine pump hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,leaking
+window has a crack,PhysicalObject,window,crack
+repair noisy equalizer bar bearing,PhysicalObject/HoldingObject/JointingObject,equalizer bar bearing,noisy
+replace not working compressor,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,not working
+replace unserviceable controller filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,unserviceable
+no grease in mast raise cylinder pin,PhysicalObject/HoldingObject/FasteningObject,mast raise cylinder pin,no grease
+steering pump hose requires replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,steering pump hose,needs replaced
+fuse for air conditioner keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,keeps blowing
+brake pump hose requires extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,needs extending
+a-frame clevis pin shows no grease,PhysicalObject/HoldingObject/FasteningObject,a-frame clevis pin,no grease
+radiator relief valves have leaking air,PhysicalObject/ControllingObject/SealedFluidVaryingObject,radiator relief valves,leaking air
+no grease on clevis pin,PhysicalObject/HoldingObject/FasteningObject,clevis pin,no grease
+cracks in bucket,PhysicalObject,bucket,cracks
+pressure compensator is weeping,PhysicalObject/ProtectingObject/PressureProtectingObject,pressure compensator,weeping
+hydraulic motor engine air conditioner unserviceable,PhysicalObject/EmittingObject/ElectricCoolingObject,hydraulic motor engine air conditioner,unserviceable
+crowd cylinder hose has hydraulic oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,crowd cylinder hose,leak hydraulic oil
+cracks found on boom,PhysicalObject/HoldingObject/StructuralSupportingObject,boom,cracks
+clean out required on slew pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew pump hose,needs clean out
+brake filter hose has weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,weeping
+leak oil from wiper motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak oil
+brake temperature error,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+repair needed for engine air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs repair
+filter hose needs to fit,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,filter hose,needs fitting
+earthing out inverter,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,inverter,earthing out
+repair crack in boom foot,PhysicalObject/HoldingObject/StructuralSupportingObject,boom foot,crack
+replace broken air conditioner compressor earth terminal,PhysicalObject/ControllingObject/ElectricEarthingObject,air conditioner compressor earth terminal,broken
+extend boom hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom hose,needs extending
+faults in air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,air conditioner,faults
+coolant pipe clamps require loctite,PhysicalObject/HoldingObject/PositioningObject,coolant pipe clamps,needs loctite
+pto shaft universal joint is failed,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,pto shaft universal joint,failed
+tyre found unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,tyre,unserviceable
+replace fan motor hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan motor hose,needs replacing
+drag rope pump leaking fuel,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leaking fuel
+drag roller needs to be changed out,PhysicalObject/HoldingObject/JointingObject,drag roller,need change out
+failed pto shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,pto shaft universal joint,failed
+cabin door struts require replacing,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin door struts,require replacing
+engine bay light needs replacing,PhysicalObject/EmittingObject/LightObject,engine bay light,needs replacing
+leak found in drag motor hoses,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag motor hoses,leaking
+replace broken exhaust clamp,PhysicalObject/HoldingObject/PositioningObject,exhaust clamp,broken
+operator cabin air conditioner fuse fault,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,fault
+leak in brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leaking
+headboard has a crack,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,crack
+swing motor hose requires replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hose,needs replacing
+engine fan speed resistor is not working,PhysicalObject/RestrictingObject/ElectricityRestrictingObject,engine fan speed resistor,not working
+engine bay light requires replacing,PhysicalObject/EmittingObject/LightObject,engine bay light,needs replacing
+boom foot clevis pin needs grease,PhysicalObject/HoldingObject/FasteningObject,boom foot clevis pin,no grease
+parts washer pump pressure gauge is not working,PhysicalObject/PresentingObject/ScalarDisplay,parts washer pump pressure gauge,not working
+bucket cylinder hose leaking issue,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,bucket cylinder hose,leaking
+compressor is unserviceable,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,unserviceable
+repair broken mirror,PhysicalObject/GuidingObject/LightGuidingObject,mirror,broken
+fix brake temperature error,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+swing brake hose needs replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,needs replaced
+slew brake hose needs fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs fitting
+swing motor rtd is wired incorrectly,PhysicalObject/SensingObject/ResistivitySensingObject,swing motor rtd,wired incorrectly
+belly plate bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs loctite
+engine pump oil has leak,PhysicalObject/ProtectingObject/WearProtectingObject,engine pump oil,leaking
+carousel bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,carousel bolt,needs loctite
+steering pin needs grease,PhysicalObject/HoldingObject/FasteningObject,steering pin,no grease
+slew pump oil has a leak,PhysicalObject/ProtectingObject/WearProtectingObject,slew pump oil,leaking
+hoist drag brake out of adjustment,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist drag brake,out of adjustment
+brake filter hose needs replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,needs replaced
+change out needed for drag roller,PhysicalObject/HoldingObject/JointingObject,drag roller,need change out
+walk motor brake hose needs repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake hose,needs repair
+need clean out cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+repair engine air conditioner hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs repair
+head pulley shaft input seal is leaking,PhysicalObject/CoveringObject/InfillingObject,head pulley shaft input seal,leaking
+leaking air from shaft input seal,PhysicalObject/CoveringObject/InfillingObject,shaft input seal,leaking air
+replace fitting on hmu hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs fitting
+leak in clevis pin grease,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,leak
+swing pump hose weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing pump hose,weeping
+shaft requires replacing,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft,requires replacing
+found in engine oil,PhysicalObject/ProtectingObject/WearProtectingObject,engine oil,found
+engine fan hose needs extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine fan hose,needs extending
+leak in air conditioner fan pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,air conditioner fan pump,leak
+blown engine pump o-ring,PhysicalObject/CoveringObject/InfillingObject,engine pump o-ring,blown
+door frame with hole,PhysicalObject/HoldingObject/FramingObject,door frame,hole
+cabin mounts cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin mounts,cracks
+crack found in boom chord,PhysicalObject/HoldingObject/StructuralSupportingObject,boom chord,crack
+belly plate bolt needs to be replaced,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+mirror found broken,PhysicalObject/GuidingObject/LightGuidingObject,mirror,broken
+clevis pin grease is missing,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,no
+dragline air conditioner hose leaking air,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,dragline air conditioner hose,leak air
+speedometer not operational,PhysicalObject/SensingObject/TimeRatingObject,speedometer,not working
+broken handrail weld,PhysicalObject/CoveringObject/InfillingObject,handrail weld,broken
+fuel leak from slew motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,leak fuel
+swing brake hose leaking hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leak hydraulic oil
+fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,fuse,keep blowing
+unserviceable control valve,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,unserviceable
+fitting for engine oil cooler hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine oil cooler hose,needs fitting
+engine pump hose requires repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+air leaking from shaft input seal,PhysicalObject/CoveringObject/InfillingObject,shaft input seal,leaking air
+repair cracked cabin power point,PhysicalObject/InterfacingObject/LowVoltageConnectingObject,cabin power point,cracked
+parts washer pump pressure gauge not working,PhysicalObject/PresentingObject/ScalarDisplay,parts washer pump pressure gauge,not working
+cabin air conditioner fan is unserviceable,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,cabin air conditioner fan,unserviceable
+pump chip sensor harness unserviceable,PhysicalObject/HoldingObject/StructuralSupportingObject,pump chip sensor harness,unserviceable
+loctite needed for clamps,PhysicalObject/HoldingObject/PositioningObject,clamps,needs loctite
+cross braces cracked,PhysicalObject/HoldingObject/ReinforcingObject,cross braces,cracks
+worn steering shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,worn
+check engine mount movement,PhysicalObject/HoldingObject/StructuralSupportingObject,engine mount,movement
+hydraulic motor engine oil cooler has coolant leak,PhysicalObject/EmittingObject/ThermalCoolingObject,hydraulic motor engine oil cooler,leak coolant
+replace battery with dropped cell,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,battery,dropped cell
+repair hole in door frame,PhysicalObject/HoldingObject/FramingObject,door frame,hole
+loctite needed for coolant pipe clamps,PhysicalObject/HoldingObject/PositioningObject,coolant pipe clamps,needs loctite
+starter fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,starter fuse,keeps blowing
+replacing needed for auto-greaser door window,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,needs replacing
+out clevis pin,PhysicalObject/HoldingObject/FasteningObject,clevis pin,out
+replace blown air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,blown
+leak in brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leak
+cabin door struts need to be replaced,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin door struts,require replacing
+oil leaking from swing motor hoses,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hoses,leaking oil
+dogbone pin has no grease,PhysicalObject/HoldingObject/FasteningObject,dogbone pin,no grease
+oil leak found on revolving frame,PhysicalObject/HoldingObject/StructuralSupportingObject,revolving frame,found oil
+lighting requires tagging,PhysicalObject/EmittingObject/LightObject,lighting,requires tagging
+need clean out controller filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,needs clean out
+replace leaking roof heater taps,PhysicalObject/ControllingObject/SealedFluidVaryingObject,roof heater taps,leaking
+dogbone bolt requires replaced,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs replaced
+tank leaking,PhysicalObject,tank,leak
+slew brake hose requires fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs fitting
+inverter keeps earthing out,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,inverter,earthing out
+extend motor hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,needs extending
+steering column has movement,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,steering column,movement
+dragline air conditioner fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,dragline air conditioner fuse,keep blowing
+transmission hose o-ring is blown,PhysicalObject/CoveringObject/InfillingObject,transmission hose o-ring,blown
+air conditioner fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,keeps blowing
+replace blown transmission hose o-ring,PhysicalObject/CoveringObject/InfillingObject,transmission hose o-ring,blown
+generator is faulty,PhysicalObject/GeneratingObject/MechanicalToElectricalEnergyGeneratingObject,generator,fault
+belly plate bolt needs replaced,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+fan hose needs a replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan hose,needs replaced
+blown lights,PhysicalObject,lights,blown
+replace leaking centrifuge filter,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,centrifuge filter,leaking
+replace leaking accumulator,PhysicalObject/StoringObject/MechanicalEnergyStoringObject,accumulator,leak
+revolving frame found oil leak,PhysicalObject/HoldingObject/StructuralSupportingObject,revolving frame,found oil
+air leaking from dragline air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,dragline air conditioner hose,leak air
+transmission hose o-ring blown,PhysicalObject/CoveringObject/InfillingObject,transmission hose o-ring,blown
+cracked exhaust shield,PhysicalObject/ProtectingObject/TemperatureProtectingObject,exhaust shield,cracked
+steering control valve has fallen off,PhysicalObject/ControllingObject/SealedFluidVaryingObject,steering control valve,falling off
+mast dust flap requires repair,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,mast dust flap,needs repair
+tank is cracked,PhysicalObject,tank,crack
+condenser fan pump leaking coolant,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,condenser fan pump,leak coolant
+roof heater hose needs clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,roof heater hose,needs clean out
+parts washer pump hose requires repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs repair
+replace blower inverter batteries with no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,blower inverter batteries,no charge
+padding is worn,PhysicalObject/ProtectingObject/PreventiveProtectingObject,padding,worn
+check movement in steering column,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,steering column,movement
+motor hose deemed unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,unserviceable
+walk motor brake hose needs to repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake hose,needs repair
+coolant leaking from swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leaking coolant
+noisy compressor bearing,PhysicalObject/HoldingObject/JointingObject,compressor bearing,noisy
+replace drivers window fault,PhysicalObject/ControllingObject/SpaceAccessObject,drivers window,fault
+centrifuge hose is blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,blown
+walk motor brake sensor not reading,PhysicalObject/SensingObject,walk motor brake sensor,not reading
+clean out needed for cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+wiper fuse is blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,wiper fuse,keeps blowing
+centrifuge filter has a leak,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,centrifuge filter,leaking
+cracks found in headboard,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,cracks
+drag iov has a fault,PhysicalObject/PresentingObject/GraphicalDisplay,drag iov,fault
+box coupling is unserviceable,PhysicalObject/InterfacingObject/NonDetachableCoupling,box coupling,unserviceable
+swing pump hose has weeping issue,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing pump hose,weeping
+apply loctite to clamps,PhysicalObject/HoldingObject/PositioningObject,clamps,needs loctite
+replace transmission hose leaking oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,leak oil
+compressor bearing making noise,PhysicalObject/HoldingObject/JointingObject,compressor bearing,noisy
+cracked boom chord,PhysicalObject/HoldingObject/StructuralSupportingObject,boom chord,crack
+replace leaking clevis pin grease,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,leak
+cracks in fire suppression mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,fire suppression mounts,cracks
+frame is found with oil,PhysicalObject,frame,found oil
+repair faults in cooler pump lube system,PhysicalObject/ProtectingObject/WearProtectingObject,cooler pump lube system,faults
+replace drag iov with fault,PhysicalObject/PresentingObject/GraphicalDisplay,drag iov,fault
+thrust bearing oil was found,PhysicalObject/ProtectingObject/WearProtectingObject,thrust bearing oil,found
+replace belly plate bolt,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+battery cover hinges are seized,PhysicalObject/HoldingObject/JointingObject,battery cover hinges,seized
+drag iov fault found,PhysicalObject/PresentingObject/GraphicalDisplay,drag iov,fault
+leak fuel from drag brake pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag brake pump,leak fuel
+blown motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,blown
+drag iov is faulty,PhysicalObject/PresentingObject/GraphicalDisplay,drag iov,fault
+air tank safety valve leaking,PhysicalObject/ProtectingObject/PressureProtectingObject,air tank safety valve,leaking
+adjust leaking steering pump drive,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,steering pump drive,leaking
+leak coolant from hoist motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,leak coolant
+replace cracked hydraulic pipe,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hydraulic pipe,cracked
+pressure compensator weeping issue,PhysicalObject/ProtectingObject/PressureProtectingObject,pressure compensator,weeping
+brake switches need to be cleaned,PhysicalObject/HumanInteractionObject/HandInteractionObject,brake switches,need cleaning
+vims keypad light needs a clean out,PhysicalObject/EmittingObject/LightObject,vims keypad light,needs clean out
+cooler hose has weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,weeping
+jockey pulley bearing making noise,PhysicalObject/HoldingObject/JointingObject,jockey pulley bearing,noisy
+repair needed for engine pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+fan hose needs replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan hose,needs replaced
+oil leak from transmission hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,leak oil
+shaft input seal is leaking air,PhysicalObject/CoveringObject/InfillingObject,shaft input seal,leaking air
+replace broken window,PhysicalObject/ControllingObject/SpaceAccessObject,window,broken
+drag rope pump hose has a leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,leak
+not reading walk motor brake sensor,PhysicalObject/SensingObject,walk motor brake sensor,not reading
+hole in door frame,PhysicalObject/HoldingObject/FramingObject,door frame,hole
+cracked blade liner,PhysicalObject/ProtectingObject/WearProtectingObject,blade liner,crack
+brake filter hose is weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,weeping
+slew motor hose leaking fuel,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,leak fuel
+engine fan speed resistor failure,PhysicalObject/RestrictingObject/ElectricityRestrictingObject,engine fan speed resistor,not working
+cooler fan hose needs clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+pto pump hose has coolant leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pto pump hose,leak coolant
+replace broken swing pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,swing pump,broken
+replace unserviceable motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,unserviceable
+replacing needed for engine bay light,PhysicalObject/EmittingObject/LightObject,engine bay light,needs replacing
+steering shaft universal joint found unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,unserviceable
+blown boom hose o-ring,PhysicalObject/CoveringObject/InfillingObject,boom hose o-ring,blown
+replace leaking head pulley shaft input seal,PhysicalObject/CoveringObject/InfillingObject,head pulley shaft input seal,leaking
+operator cabin air conditioner hose blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,blown
+repair hole in cabin door frame,PhysicalObject/HoldingObject/FramingObject,cabin door frame,hole
+shaft universal joint found unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft universal joint,unserviceable
+extending needed for hmu hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs extending
+brake filter hose requires replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,needs replaced
+door frame has a hole,PhysicalObject/HoldingObject/FramingObject,door frame,hole
+cracked boom foot,PhysicalObject/HoldingObject/StructuralSupportingObject,boom foot,crack
+leak dust in diverter valve,PhysicalObject/ControllingObject/SolidSubstanceFlowVaryingObject,diverter valve,leak dust
+gauges need replacing,PhysicalObject,gauges,requires replacing
+engine air conditioner hose needs repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs repair
+thermostat found unserviceable,PhysicalObject/SensingObject/TemperatureSensingObject,thermostat,unserviceable
+steering pin has no grease,PhysicalObject/HoldingObject/FasteningObject,steering pin,no grease
+air conditioner compressor is not working,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,air conditioner compressor,not working
+replace airhorn not working,PhysicalObject/PresentingObject/AcousticDevice,airhorn,not working
+crack in liner,PhysicalObject/ProtectingObject/WearProtectingObject,liner,crack
+thrust bearing oil located,PhysicalObject/ProtectingObject/WearProtectingObject,thrust bearing oil,found
+blown line,PhysicalObject,line,blown
+bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,bolt,needs loctite
+cracks found in handrail,PhysicalObject/ProtectingObject/PreventiveProtectingObject,handrail,cracks
+leak in drag rope pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,leak
+replace fan hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan hose,needs replaced
+boom foot clevis pin has no grease,PhysicalObject/HoldingObject/FasteningObject,boom foot clevis pin,no grease
+window frame is cracked,PhysicalObject/HoldingObject/FramingObject,window frame,crack
+broken exhaust clamp,PhysicalObject/HoldingObject/PositioningObject,exhaust clamp,broken
+mast dust flap needs to be repaired,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,mast dust flap,needs repair
+pump contamination switch unserviceable,PhysicalObject/SensingObject/ConcentrationSensingObject,pump contamination switch,unserviceable
+generator fault found,PhysicalObject/GeneratingObject/MechanicalToElectricalEnergyGeneratingObject,generator,fault
+replace leaking drag motor hoses,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag motor hoses,leaking
+slew pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,slew pump bolt,needs loctite
+emptying pto cavity,PhysicalObject/InterfacingObject/SpaceLinkingObject,pto cavity,emptying
+oil found on frame,PhysicalObject,frame,found oil
+engine air conditioner hose requires repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs repair
+leaking air from condenser fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,leaking air
+parts washer pump hose needs repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs repair
+cooler pump hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking
+unserviceable box coupling,PhysicalObject/InterfacingObject/NonDetachableCoupling,box coupling,unserviceable
+steering pump hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,steering pump hose,needs replaced
+leak in hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak
+replacing needed for swing motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hose,needs replacing
+apply loctite to engine pump bolt,PhysicalObject/HoldingObject/FasteningObject,engine pump bolt,needs loctite
+grease leaking from air conditioner fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,leak grease
+wiper motor hose has hydraulic oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak hydraulic oil
+motor hose leaking needs replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,leaking
+replace unserviceable thermostat,PhysicalObject/SensingObject/TemperatureSensingObject,thermostat,unserviceable
+replace aerial for am / fm radio,PhysicalObject/TransformingObject/SignalConvertingObject,am / fm radio,needs aerial
+need cleaning for walk motor brake switches,PhysicalObject/HumanInteractionObject/HandInteractionObject,walk motor brake switches,need cleaning
+warm operator cabin air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,operator cabin air conditioner,warm
+handrail has cracks,PhysicalObject/ProtectingObject/PreventiveProtectingObject,handrail,cracks
+replace leaking walk motor brake pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,walk motor brake pump,leak
+blown o-ring in transmission hose,PhysicalObject/CoveringObject/InfillingObject,transmission hose o-ring,blown
+crack found in hydraulic pipe,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hydraulic pipe,cracked
+cracked fire suppression mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,fire suppression mounts,cracks
+engine pump hose needs to be repaired,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+replacing needed for bolt,PhysicalObject/HoldingObject/FasteningObject,bolt,needs replacing
+exhaust clamp is broken,PhysicalObject/HoldingObject/PositioningObject,exhaust clamp,broken
+not working weightometer,PhysicalObject/SensingObject/ForceSensingObject,weightometer,not working
+engine pump hose needs repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+loctite needed for belly plate bolt,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs loctite
+cracked window,PhysicalObject,window,crack
+parts washer pump oil is leaking,PhysicalObject/ProtectingObject/WearProtectingObject,parts washer pump oil,leaking
+leak hydraulic oil in swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leak hydraulic oil
+headboard cracks need fixing,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,cracks
+alarm triggered by slew pump chip sensor,PhysicalObject/SensingObject/ConcentrationSensingObject,slew pump chip sensor,alarm
+mast raise cylinder pin has no grease,PhysicalObject/HoldingObject/FasteningObject,mast raise cylinder pin,no grease
+walk motor brake cooling return hose coolant leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake cooling return hose,leaking coolant
+fault in air conditioner fuse,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,fault
+cabin needs smoke detector replacement,PhysicalObject/HoldingObject/EnclosingObject,cabin,missing smoke detector
+padding found worn,PhysicalObject/ProtectingObject/PreventiveProtectingObject,padding,worn
+repair cracks in cabin mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin mounts,cracks
+repair crack in window frame,PhysicalObject/HoldingObject/FramingObject,window frame,crack
+exhaust shield is cracked,PhysicalObject/ProtectingObject/TemperatureProtectingObject,exhaust shield,cracked
+grease leak,PhysicalObject/ProtectingObject/WearProtectingObject,grease,leak
+charge hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,charge hose,leaking
+noisy equalizer bar bearing,PhysicalObject/HoldingObject/JointingObject,equalizer bar bearing,noisy
+pto cavity is emptying,PhysicalObject/InterfacingObject/SpaceLinkingObject,pto cavity,emptying
+brake pump pressure gauge not working,PhysicalObject/PresentingObject/ScalarDisplay,brake pump pressure gauge,not working
+grass blocking radiator,PhysicalObject/EmittingObject/ThermalEnergyTransferObject,radiator,blocked grass
+hoist motor hose leaking coolant,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,leak coolant
+hmu hose needs extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs extending
+needs replaced brake filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,needs replaced
+creeping found in cylinder,PhysicalObject,cylinder,creeping
+hitch hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hitch hose,needs replacing
+air brake line needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air brake line,needs replacing
+siren unserviceable and needs replacement,PhysicalObject/EmittingObject/AcousticWaveEmittingObject,siren,unserviceable
+battery with dropped cell,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,battery,dropped cell
+drag motor lube is faulty,PhysicalObject/ProtectingObject/WearProtectingObject,drag motor lube,fault
+axle oil cooler hose blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,axle oil cooler hose,blown
+leaking transmission oil,PhysicalObject/ProtectingObject/WearProtectingObject,transmission oil,leaks
+pto pump hose leaking coolant,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pto pump hose,leak coolant
+cooler hose is weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,weeping
+boom chord is cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,boom chord,crack
+pto found not meshing,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,pto,not meshing
+lighting needs tagging,PhysicalObject/EmittingObject/LightObject,lighting,requires tagging
+crack found in windscreen,PhysicalObject/ControllingObject/SpaceAccessObject,windscreen,crack
+replace starter fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,starter fuse,keeps blowing
+hose has a leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak
+brake pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,brake pump bolt,needs loctite
+revolving frame has found oil,PhysicalObject/HoldingObject/StructuralSupportingObject,revolving frame,found oil
+repair crack in rock deflector,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,rock deflector,crack
+bucket has cracks,PhysicalObject,bucket,cracks
+replacing needed for differential pump bolt,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs replacing
+centrifuge hose blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,blown
+blown axle oil cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,axle oil cooler hose,blown
+no grease in dogbone pin,PhysicalObject/HoldingObject/FasteningObject,dogbone pin,no grease
+controller filter hose needs to be cleaned,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,needs clean out
+cooler fan hose needs clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+pump drive leaking fluid,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,pump drive,leaking
+replace bolt needed,PhysicalObject/HoldingObject/FasteningObject,bolt,needs replacing
+leaking roof heater taps,PhysicalObject/ControllingObject/SealedFluidVaryingObject,roof heater taps,leaking
+cabin door struts need replacing,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin door struts,require replacing
+auto-spray currently not working,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,auto-spray,not working
+operator cabin air conditioner is warm,PhysicalObject/EmittingObject/ElectricCoolingObject,operator cabin air conditioner,warm
+adjust hoist brake out of adjustment,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist brake,out of adjustment
+shaft needs to be replaced,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft,requires replacing
+replace leaking tank,PhysicalObject,tank,leak
+clean out needed for pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs clean out
+braces have cracks,PhysicalObject,braces,cracks
+replace falling off steering control valve,PhysicalObject/ControllingObject/SealedFluidVaryingObject,steering control valve,falling off
+walk motor brake pump has a leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,walk motor brake pump,leak
+auto-greaser door window is broken,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,broken
+replace leaking swing motor hoses,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hoses,leaking oil
+replace broken handrail weld,PhysicalObject/CoveringObject/InfillingObject,handrail weld,broken
+cooler pump hose leaking fuel,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leak fuel
+fuel leaking from drag rope pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leaking fuel
+cooler pump bolt needs loctite application,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs loctite
+speedometer has stopped working,PhysicalObject/SensingObject/TimeRatingObject,speedometer,not working
+battery dropped cell,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,battery,dropped cell
+dust has a leak,PhysicalObject/Substance/Solid,dust,leak
+repair leaks in engine,PhysicalObject/DrivingObject/CombustionEngine,engine,leaks
+wiper motor hose leaking hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak hydraulic oil
+wiper fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,wiper fuse,keeps blowing
+replace the air conditioner hose in cabin,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,needs replaced
+swing pump found broken,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,swing pump,broken
+replace missing pump bolt,PhysicalObject/HoldingObject/FasteningObject,pump bolt,missing
+replace leaking air tank safety valve,PhysicalObject/ProtectingObject/PressureProtectingObject,air tank safety valve,leaking
+compressor is not working,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,not working
+replace blown condenser fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,blown
+broken cabin air conditioner belt,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,cabin air conditioner belt,broken
+filter hose needs fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,filter hose,needs fitting
+crack found in fuel tank,PhysicalObject,fuel tank,cracked
+replace failed pto shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,pto shaft universal joint,failed
+head pulley shaft needs to be replaced,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,head pulley shaft,requires replacing
+engine air conditioner control cable too tight,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,engine air conditioner control cable,tight
+differential leak oil,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,differential,leak oil
+gauges require replacing,PhysicalObject,gauges,requires replacing
+control valve found unserviceable,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,unserviceable
+pump hose needs clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs clean out
+replace unserviceable box coupling,PhysicalObject/InterfacingObject/NonDetachableCoupling,box coupling,unserviceable
+roller bearing making noise,PhysicalObject/HoldingObject/JointingObject,roller bearing,noisy
+blown hose in motor,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,blown
+falling off control valve,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,falling off
+cabin air conditioner thermostat unserviceable,PhysicalObject/SensingObject/TemperatureSensingObject,cabin air conditioner thermostat,unserviceable
+unserviceable tyre,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,tyre,unserviceable
+clam cylinder hose clamp is broken,PhysicalObject/HoldingObject/PositioningObject,clam cylinder hose clamp,broken
+replace swing motor hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hose,needs replacing
+roller bearing is noisy,PhysicalObject/HoldingObject/JointingObject,roller bearing,noisy
+boom foot has a crack,PhysicalObject/HoldingObject/StructuralSupportingObject,boom foot,crack
+mast raise cylinder pin needs grease,PhysicalObject/HoldingObject/FasteningObject,mast raise cylinder pin,no grease
+am / fm radio needs aerial,PhysicalObject/TransformingObject/SignalConvertingObject,am / fm radio,needs aerial
+slew brake hose requires replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs replacing
+replace air brake line,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air brake line,needs replacing
+cracked boom,PhysicalObject/HoldingObject/StructuralSupportingObject,boom,cracks
+cooler hose is blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,blown
+wiper motor hose leaks oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak oil
+brake pump pressure gauge found not working,PhysicalObject/PresentingObject/ScalarDisplay,brake pump pressure gauge,not working
+loctite needed for slew pump bolt,PhysicalObject/HoldingObject/FasteningObject,slew pump bolt,needs loctite
+air compressor oil leaking,PhysicalObject/ProtectingObject/WearProtectingObject,air compressor oil,leaking
+hmu hose requires extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs extending
+repair leak in tank,PhysicalObject,tank,leak
+need replacing hitch hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hitch hose,needs replacing
+control cable broken,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,control cable,broken
+screen unserviceable,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,screen,unserviceable
+blown condenser fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,blown
+replace broken cabin air conditioner belt,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,cabin air conditioner belt,broken
+replace inverter batteries with no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,inverter batteries,no charge
+low slew pump cavity,PhysicalObject/InterfacingObject/SpaceLinkingObject,slew pump cavity,low
+leaking oil from differential,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,differential,leak oil
+clevis pin grease leak found,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,leak
+handrail weld found broken,PhysicalObject/CoveringObject/InfillingObject,handrail weld,broken
+repair faults in air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,air conditioner,faults
+boom is cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,boom,cracks
+repair cracked glass,PhysicalObject/InterfacingObject/SpaceLinkingObject,glass,cracked
+replace weeping brake filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,weeping
+swing brake hose has leaking coolant,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leaking coolant
+grease missing on a-frame clevis pin,PhysicalObject/HoldingObject/FasteningObject,a-frame clevis pin,no grease
+blowing fuse needs replacement,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,fuse,keep blowing
+air conditioner fan pump leaking,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,air conditioner fan pump,leak
+leak hydraulic oil from crowd cylinder hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,crowd cylinder hose,leak hydraulic oil
+blower inverter batteries show no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,blower inverter batteries,no charge
+cracks in fuel cooler mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,fuel cooler mounts,cracks
+parts washer pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,parts washer pump bolt,needs loctite
+transmission oil has leaks,PhysicalObject/ProtectingObject/WearProtectingObject,transmission oil,leaks
+broken swing pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,swing pump,broken
+blown hose in cooler,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,blown
+fan pump bolt is broken,PhysicalObject/HoldingObject/FasteningObject,fan pump bolt,broken
+replace unserviceable shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft universal joint,unserviceable
+drag motor lube shows fault,PhysicalObject/ProtectingObject/WearProtectingObject,drag motor lube,fault
+crack in gantry,PhysicalObject,gantry,crack
+drag rope pump leak needs fixing,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leak
+clevis pin is out,PhysicalObject/HoldingObject/FasteningObject,clevis pin,out
+leaking centrifuge filter,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,centrifuge filter,leaking
+grass obstructing radiator flow,PhysicalObject/EmittingObject/ThermalEnergyTransferObject,radiator,blocked grass
+leaking oil from swing brake filter,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,swing brake filter,leaking oil
+replace dust flap needed,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,dust flap,needs replaced
+repair hose leaking oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak oil
+drag roller bearing has noise,PhysicalObject/HoldingObject/JointingObject,drag roller bearing,noisy
+drag rope pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs loctite
+broken cooler hose clamp,PhysicalObject/HoldingObject/PositioningObject,cooler hose clamp,broken
+adjust fitting on slew motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,needs fitting
+mud bucket has cracks,PhysicalObject/StoringObject/MoveableStoringObject,mud bucket,cracks
+blowing starter fuse,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,starter fuse,keeps blowing
+battery cover hinges found seized,PhysicalObject/HoldingObject/JointingObject,battery cover hinges,seized
+tripping out operator cabin compressor,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,operator cabin air conditioner compressor,tripping out
+tank has a crack,PhysicalObject,tank,crack
+air conditioner fuse has fault,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,fault
+leaking engine pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,engine pump oil,leaking
+apply loctite to pto pump bolt,PhysicalObject/HoldingObject/FasteningObject,pto pump bolt,needs loctite
+repair broken auto-greaser door window,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,broken
+hoist motor hose needs extension,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,needs extending
+air conditioner fan hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,blown
+slew pump hose needs clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew pump hose,needs clean out
+fire suppression mounts have cracks,PhysicalObject/HoldingObject/StructuralSupportingObject,fire suppression mounts,cracks
+clevis pin grease has a leak,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,leak
+replace not working weightometer,PhysicalObject/SensingObject/ForceSensingObject,weightometer,not working
+crack in cabin power point,PhysicalObject/InterfacingObject/LowVoltageConnectingObject,cabin power point,cracked
+replace unserviceable cabin air conditioner thermostat,PhysicalObject/SensingObject/TemperatureSensingObject,cabin air conditioner thermostat,unserviceable
+swing motor hoses leaking oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hoses,leaking oil
+vims keypad light needs cleaning out,PhysicalObject/EmittingObject/LightObject,vims keypad light,needs clean out
+replace leaking pump motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pump motor hose,leaking fuel
+replace out of date extinguisher,PhysicalObject,extinguisher,out of date
+clevis pin has come out,PhysicalObject/HoldingObject/FasteningObject,clevis pin,out
+diverter valve has dust leak,PhysicalObject/ControllingObject/SolidSubstanceFlowVaryingObject,diverter valve,leak dust
+dogbone bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs loctite
+adjust fitting on engine oil cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine oil cooler hose,needs fitting
+replace the belly plate bolt,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+cooler fan hose has a leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak
+extinguisher needs updating,PhysicalObject,extinguisher,out of date
+replace leaking centrifuge hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,leak grease
+unserviceable pump contamination switch,PhysicalObject/SensingObject/ConcentrationSensingObject,pump contamination switch,unserviceable
+slew pump oil is leaking,PhysicalObject/ProtectingObject/WearProtectingObject,slew pump oil,leaking
+battery has dropped cell,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,battery,dropped cell
+dogbone pin needs grease,PhysicalObject/HoldingObject/FasteningObject,dogbone pin,no grease
+cabin air conditioner drive is leaking,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,cabin air conditioner drive,leaking
+earthing out drag blower inverter,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,drag blower inverter,earthing out
+cracked gantry needs repair,PhysicalObject,gantry,crack
+weeping hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,weeping
+cracked pipe,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pipe,cracked
+guide is unserviceable,PhysicalObject/GuidingObject/OpenEnclosureGuidingObject,guide,unserviceable
+walk motor brake sensor is not reading,PhysicalObject/SensingObject,walk motor brake sensor,not reading
+cracked cross braces need repair,PhysicalObject/HoldingObject/ReinforcingObject,cross braces,cracks
+pto cavity emptying,PhysicalObject/InterfacingObject/SpaceLinkingObject,pto cavity,emptying
+air conditioner fan hose is leaking grease,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,leak grease
+temperature error in brake,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+repair crack in fuel tank,PhysicalObject/StoringObject/EnclosedStationaryStoringObject,fuel tank,crack
+swing brake hose leaking coolant,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leaking coolant
+lights fuse found faulty,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,lights fuse,fault
+walk motor brake cooling return hose leaking coolant,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake cooling return hose,leaking coolant
+cabin air conditioner belt needs replacement,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,cabin air conditioner belt,broken
+hole in cabin door frame,PhysicalObject/HoldingObject/FramingObject,cabin door frame,hole
+leaking engine pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,leaking
+hose is weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,weeping
+contamination switch on pto pump,PhysicalObject/SensingObject/ConcentrationSensingObject,pto pump contamination switch,on
+walk motor brake pump needs repair for leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,walk motor brake pump,leak
+slew pump hose needs to be cleaned,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew pump hose,needs clean out
+engine oil cooler hose needs fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine oil cooler hose,needs fitting
+swing brake filter is leaking oil,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,swing brake filter,leaking oil
+windscreen crack,PhysicalObject/ControllingObject/SpaceAccessObject,windscreen,crack
+boom hose o-ring is blown,PhysicalObject/CoveringObject/InfillingObject,boom hose o-ring,blown
+drag roller requires change out,PhysicalObject/HoldingObject/JointingObject,drag roller,need change out
+tyre is unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,tyre,unserviceable
+hoist brake hose leaking hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist brake hose,leak hydraulic oil
+replace wiper fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,wiper fuse,keeps blowing
+drivers window fault found,PhysicalObject/ControllingObject/SpaceAccessObject,drivers window,fault
+drag rope pump hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,needs replacing
+motor hose blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,blown
+clevis pin needs grease,PhysicalObject/HoldingObject/FasteningObject,clevis pin,no grease
+repair cracks in braces,PhysicalObject,braces,cracks
+crack in boom foot,PhysicalObject/HoldingObject/StructuralSupportingObject,boom foot,crack
+guide needs replacement unserviceable,PhysicalObject/GuidingObject/OpenEnclosureGuidingObject,guide,unserviceable
+apply loctite to carousel bolt,PhysicalObject/HoldingObject/FasteningObject,carousel bolt,needs loctite
+leaking brake filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,leaking
+engine air conditioner requires repair,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,needs repair
+gantry cracked,PhysicalObject,gantry,crack
+blown hose in condenser fan,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,blown
+boom cylinder hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom cylinder hose,needs replacing
+clamps need loctite application,PhysicalObject/HoldingObject/PositioningObject,clamps,needs loctite
+fuse is blowing repeatedly,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,fuse,keep blowing
+replace unserviceable engine air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,unserviceable
+cooler pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs loctite
+centrifuge hose leaking grease,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,leak grease
+extend hoist motor hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,needs extending
+bolt requires replacing,PhysicalObject/HoldingObject/FasteningObject,bolt,needs replacing
+fault in generator,PhysicalObject/GeneratingObject/MechanicalToElectricalEnergyGeneratingObject,generator,fault
+pto pump contamination switch remains on,PhysicalObject/SensingObject/ConcentrationSensingObject,pto pump contamination switch,on
+bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,bolt,needs loctite
+replace brake pump pressure gauge not working,PhysicalObject/PresentingObject/ScalarDisplay,brake pump pressure gauge,not working
+replacing needed for cooler pump bolt,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs replacing
+replace leaking cabin air conditioner drive,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,cabin air conditioner drive,leaking
+broken window,PhysicalObject/ControllingObject/SpaceAccessObject,window,broken
+replace leaking brake filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,leaking
+cooler fan hose leaks hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak hydraulic oil
+blower inverter batteries are not charging,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,blower inverter batteries,no charge
+cooler pump bolt needs replacing,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs replacing
+cleaning needed for brake switches,PhysicalObject/HumanInteractionObject/HandInteractionObject,brake switches,need cleaning
+cabin power point is cracked,PhysicalObject/InterfacingObject/LowVoltageConnectingObject,cabin power point,cracked
+pilot valve solenoid has a leak,PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject,pilot valve solenoid,leak
+leaking fuel from cooler pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking fuel
+blowing fuse for operator cabin air conditioner,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,keeps blowing
+clean out needed for controller filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,needs clean out
+cooler hose clamp needs replacing,PhysicalObject/HoldingObject/PositioningObject,cooler hose clamp,broken
+cooler pump hose leak fuel,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leak fuel
+batteries show no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,batteries,no charge
+centrifuge filter leaking needs replacement,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,centrifuge filter,leaking
+operator cabin compressor tripping out,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,operator cabin air conditioner compressor,tripping out
+clamps need loctite,PhysicalObject/HoldingObject/PositioningObject,clamps,needs loctite
+dust flap needs replaced,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,dust flap,needs replaced
+repair auto-spray not working,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,auto-spray,not working
+equalizer bar bearing has noise,PhysicalObject/HoldingObject/JointingObject,equalizer bar bearing,noisy
+starter fuse keeps blowing repeatedly,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,starter fuse,keeps blowing
+replace unserviceable compressor,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,unserviceable
+pilot valve solenoid is leaking,PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject,pilot valve solenoid,leak
+bucket cylinder hose has leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,bucket cylinder hose,leaking
+replace weeping hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,weeping
+replace leaking slew pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,slew pump oil,leaking
+cracked bucket needs repair,PhysicalObject,bucket,cracks
+steering shaft universal joint is worn,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,worn
+hydraulic oil leak in hoist brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist brake hose,leak hydraulic oil
+pto shaft universal joint has failed,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,pto shaft universal joint,failed
+brake switches need cleaning,PhysicalObject/HumanInteractionObject/HandInteractionObject,brake switches,need cleaning
+swing motor rtd wired incorrectly,PhysicalObject/SensingObject/ResistivitySensingObject,swing motor rtd,wired incorrectly
+engine fan hose needs to be extended,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine fan hose,needs extending
+repair cracks in boom,PhysicalObject/HoldingObject/StructuralSupportingObject,boom,cracks
+transmission hose leaking oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,leak oil
+broken mirror,PhysicalObject/GuidingObject/LightGuidingObject,mirror,broken
+broken fan pump bolt,PhysicalObject/HoldingObject/FasteningObject,fan pump bolt,broken
+engine air conditioner needs repair,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,needs repair
+engine air conditioner unserviceable,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,unserviceable
+fuel tank is cracked,PhysicalObject,fuel tank,cracked
+leaking coolant in swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leaking coolant
+transmission hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,needs replacing
+bucket cylinder hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,bucket cylinder hose,leaking
+cabin door frame needs hole repair,PhysicalObject/HoldingObject/FramingObject,cabin door frame,hole
+replace weeping cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,weeping
+unserviceable compressor,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,unserviceable
+movement in engine mount,PhysicalObject/HoldingObject/StructuralSupportingObject,engine mount,movement
+bolt needs replacing,PhysicalObject/HoldingObject/FasteningObject,bolt,needs replacing
+replace leaking cooler pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking fuel
+replace unserviceable pump contamination switch,PhysicalObject/SensingObject/ConcentrationSensingObject,pump contamination switch,unserviceable
+compressor not working,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,not working
+slew brake hose needs a fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs fitting
+dogbone bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs loctite
+drag blower inverter experiencing earthing out,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,drag blower inverter,earthing out
+cabin air conditioner hose needs replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cabin air conditioner hose,needs replaced
+crack in exhaust shield,PhysicalObject/ProtectingObject/TemperatureProtectingObject,exhaust shield,cracked
+need clean out parts washer pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs clean out
+replace drag rope pump bolt,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs replacing
+unserviceable mast lights harness,PhysicalObject/HoldingObject/StructuralSupportingObject,mast lights harness,unserviceable
+boom has cracks,PhysicalObject/HoldingObject/StructuralSupportingObject,boom,cracks
+boom foot clevis pin no grease present,PhysicalObject/HoldingObject/FasteningObject,boom foot clevis pin,no grease
+parts washer pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,parts washer pump bolt,needs loctite
+leaking motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,leaking
+replace parts washer pump pressure gauge not working,PhysicalObject/PresentingObject/ScalarDisplay,parts washer pump pressure gauge,not working
+change out needed for dragline air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,dragline air conditioner,need change out
+repair cracked headboard,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,crack
+swing pump is broken,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,swing pump,broken
+replace leaking cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak
+radiator relief valves leaking air,PhysicalObject/ControllingObject/SealedFluidVaryingObject,radiator relief valves,leaking air
+cracked mud bucket needs repair,PhysicalObject/StoringObject/MoveableStoringObject,mud bucket,cracks
+hydraulic oil leak from swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leak hydraulic oil
+cabin air conditioner fan unserviceable,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,cabin air conditioner fan,unserviceable
+am / fm radio requires new aerial,PhysicalObject/TransformingObject/SignalConvertingObject,am / fm radio,needs aerial
+hydraulic oil leak in crowd cylinder hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,crowd cylinder hose,leak hydraulic oil
+thrust bearing oil found,PhysicalObject/ProtectingObject/WearProtectingObject,thrust bearing oil,found
+inverter batteries are not charged,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,inverter batteries,no charge
+motor hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,leaking
+replace leaking hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak
+clean out required for cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+compressor tripping out,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,operator cabin air conditioner compressor,tripping out
+replace transmission hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,needs replacing
+loctite needed for dogbone bolt,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs loctite
+steering pump drive is leaking,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,steering pump drive,leaking
+cooler pump hose needs replacing due leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking
+replace leaking bucket cylinder hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,bucket cylinder hose,leaking
+cabin air conditioner hose needs replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cabin air conditioner hose,needs replaced
+drag roller need change out,PhysicalObject/HoldingObject/JointingObject,drag roller,need change out
+parts washer pump hose needs to be repaired,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs repair
+noisy jockey pulley bearing,PhysicalObject/HoldingObject/JointingObject,jockey pulley bearing,noisy
+drag brake pump has fuel leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag brake pump,leak fuel
+headboard is cracked,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,crack
+swing motor hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hose,needs replacing
+repair needed for engine pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+operator cabin air conditioner accessory drive leaking,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,operator cabin air conditioner accessory drive,leaking
+replace slew motor hose leaking fuel,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,leak fuel
+repair cracks on fire suppression mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,fire suppression mounts,cracks
+cracked cabin power point,PhysicalObject/InterfacingObject/LowVoltageConnectingObject,cabin power point,cracked
+engine pump oil is leaking,PhysicalObject/ProtectingObject/WearProtectingObject,engine pump oil,leaking
+wiper motor hose leaking oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak oil
+radio requires new aerial,PhysicalObject,radio,needs aerial
+engine leaks present,PhysicalObject/DrivingObject/CombustionEngine,engine,leaks
+operator cabin air conditioner fuse is faulty,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,fault
+need cleaning brake switches,PhysicalObject/HumanInteractionObject/HandInteractionObject,brake switches,need cleaning
+no grease on pin,PhysicalObject/HoldingObject/FasteningObject,pin,no grease
+fuel tank crack,PhysicalObject/StoringObject/EnclosedStationaryStoringObject,fuel tank,crack
+compressor of air conditioner not working,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,air conditioner compressor,not working
+replace unserviceable heater hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,heater hose,unserviceable
+leak in pilot valve solenoid,PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject,pilot valve solenoid,leak
+repair slipping fault in transmission,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,transmission,slipping fault
+replace leaking engine pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,engine pump,leaking
+cooler pump lube system experiencing faults,PhysicalObject/ProtectingObject/WearProtectingObject,cooler pump lube system,faults
+tank has a leak,PhysicalObject,tank,leak
+replace engine bay light,PhysicalObject/EmittingObject/LightObject,engine bay light,needs replacing
+replace out clevis pin,PhysicalObject/HoldingObject/FasteningObject,clevis pin,out
+brake filter hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,leaking
+repair broken air conditioner compressor earth terminal,PhysicalObject/ControllingObject/ElectricEarthingObject,air conditioner compressor earth terminal,broken
+pump bolt needs replacement missing,PhysicalObject/HoldingObject/FasteningObject,pump bolt,missing
+shaft universal joint is unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft universal joint,unserviceable
+unserviceable tyre needs replacement,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,tyre,unserviceable
+replace unserviceable tyre,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,tyre,unserviceable
+slew pump chip sensor is alarming,PhysicalObject/SensingObject/ConcentrationSensingObject,slew pump chip sensor,alarm
+steering shaft universal joint has worn,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,worn
+shaft input seal leaking air,PhysicalObject/CoveringObject/InfillingObject,shaft input seal,leaking air
+heater hose unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,heater hose,unserviceable
+mud bucket is cracked,PhysicalObject/StoringObject/MoveableStoringObject,mud bucket,cracks
+need to replace dust flap,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,dust flap,needs replaced
+hose needs replacement due to weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,weeping
+replace missing smoke detector in cabin,PhysicalObject/HoldingObject/EnclosingObject,cabin,missing smoke detector
+repair parts washer pump hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs repair
+pump motor hose leaking fuel,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pump motor hose,leaking fuel
+repair cracks on bucket,PhysicalObject,bucket,cracks
+broken control cable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,control cable,broken
+control cable is broken,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,control cable,broken
+boom chord has a crack,PhysicalObject/HoldingObject/StructuralSupportingObject,boom chord,crack
+dust flap replacement needed,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,dust flap,needs replaced
+cooler fan hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak
+grease leak in centrifuge hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,leak grease
+cracking on operator cabin air conditioner cover,PhysicalObject/CoveringObject/ClosureObject,operator cabin air conditioner cover,cracking
+engine pump oil leaking,PhysicalObject/ProtectingObject/WearProtectingObject,engine pump oil,leaking
+unserviceable engine air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,unserviceable
+replace leaking charge hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,charge hose,leaking
+cabin power point has crack,PhysicalObject/InterfacingObject/LowVoltageConnectingObject,cabin power point,cracked
+loctite needed for differential pump bolt,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs loctite
+blade liner crack detected,PhysicalObject/ProtectingObject/WearProtectingObject,blade liner,crack
+accumulator has a leak,PhysicalObject/StoringObject/MechanicalEnergyStoringObject,accumulator,leak
+cracked glass,PhysicalObject/InterfacingObject/SpaceLinkingObject,glass,cracked
+address brake temperature error,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+no grease on a-frame clevis pin,PhysicalObject/HoldingObject/FasteningObject,a-frame clevis pin,no grease
+window frame has a crack,PhysicalObject/HoldingObject/FramingObject,window frame,crack
+loctite needed for cooler pump bolt,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs loctite
+controller filter hose unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,unserviceable
+vims keypad light needs clean out,PhysicalObject/EmittingObject/LightObject,vims keypad light,needs clean out
+control cable found broken,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,control cable,broken
+head pulley shaft needs replacing,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,head pulley shaft,requires replacing
+air conditioner compressor earth terminal is broken,PhysicalObject/ControllingObject/ElectricEarthingObject,air conditioner compressor earth terminal,broken
+fuel leaking from pump motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pump motor hose,leaking fuel
+auto-spray is not working,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,auto-spray,not working
+thermostat is unserviceable,PhysicalObject/SensingObject/TemperatureSensingObject,thermostat,unserviceable
+repair engine vibration,PhysicalObject/DrivingObject/CombustionEngine,engine,vibration
+roof heater hose requires clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,roof heater hose,needs clean out
+headboard crack found,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,crack
+cooler hose is weeping fluid,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,weeping
+belly plate bolt replacement needed,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+jockey pulley bearing has noise,PhysicalObject/HoldingObject/JointingObject,jockey pulley bearing,noisy
+coolant leaking from walk motor brake cooling return hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake cooling return hose,leaking coolant
+controller filter hose needs clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,needs clean out
+engine oil cooler hose needs new fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine oil cooler hose,needs fitting
+replacing needed for air brake line,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air brake line,needs replacing
+cabin air conditioner belt found broken,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,cabin air conditioner belt,broken
+creeping cylinder,PhysicalObject,cylinder,creeping
+air conditioner fan hose blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,blown
+window is cracked,PhysicalObject,window,crack
+adjust fitting on slew brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs fitting
+steering shaft universal joint worn,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,worn
+brake filter hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,needs replaced
+out of date extinguisher,PhysicalObject,extinguisher,out of date
+loctite needed for engine pump bolt,PhysicalObject/HoldingObject/FasteningObject,engine pump bolt,needs loctite
+compressor needs replacement unserviceable,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,unserviceable
+replace leaking steering pump drive,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,steering pump drive,leaking
+replace unserviceable siren,PhysicalObject/EmittingObject/AcousticWaveEmittingObject,siren,unserviceable
+drag rope pump has a leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leak
+oil leak in differential,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,differential,leak oil
+hoist motor hose needs extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,needs extending
+apply loctite to dogbone bolt,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs loctite
+loctite needed for parts washer pump bolt,PhysicalObject/HoldingObject/FasteningObject,parts washer pump bolt,needs loctite
+air conditioner experiencing faults,PhysicalObject/EmittingObject/ElectricCoolingObject,air conditioner,faults
+replace swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,needs replaced
+hmu hose needs to be extended,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs extending
+coolant leak in hydraulic motor engine oil cooler,PhysicalObject/EmittingObject/ThermalCoolingObject,hydraulic motor engine oil cooler,leak coolant
+cooler fan hose needs to be cleaned,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+replace unserviceable mast lights harness,PhysicalObject/HoldingObject/StructuralSupportingObject,mast lights harness,unserviceable
+pump drive has a leak,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,pump drive,leaking
+cooler fan hose has hydraulic oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak hydraulic oil
+replacing needed for fan motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan motor hose,needs replacing
+hose found weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,weeping
+compressor found unserviceable,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,unserviceable
+crack found in glass,PhysicalObject/InterfacingObject/SpaceLinkingObject,glass,cracked
+line is blown,PhysicalObject,line,blown
+apply loctite to belly plate bolt,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs loctite
+differential pump oil leak found,PhysicalObject/ProtectingObject/WearProtectingObject,differential pump oil,leak
+drag rope pump hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,leak
+extending needed for boom hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom hose,needs extending
+swing brake filter leaking oil,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,swing brake filter,leaking oil
+engine pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,engine pump bolt,needs loctite
+cabin air conditioner hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cabin air conditioner hose,needs replaced
+replace boom cylinder hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom cylinder hose,needs replacing
+clean brake switches needed,PhysicalObject/HumanInteractionObject/HandInteractionObject,brake switches,need cleaning
+weeping swing pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing pump hose,weeping
+control valve is falling off,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,falling off
+air conditioner fan pump has a leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,air conditioner fan pump,leak
+clevis pin grease not present,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,no
+found oil on revolving frame,PhysicalObject/HoldingObject/StructuralSupportingObject,revolving frame,found oil
+apply loctite on bolt,PhysicalObject/HoldingObject/FasteningObject,bolt,needs loctite
+air conditioner fan hose has grease leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,leak grease
+dogbone bolt needs to be replaced,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs replaced
+worn filter for hoist brake,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,hoist brake filter,worn
+drag rope pump bolt is needing replacement,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs replacing
+cooler pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs loctite
+walk motor brake cooling return hose has coolant leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake cooling return hose,leaking coolant
+blown lights need replacement,PhysicalObject,lights,blown
+cabin door frame has a hole,PhysicalObject/HoldingObject/FramingObject,cabin door frame,hole
+replacing required for cabin door struts,PhysicalObject/HoldingObject/StructuralSupportingObject,cabin door struts,require replacing
+a-frame clevis pin has no grease,PhysicalObject/HoldingObject/FasteningObject,a-frame clevis pin,no grease
+repair leaking roof heater taps,PhysicalObject/ControllingObject/SealedFluidVaryingObject,roof heater taps,leaking
+clean out needed for vims keypad light,PhysicalObject/EmittingObject/LightObject,vims keypad light,needs clean out
+replace engine air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs replaced
+brake has temperature error,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+cabin air conditioner drive leaking,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,cabin air conditioner drive,leaking
+headboard has cracks,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,cracks
+leak of hydraulic oil from hoist brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist brake hose,leak hydraulic oil
+repair crack in blade liner,PhysicalObject/ProtectingObject/WearProtectingObject,blade liner,crack
+leaking coolant from walk motor brake cooling return hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake cooling return hose,leaking coolant
+drag rope pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs loctite
+pump bolt needs loctite sealing,PhysicalObject/HoldingObject/FasteningObject,parts washer pump bolt,needs loctite
+no grease on steering pin,PhysicalObject/HoldingObject/FasteningObject,steering pin,no grease
+guide found unserviceable,PhysicalObject/GuidingObject/OpenEnclosureGuidingObject,guide,unserviceable
+leak found in tank,PhysicalObject,tank,leak
+engine pump has a leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,engine pump,leaking
+extinguisher out of date,PhysicalObject,extinguisher,out of date
+slew brake hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs replacing
+glass is cracked,PhysicalObject/InterfacingObject/SpaceLinkingObject,glass,cracked
+roof heater taps are leaking,PhysicalObject/ControllingObject/SealedFluidVaryingObject,roof heater taps,leaking
+pto pump bolt needs loctite application,PhysicalObject/HoldingObject/FasteningObject,pto pump bolt,needs loctite
+line has blown,PhysicalObject,line,blown
+crack in window,PhysicalObject,window,crack
+equalizer bar bearing is noisy,PhysicalObject/HoldingObject/JointingObject,equalizer bar bearing,noisy
+brake pump hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leak
+repair blown line,PhysicalObject,line,blown
+brake hose leak detected,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake hose,leak
+leak fuel in slew motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,leak fuel
+replace wiper motor hose leaking oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak oil
+crack in window frame,PhysicalObject/HoldingObject/FramingObject,window frame,crack
+engine air conditioner is in need of repair,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,needs repair
+parts washer pump oil leaking,PhysicalObject/ProtectingObject/WearProtectingObject,parts washer pump oil,leaking
+batteries have no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,batteries,no charge
+leaking engine pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,engine pump,leaking
+operator cabin air conditioner fuse keeps blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,keeps blowing
+fix leak in brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leak
+transmission hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,needs replacing
+repair crack in boom chord,PhysicalObject/HoldingObject/StructuralSupportingObject,boom chord,crack
+engine mount has movement,PhysicalObject/HoldingObject/StructuralSupportingObject,engine mount,movement
+temperature error in brake,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+condenser fan pump has coolant leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,condenser fan pump,leak coolant
+clevis pin grease unavailable,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,no
+replace unserviceable control valve,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,unserviceable
+differential pump bolt needs loctite application,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs loctite
+pipe has a crack,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pipe,cracked
+belly plate bolt requires replacement,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+no charge in batteries,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,batteries,no charge
+drag blower inverter has earthing out,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,drag blower inverter,earthing out
+leak found in drag rope pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leak
+operator cabin air conditioner hose needs replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,needs replaced
+cooler pump lube system is faulty,PhysicalObject/ProtectingObject/WearProtectingObject,cooler pump lube system,faults
+engine pump hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,leaking
+brake temperature error present,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+leak grease in air conditioner fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,leak grease
+drag rope pump has leaking fuel,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leaking fuel
+air leaking from condenser fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,leaking air
+engine air conditioner found unserviceable,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,unserviceable
+apply loctite on brake pump bolt,PhysicalObject/HoldingObject/FasteningObject,brake pump bolt,needs loctite
+crack in headboard,PhysicalObject/HoldingObject/StructuralSupportingObject,headboard,crack
+air brake line requires replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air brake line,needs replacing
+air conditioner fan hose is blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,blown
+unserviceable heater hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,heater hose,unserviceable
+fan motor hose needs replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan motor hose,needs replacing
+brake hose leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake hose,leak
+blown o-ring in engine pump,PhysicalObject/CoveringObject/InfillingObject,engine pump o-ring,blown
+hydraulic motor engine air conditioner is unserviceable,PhysicalObject/EmittingObject/ElectricCoolingObject,hydraulic motor engine air conditioner,unserviceable
+steering cylinder pin has no grease,PhysicalObject/HoldingObject/FasteningObject,steering cylinder pin,no grease
+no grease on boom foot clevis pin,PhysicalObject/HoldingObject/FasteningObject,boom foot clevis pin,no grease
+need extending brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,needs extending
+filter hose requires fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,filter hose,needs fitting
+not working parts washer pump pressure gauge,PhysicalObject/PresentingObject/ScalarDisplay,parts washer pump pressure gauge,not working
+hydraulic pipe is cracked,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hydraulic pipe,cracked
+clamps require loctite,PhysicalObject/HoldingObject/PositioningObject,clamps,needs loctite
+fitting needed for slew motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,needs fitting
+parts washer pump oil has leak,PhysicalObject/ProtectingObject/WearProtectingObject,parts washer pump oil,leaking
+motor hose needs extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,needs extending
+no charge in inverter batteries,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,inverter batteries,no charge
+leaking head pulley shaft input seal,PhysicalObject/CoveringObject/InfillingObject,head pulley shaft input seal,leaking
+belly plate bolt requires replacement,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs replaced
+fuel leak in cooler pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leak fuel
+weightometer not working,PhysicalObject/SensingObject/ForceSensingObject,weightometer,not working
+centrifuge filter is leaking,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,centrifuge filter,leaking
+blown operator cabin air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,blown
+differential pump bolt requires replacing,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs replacing
+replace broken auto-greaser door window,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,broken
+parts washer pump hose needs clean out,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs clean out
+leak coolant from condenser fan pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,condenser fan pump,leak coolant
+replace unserviceable steering shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,unserviceable
+control valve falling off,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,falling off
+add grease to pin,PhysicalObject/HoldingObject/FasteningObject,pin,no grease
+cabin air conditioner fan found unserviceable,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,cabin air conditioner fan,unserviceable
+slew pump cavity low,PhysicalObject/InterfacingObject/SpaceLinkingObject,slew pump cavity,low
+operator cabin air conditioner leaking,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,operator cabin air conditioner accessory drive,leaking
+noisy drag roller bearing,PhysicalObject/HoldingObject/JointingObject,drag roller bearing,noisy
+brake pump hose needs extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,needs extending
+cracks found in dirt chute,PhysicalObject/GuidingObject/SolidMatterGuidingObject,dirt chute,cracks
+replacing needed for cabin seat,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs replacing
+fix leaking air compressor oil,PhysicalObject/ProtectingObject/WearProtectingObject,air compressor oil,leaking
+air leaking from radiator relief valves,PhysicalObject/ControllingObject/SealedFluidVaryingObject,radiator relief valves,leaking air
+engine air conditioner hose needs replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs replaced
+replace drag motor lube fault,PhysicalObject/ProtectingObject/WearProtectingObject,drag motor lube,fault
+cooler pump lube system has faults,PhysicalObject/ProtectingObject/WearProtectingObject,cooler pump lube system,faults
+gauges need to be replaced,PhysicalObject,gauges,requires replacing
+slew pump bolt needs tightening with loctite,PhysicalObject/HoldingObject/FasteningObject,slew pump bolt,needs loctite
+inverter earthing out,PhysicalObject/TransformingObject/ElectricEnergyConvertingObject,inverter,earthing out
+replace slew brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs replacing
+transmission experiencing slipping fault,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,transmission,slipping fault
+oil leaking from swing brake filter,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,swing brake filter,leaking oil
+am / fm radio needs an aerial,PhysicalObject/TransformingObject/SignalConvertingObject,am / fm radio,needs aerial
+noise from jockey pulley bearing,PhysicalObject/HoldingObject/JointingObject,jockey pulley bearing,noisy
+pin is without grease,PhysicalObject/HoldingObject/FasteningObject,pin,no grease
+dragline air conditioner fuse is blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,dragline air conditioner fuse,keep blowing
+out of adjustment hoist drag brake,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist drag brake,out of adjustment
+repair cracks in handrail,PhysicalObject/ProtectingObject/PreventiveProtectingObject,handrail,cracks
+no grease found on steering cylinder pin,PhysicalObject/HoldingObject/FasteningObject,steering cylinder pin,no grease
+extending needed for engine fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine fan hose,needs extending
+belly plate bolt needs to be loctite,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs loctite
+pump drive is leaking,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,pump drive,leaking
+replace leaking air compressor oil,PhysicalObject/ProtectingObject/WearProtectingObject,air compressor oil,leaking
+tagging required for lighting,PhysicalObject/EmittingObject/LightObject,lighting,requires tagging
+axle oil cooler hose is blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,axle oil cooler hose,blown
+lights have blown,PhysicalObject,lights,blown
+frame has found oil,PhysicalObject,frame,found oil
+clean out needed for cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,needs clean out
+centrifuge hose has grease leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,leak grease
+extend hmu hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs extending
+swing brake hose requires replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,needs replaced
+fuel leaking from cooler pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leak fuel
+engine pump hose has leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,leaking
+cooler fan hose needs repair for leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak
+fault in drag iov,PhysicalObject/PresentingObject/GraphicalDisplay,drag iov,fault
+repair cracks on dirt chute,PhysicalObject/GuidingObject/SolidMatterGuidingObject,dirt chute,cracks
+leaking parts washer pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,parts washer pump oil,leaking
+repair dust leak,PhysicalObject/Substance/Solid,dust,leak
+hmu hose needs new fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs fitting
+slew motor hose needs fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,needs fitting
+head pulley shaft requires replacing,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,head pulley shaft,requires replacing
+battery cover hinges seized,PhysicalObject/HoldingObject/JointingObject,battery cover hinges,seized
+broken air conditioner compressor earth terminal,PhysicalObject/ControllingObject/ElectricEarthingObject,air conditioner compressor earth terminal,broken
+replace unserviceable screen,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,screen,unserviceable
+blocked radiator due to grass,PhysicalObject/EmittingObject/ThermalEnergyTransferObject,radiator,blocked grass
+cracked hydraulic pipe,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hydraulic pipe,cracked
+door frame contains hole,PhysicalObject/HoldingObject/FramingObject,door frame,hole
+seized battery cover hinges,PhysicalObject/HoldingObject/JointingObject,battery cover hinges,seized
+swing motor hose needs replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing motor hose,needs replacing
+pilot valve solenoid leaking,PhysicalObject/DrivingObject/ElectromagneticLinearDrivingObject,pilot valve solenoid,leak
+starter fuse is blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,starter fuse,keeps blowing
+replace shaft needed,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft,requires replacing
+differential pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs loctite
+replacing needed for head pulley shaft,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,head pulley shaft,requires replacing
+cylinder movement is creeping,PhysicalObject,cylinder,creeping
+hydraulic motor engine air conditioner found unserviceable,PhysicalObject/EmittingObject/ElectricCoolingObject,hydraulic motor engine air conditioner,unserviceable
+parts washer pump hose needs cleaning,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs clean out
+need repair for engine pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+fitting needed for engine oil cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine oil cooler hose,needs fitting
+apply loctite to drag rope pump bolt,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs loctite
+cracks in braces,PhysicalObject,braces,cracks
+repair leak in accumulator,PhysicalObject/StoringObject/MechanicalEnergyStoringObject,accumulator,leak
+need loctite on drag rope pump bolt,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs loctite
+loctite needed for cabin seat,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs loctite
+hydraulic motor engine oil cooler leak coolant,PhysicalObject/EmittingObject/ThermalCoolingObject,hydraulic motor engine oil cooler,leak coolant
+apply loctite to cooler pump bolt,PhysicalObject/HoldingObject/FasteningObject,cooler pump bolt,needs loctite
+leaking engine,PhysicalObject/DrivingObject/CombustionEngine,engine,leaks
+brake pump hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leaking
+brake filter hose weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,weeping
+lights are blown,PhysicalObject,lights,blown
+no charge in blower inverter batteries,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,blower inverter batteries,no charge
+hydraulic pipe has crack,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hydraulic pipe,cracked
+clam cylinder hose clamp found broken,PhysicalObject/HoldingObject/PositioningObject,clam cylinder hose clamp,broken
+repair crack in liner,PhysicalObject/ProtectingObject/WearProtectingObject,liner,crack
+engine fan hose requires extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine fan hose,needs extending
+leaking cooler pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking
+cracked fuel tank,PhysicalObject,fuel tank,cracked
+out of adjustment hoist brake,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist brake,out of adjustment
+pto shaft universal joint failed,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,pto shaft universal joint,failed
+carousel bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,carousel bolt,needs loctite
+hoist brake is out of adjustment,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist brake,out of adjustment
+slew motor hose has fuel leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,leak fuel
+motor hose requires extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,needs extending
+accumulator is leaking,PhysicalObject/StoringObject/MechanicalEnergyStoringObject,accumulator,leak
+loctite application needed on pump bolt,PhysicalObject/HoldingObject/FasteningObject,parts washer pump bolt,needs loctite
+replace broken fan pump bolt,PhysicalObject/HoldingObject/FasteningObject,fan pump bolt,broken
+condenser fan hose found blown,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,condenser fan hose,blown
+fuel cooler mounts have cracks,PhysicalObject/HoldingObject/StructuralSupportingObject,fuel cooler mounts,cracks
+roller bearing producing noise,PhysicalObject/HoldingObject/JointingObject,roller bearing,noisy
+needs replacing slew brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs replacing
+centrifuge hose leaks grease,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,leak grease
+pto pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,pto pump bolt,needs loctite
+replace leaking brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake hose,leak
+siren is unserviceable,PhysicalObject/EmittingObject/AcousticWaveEmittingObject,siren,unserviceable
+cooler pump hose has fuel leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leak fuel
+coolant leak in hoist motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,leak coolant
+leak in brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake hose,leak
+lights fuse has a fault,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,lights fuse,fault
+needs repair for engine air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,engine air conditioner,needs repair
+drag rope pump hose requires replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,needs replacing
+cracked fuel cooler mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,fuel cooler mounts,cracks
+dogbone bolt needs replaced,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs replaced
+grease is leaking,PhysicalObject/ProtectingObject/WearProtectingObject,grease,leak
+fitting needed for filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,filter hose,needs fitting
+replace broken cooler hose clamp,PhysicalObject/HoldingObject/PositioningObject,cooler hose clamp,broken
+hose leak found,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak
+controller filter hose is unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,unserviceable
+tight engine air conditioner control cable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,engine air conditioner control cable,tight
+dogbone bolt needs to be loctited,PhysicalObject/HoldingObject/FasteningObject,dogbone bolt,needs loctite
+repair needed for parts washer pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,parts washer pump hose,needs repair
+drag rope pump bolt needs replacing,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs replacing
+dirt chute cracking,PhysicalObject/GuidingObject/SolidMatterGuidingObject,dirt chute,cracks
+crowd cylinder hose needs hydraulic oil repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,crowd cylinder hose,leak hydraulic oil
+repair broken handrail weld,PhysicalObject/CoveringObject/InfillingObject,handrail weld,broken
+airhorn found not working,PhysicalObject/PresentingObject/AcousticDevice,airhorn,not working
+clean out needed for roof heater hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,roof heater hose,needs clean out
+replace faulty air conditioner fuse,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,fault
+cracks in cross braces,PhysicalObject/HoldingObject/ReinforcingObject,cross braces,cracks
+cabin door frame with hole,PhysicalObject/HoldingObject/FramingObject,cabin door frame,hole
+oil leak in hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak oil
+cabin air conditioner drive has leak,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,cabin air conditioner drive,leaking
+engine pump is leaking,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,engine pump,leaking
+engine mount is moving,PhysicalObject/HoldingObject/StructuralSupportingObject,engine mount,movement
+replace leaking cooler pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking
+fuel tank has a crack,PhysicalObject/StoringObject/EnclosedStationaryStoringObject,fuel tank,crack
+hose leaking oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak oil
+dust leak present,PhysicalObject/Substance/Solid,dust,leak
+alarm from slew pump chip sensor,PhysicalObject/SensingObject/ConcentrationSensingObject,slew pump chip sensor,alarm
+replace blown axle oil cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,axle oil cooler hose,blown
+radiator blocked by grass,PhysicalObject/EmittingObject/ThermalEnergyTransferObject,radiator,blocked grass
+unserviceable pump chip sensor harness,PhysicalObject/HoldingObject/StructuralSupportingObject,pump chip sensor harness,unserviceable
+air conditioner compressor earth terminal broken,PhysicalObject/ControllingObject/ElectricEarthingObject,air conditioner compressor earth terminal,broken
+pressure gauge on parts washer pump not working,PhysicalObject/PresentingObject/ScalarDisplay,parts washer pump pressure gauge,not working
+cabin air conditioner hose requires replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cabin air conditioner hose,needs replaced
+vibration in engine,PhysicalObject/DrivingObject/CombustionEngine,engine,vibration
+fitting needed for hmu hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs fitting
+replace blown lights,PhysicalObject,lights,blown
+cracked fuel tank,PhysicalObject/StoringObject/EnclosedStationaryStoringObject,fuel tank,crack
+cabin missing smoke detector,PhysicalObject/HoldingObject/EnclosingObject,cabin,missing smoke detector
+not working compressor,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,compressor,not working
+swing motor rtd incorrectly wired,PhysicalObject/SensingObject/ResistivitySensingObject,swing motor rtd,wired incorrectly
+steering column is moving,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,steering column,movement
+auto-greaser door window requires replacing,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,needs replacing
+mast dust flap needs repair,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,mast dust flap,needs repair
+extending needed for hoist motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,needs extending
+blown transmission hose o-ring,PhysicalObject/CoveringObject/InfillingObject,transmission hose o-ring,blown
+leaking steering pump drive,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,steering pump drive,leaking
+replace brake filter hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,needs replaced
+leaking cabin air conditioner drive,PhysicalObject/DrivingObject/ElectromagneticRotationalDrivingObject,cabin air conditioner drive,leaking
+auto-spray not working,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,auto-spray,not working
+fuel leaking from cooler pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking fuel
+replace blown boom hose o-ring,PhysicalObject/CoveringObject/InfillingObject,boom hose o-ring,blown
+speedometer not functioning,PhysicalObject/SensingObject/TimeRatingObject,speedometer,not working
+extending required for motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,needs extending
+handrail cracked,PhysicalObject/ProtectingObject/PreventiveProtectingObject,handrail,cracks
+cabin seat requires replacing,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs replacing
+accessory drive leaking in operator cabin air conditioner,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,operator cabin air conditioner accessory drive,leaking
+broken clam cylinder hose clamp,PhysicalObject/HoldingObject/PositioningObject,clam cylinder hose clamp,broken
+fault in drivers window,PhysicalObject/ControllingObject/SpaceAccessObject,drivers window,fault
+auto-greaser door window found broken,PhysicalObject/ControllingObject/SpaceAccessObject,auto-greaser door window,broken
+mast lights harness unserviceable,PhysicalObject/HoldingObject/StructuralSupportingObject,mast lights harness,unserviceable
+wiring for swing motor rtd incorrect,PhysicalObject/SensingObject/ResistivitySensingObject,swing motor rtd,wired incorrectly
+box coupling unserviceable,PhysicalObject/InterfacingObject/NonDetachableCoupling,box coupling,unserviceable
+replace broken control cable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,control cable,broken
+leaking bucket cylinder hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,bucket cylinder hose,leaking
+replacing needed for slew brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew brake hose,needs replacing
+cracked window frame needs repair,PhysicalObject/HoldingObject/FramingObject,window frame,crack
+diverter valve leaking dust,PhysicalObject/ControllingObject/SolidSubstanceFlowVaryingObject,diverter valve,leak dust
+unserviceable cabin air conditioner thermostat,PhysicalObject/SensingObject/TemperatureSensingObject,cabin air conditioner thermostat,unserviceable
+hoist brake needs adjustment,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist brake,out of adjustment
+replace blown engine pump o-ring,PhysicalObject/CoveringObject/InfillingObject,engine pump o-ring,blown
+steering control valve is falling off,PhysicalObject/ControllingObject/SealedFluidVaryingObject,steering control valve,falling off
+cabin seat requires loctite,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs loctite
+replace leaking engine pump oil,PhysicalObject/ProtectingObject/WearProtectingObject,engine pump oil,leaking
+roof heater taps leaking water,PhysicalObject/ControllingObject/SealedFluidVaryingObject,roof heater taps,leaking
+leaking brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leaking
+repair broken window,PhysicalObject/ControllingObject/SpaceAccessObject,window,broken
+brake shows temperature error,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+replace cracked braces,PhysicalObject,braces,cracks
+air tank safety valve is leaking,PhysicalObject/ProtectingObject/PressureProtectingObject,air tank safety valve,leaking
+hoist brake filter worn,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,hoist brake filter,worn
+unserviceable thermostat,PhysicalObject/SensingObject/TemperatureSensingObject,thermostat,unserviceable
+brake pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,brake pump bolt,needs loctite
+clean out required for vims keypad light,PhysicalObject/EmittingObject/LightObject,vims keypad light,needs clean out
+radio needs its aerial,PhysicalObject,radio,needs aerial
+thrust bearing oil discovered,PhysicalObject/ProtectingObject/WearProtectingObject,thrust bearing oil,found
+differential pump bolt requires loctite,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs loctite
+repair grease leak,PhysicalObject/ProtectingObject/WearProtectingObject,grease,leak
+loctite needed for brake pump bolt,PhysicalObject/HoldingObject/FasteningObject,brake pump bolt,needs loctite
+roof heater hose needs to be cleaned,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,roof heater hose,needs clean out
+no clevis pin grease,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,no
+cylinder is creeping,PhysicalObject,cylinder,creeping
+brake temperature error detected,PhysicalObject/RestrictingObject/MovementRestrictingObject,brake,temperature error
+condenser fan pump leaks coolant,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,condenser fan pump,leak coolant
+airhorn needs repair not working,PhysicalObject/PresentingObject/AcousticDevice,airhorn,not working
+repair walk motor brake hose needed,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake hose,needs repair
+cracks in mud bucket,PhysicalObject/StoringObject/MoveableStoringObject,mud bucket,cracks
+crack found in fuel tank,PhysicalObject/StoringObject/EnclosedStationaryStoringObject,fuel tank,crack
+air conditioner compressor not working,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,air conditioner compressor,not working
+drag brake pump is leaking fuel,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag brake pump,leak fuel
+cabin seat needs replacing,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs replacing
+missing pump bolt,PhysicalObject/HoldingObject/FasteningObject,pump bolt,missing
+clevis pin requires grease,PhysicalObject/HoldingObject/FasteningObject,clevis pin,no grease
+leak coolant in pto pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pto pump hose,leak coolant
+hoist motor hose needs to be extended,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,needs extending
+clean out needed for slew pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew pump hose,needs clean out
+pressure gauge for brake pump not working,PhysicalObject/PresentingObject/ScalarDisplay,brake pump pressure gauge,not working
+falling off steering control valve,PhysicalObject/ControllingObject/SealedFluidVaryingObject,steering control valve,falling off
+differential pump bolt needs to be replaced,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs replacing
+steering shaft universal joint is unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,unserviceable
+pto pump contamination switch is on,PhysicalObject/SensingObject/ConcentrationSensingObject,pto pump contamination switch,on
+mirror is broken,PhysicalObject/GuidingObject/LightGuidingObject,mirror,broken
+cooler pump hose has fuel leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking fuel
+engine pump hose needs repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+replace leaking motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,leaking
+repair pto not meshing,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,pto,not meshing
+engine air conditioner hose requires replacement,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs replaced
+clevis pin grease not found,PhysicalObject/ProtectingObject/WearProtectingObject,clevis pin grease,no
+replace hoist brake hose leaking hydraulic oil,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist brake hose,leak hydraulic oil
+loctite needed for pto pump bolt,PhysicalObject/HoldingObject/FasteningObject,pto pump bolt,needs loctite
+boom cylinder hose requires replacing,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom cylinder hose,needs replacing
+replace cracking operator cabin air conditioner cover,PhysicalObject/CoveringObject/ClosureObject,operator cabin air conditioner cover,cracking
+leaking air tank safety valve,PhysicalObject/ProtectingObject/PressureProtectingObject,air tank safety valve,leaking
+replace unserviceable pump chip sensor harness,PhysicalObject/HoldingObject/StructuralSupportingObject,pump chip sensor harness,unserviceable
+replace broken clam cylinder hose clamp,PhysicalObject/HoldingObject/PositioningObject,clam cylinder hose clamp,broken
+mast lights harness is unserviceable,PhysicalObject/HoldingObject/StructuralSupportingObject,mast lights harness,unserviceable
+air conditioner compressor found not working,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,air conditioner compressor,not working
+differential pump oil leaking,PhysicalObject/ProtectingObject/WearProtectingObject,differential pump oil,leak
+unserviceable steering shaft universal joint,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,unserviceable
+drivers window is faulty,PhysicalObject/ControllingObject/SpaceAccessObject,drivers window,fault
+replacing needed for drag rope pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag rope pump hose,needs replacing
+replace dragline air conditioner fuse blowing,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,dragline air conditioner fuse,keep blowing
+replace blown cooler hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler hose,blown
+drag roller needs change out,PhysicalObject/HoldingObject/JointingObject,drag roller,need change out
+walk motor brake switches need cleaning,PhysicalObject/HumanInteractionObject/HandInteractionObject,walk motor brake switches,need cleaning
+repair cracks in fuel cooler mounts,PhysicalObject/HoldingObject/StructuralSupportingObject,fuel cooler mounts,cracks
+brake filter hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,leaking
+blade liner has a crack,PhysicalObject/ProtectingObject/WearProtectingObject,blade liner,crack
+air conditioner fan pump leak,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,air conditioner fan pump,leak
+steering shaft universal joint unserviceable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,steering shaft universal joint,unserviceable
+engine air conditioner control cable is tight,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,engine air conditioner control cable,tight
+boom hose needs extending,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom hose,needs extending
+replace operator cabin air conditioner hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,operator cabin air conditioner hose,needs replaced
+unserviceable screen,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,screen,unserviceable
+control valve is unserviceable,PhysicalObject/ControllingObject/SealedFluidVaryingObject,control valve,unserviceable
+pin needs grease,PhysicalObject/HoldingObject/FasteningObject,pin,no grease
+replace worn hoist brake filter,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,hoist brake filter,worn
+engine bay light needs to be replaced,PhysicalObject/EmittingObject/LightObject,engine bay light,needs replacing
+hydraulic oil leak in wiper motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,wiper motor hose,leak hydraulic oil
+hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hose,leak
+replacing needed for boom cylinder hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom cylinder hose,needs replacing
+engine vibration detected,PhysicalObject/DrivingObject/CombustionEngine,engine,vibration
+cleaning needed for walk motor brake switches,PhysicalObject/HumanInteractionObject/HandInteractionObject,walk motor brake switches,need cleaning
+padding has worn areas,PhysicalObject/ProtectingObject/PreventiveProtectingObject,padding,worn
+blown air conditioner fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,air conditioner fan hose,blown
+a-frame clevis pin needs grease,PhysicalObject/HoldingObject/FasteningObject,a-frame clevis pin,no grease
+dragline air conditioner needs change out,PhysicalObject/EmittingObject/ElectricCoolingObject,dragline air conditioner,need change out
+swing pump hose is weeping,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing pump hose,weeping
+pump bolt is missing,PhysicalObject/HoldingObject/FasteningObject,pump bolt,missing
+boom hose o-ring blown,PhysicalObject/CoveringObject/InfillingObject,boom hose o-ring,blown
+cavity of slew pump low,PhysicalObject/InterfacingObject/SpaceLinkingObject,slew pump cavity,low
+hoist brake out of adjustment,PhysicalObject/RestrictingObject/MovementRestrictingObject,hoist brake,out of adjustment
+loctite needed for bolt,PhysicalObject/HoldingObject/FasteningObject,bolt,needs loctite
+jockey pulley bearing is noisy,PhysicalObject/HoldingObject/JointingObject,jockey pulley bearing,noisy
+handrail needs crack repair,PhysicalObject/ProtectingObject/PreventiveProtectingObject,handrail,cracks
+replacing required for shaft,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,shaft,requires replacing
+cabin seat needs to use loctite,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs loctite
+cabin seat needs loctite,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs loctite
+dropped cell in battery,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,battery,dropped cell
+coolant leak from condenser fan pump,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,condenser fan pump,leak coolant
+engine air conditioner hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine air conditioner hose,needs replaced
+air compressor oil is leaking,PhysicalObject/ProtectingObject/WearProtectingObject,air compressor oil,leaking
+repair cracks on mud bucket,PhysicalObject/StoringObject/MoveableStoringObject,mud bucket,cracks
+generator has fault,PhysicalObject/GeneratingObject/MechanicalToElectricalEnergyGeneratingObject,generator,fault
+grease missing from boom foot clevis pin,PhysicalObject/HoldingObject/FasteningObject,boom foot clevis pin,no grease
+aerial needed for am / fm radio,PhysicalObject/TransformingObject/SignalConvertingObject,am / fm radio,needs aerial
+engine has vibration,PhysicalObject/DrivingObject/CombustionEngine,engine,vibration
+apply loctite on differential pump bolt,PhysicalObject/HoldingObject/FasteningObject,differential pump bolt,needs loctite
+weeping brake filter hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake filter hose,weeping
+head pulley shaft input seal leaking,PhysicalObject/CoveringObject/InfillingObject,head pulley shaft input seal,leaking
+blown hose on centrifuge,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,blown
+lighting needs to be tagged,PhysicalObject/EmittingObject/LightObject,lighting,requires tagging
+weightometer found not working,PhysicalObject/SensingObject/ForceSensingObject,weightometer,not working
+bolt needs to be replaced,PhysicalObject/HoldingObject/FasteningObject,bolt,needs replacing
+replace hoist motor hose leaking coolant,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,leak coolant
+rock deflector is cracked,PhysicalObject/ProtectingObject/EnvironmentProtectingObject,rock deflector,crack
+air conditioner has faults,PhysicalObject/EmittingObject/ElectricCoolingObject,air conditioner,faults
+incorrect wiring of swing motor rtd,PhysicalObject/SensingObject/ResistivitySensingObject,swing motor rtd,wired incorrectly
+slew pump oil leaking,PhysicalObject/ProtectingObject/WearProtectingObject,slew pump oil,leaking
+drag motor hoses are leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,drag motor hoses,leaking
+unserviceable cabin air conditioner fan,PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject,cabin air conditioner fan,unserviceable
+hoist motor hose has coolant leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hoist motor hose,leak coolant
+fan motor hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,fan motor hose,needs replacing
+window is broken,PhysicalObject/ControllingObject/SpaceAccessObject,window,broken
+hmu hose needs fitting,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs fitting
+cylinder has creeping,PhysicalObject,cylinder,creeping
+clevis pin has no grease,PhysicalObject/HoldingObject/FasteningObject,clevis pin,no grease
+grease missing from steering pin,PhysicalObject/HoldingObject/FasteningObject,steering pin,no grease
+steering pump hose needs replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,steering pump hose,needs replaced
+dust is leaking,PhysicalObject/Substance/Solid,dust,leak
+replace aerial on radio,PhysicalObject,radio,needs aerial
+windscreen has a crack,PhysicalObject/ControllingObject/SpaceAccessObject,windscreen,crack
+brake hose has a leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake hose,leak
+cabin air conditioner thermostat is unserviceable,PhysicalObject/SensingObject/TemperatureSensingObject,cabin air conditioner thermostat,unserviceable
+no grease on steering cylinder pin,PhysicalObject/HoldingObject/FasteningObject,steering cylinder pin,no grease
+replacing needed for transmission hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,transmission hose,needs replacing
+handrail weld is broken,PhysicalObject/CoveringObject/InfillingObject,handrail weld,broken
+drag rope pump is leaking fuel,PhysicalObject/GeneratingObject/LiquidFlowGeneratingObject,drag rope pump,leaking fuel
+loctite required for belly plate bolt,PhysicalObject/HoldingObject/FasteningObject,belly plate bolt,needs loctite
+coolant pipe clamps need loctite,PhysicalObject/HoldingObject/PositioningObject,coolant pipe clamps,needs loctite
+unserviceable guide,PhysicalObject/GuidingObject/OpenEnclosureGuidingObject,guide,unserviceable
+replacement needed for swing brake hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,needs replaced
+replace leaking brake pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,brake pump hose,leak
+faults in cooler pump lube system,PhysicalObject/ProtectingObject/WearProtectingObject,cooler pump lube system,faults
+walk motor brake hose requires repair,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,walk motor brake hose,needs repair
+air conditioner accessory drive is leaking,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,operator cabin air conditioner accessory drive,leaking
+replace seized battery cover hinges,PhysicalObject/HoldingObject/JointingObject,battery cover hinges,seized
+hydraulic oil leak in cooler fan hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler fan hose,leak hydraulic oil
+brake pump pressure gauge is not working,PhysicalObject/PresentingObject/ScalarDisplay,brake pump pressure gauge,not working
+need fitting on slew motor hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,slew motor hose,needs fitting
+window found broken,PhysicalObject/ControllingObject/SpaceAccessObject,window,broken
+coolant leak from pto pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pto pump hose,leak coolant
+noisy roller bearing,PhysicalObject/HoldingObject/JointingObject,roller bearing,noisy
+liner is cracked,PhysicalObject/ProtectingObject/WearProtectingObject,liner,crack
+pto pump bolt needs loctite,PhysicalObject/HoldingObject/FasteningObject,pto pump bolt,needs loctite
+cooler pump hose is leaking,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,cooler pump hose,leaking
+motor hose has a leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,motor hose,leaking
+boom cylinder hose needs to be replaced,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,boom cylinder hose,needs replacing
+needs repair engine pump hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,engine pump hose,needs repair
+steering cylinder pin needs grease,PhysicalObject/HoldingObject/FasteningObject,steering cylinder pin,no grease
+hydraulic motor engine oil cooler leaking coolant,PhysicalObject/EmittingObject/ThermalCoolingObject,hydraulic motor engine oil cooler,leak coolant
+pipe is cracked,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pipe,cracked
+controller filter hose found unserviceable,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,controller filter hose,unserviceable
+adjust tight engine air conditioner control cable,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,engine air conditioner control cable,tight
+adjust fitting on hmu hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,hmu hose,needs fitting
+replace worn padding,PhysicalObject/ProtectingObject/PreventiveProtectingObject,padding,worn
+pump motor hose is leaking fuel,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,pump motor hose,leaking fuel
+blower inverter batteries have no charge,PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject,blower inverter batteries,no charge
+cabin seat needs to be replaced,PhysicalObject/StoringObject/OpenStationaryStoringObject,cabin seat,needs replacing
+cracked dirt chute,PhysicalObject/GuidingObject/SolidMatterGuidingObject,dirt chute,cracks
+blown centrifuge hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,centrifuge hose,blown
+swing brake hose has hydraulic oil leak,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,swing brake hose,leak hydraulic oil
+apply loctite to slew pump bolt,PhysicalObject/HoldingObject/FasteningObject,slew pump bolt,needs loctite
+leaking charge hose,PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject,charge hose,leaking
+screen is unserviceable,PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject,screen,unserviceable
+fan pump bolt found broken,PhysicalObject/HoldingObject/FasteningObject,fan pump bolt,broken
+engine oil found in system,PhysicalObject/ProtectingObject/WearProtectingObject,engine oil,found
+unserviceable hydraulic motor engine air conditioner,PhysicalObject/EmittingObject/ElectricCoolingObject,hydraulic motor engine air conditioner,unserviceable
+repair noisy compressor bearing,PhysicalObject/HoldingObject/JointingObject,compressor bearing,noisy
+pto is not meshing,PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject,pto,not meshing
+pump chip sensor harness is unserviceable,PhysicalObject/HoldingObject/StructuralSupportingObject,pump chip sensor harness,unserviceable
+drag rope pump bolt requires replacing,PhysicalObject/HoldingObject/FasteningObject,drag rope pump bolt,needs replacing
+control cable for engine air conditioner tight,PhysicalObject/GuidingObject/MechanicalEnergyGuidingObject,engine air conditioner control cable,tight
+operator cabin air conditioner fuse blowing repeatedly,PhysicalObject/ProtectingObject/OvercurrentProtectingObject,operator cabin air conditioner fuse,keeps blowing
+sensor for walk motor brake not reading,PhysicalObject/SensingObject,walk motor brake sensor,not reading

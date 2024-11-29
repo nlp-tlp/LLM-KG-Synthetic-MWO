@@ -1,0 +1,147 @@
+Event,Text,Failure Mode
+leak,<id> air leak
+leak,<id> air leak near side of door
+leaking,<id> air leaking from line outside
+leaking,<id> alternator drive leaking
+leaking,<id> auto-greaser leaking oil
+discharging,<id> batteries discharging
+leaking,<id> both stick cylinders leaking
+leaking,<id> brake cooling hose leaking
+leaking,<id> brake cooling hose leaking rear
+leaking,<id> brake cooling return hose leaking
+leaking,<id> cabin seals leaking dust PO
+leaking,<id> cabin seals leaking dust bad
+leaking,<id> centrifugal oil filter leaking
+leak,<id> change out leak slew motor hose
+leaking,<id> change out leaking HMU on next
+leaking,<id> change out leaking fan hoses
+leaking,<id> change out leaking heater taps
+leaking,<id> change out leaking hydraulic hose
+leaking,<id> change out leaking implement pump
+leaking,<id> change out leaking relay valve
+leaking,<id> change out leaking steering hose
+leaking,<id> change out left hand steering cylinder leaking
+weeping,<id> change out weeping boom cylinder hose
+leak,<id> check / repair engine oil leak
+leaking,<id> chord leaking air found <id>
+leaking,<id> coolant hose leaking at right hand bottom
+leak,<id> coolant leak
+leak,<id> coolant leak at engine oil cooler
+leak,<id> coolant leak at jacket water pump
+leak,<id> cooler return pipe coupling leak
+creeping,<id> crowd cylinder creeping replace
+leaking,<id> differential cooler fan hose leaking
+leaking,<id> differential cooler hose leaking
+leaking,<id> differential cooler pump leaking
+leak,<id> differential leak
+leaking,<id> differential lube pump leaking
+leaking,<id> differential lube pump leaking PO
+leak,<id> differential oil leak
+leaking,<id> differential pump motor hose leaking
+leaking,<id> duo-cone seals leaking number <num> swing
+leak,<id> dust leak operators side window
+falling off,<id> ripper control valve falling off
+leaking,<id> replace leaking transfer pipe
+leak,<id> possible minor leak on fuel tank
+leak,<id> rear steering accumulator leak
+leaks,<id> replace oil leaks
+leaking,repair leaking swing <num> pedestal seals
+movement,movement found right hand engine mount
+leak,<id> investigate and repair oil leak <id>
+bypassing,<id> grease pump is bypassing air
+leak,<id> investigate engine oil leak
+leaking,<id> replace right hand lift cylinder leaking
+leak,<id> oil leak at air compressor
+leaking,<id> replace leaking scavenge pump
+leaking,coolant leaking
+leaking,change out leaking transmission hose
+movement,movement on steering column
+leak,oil leak swingbox <num>
+leaking,middle air drain tap leaking
+leaks,<id> engine oil leaks right hand side
+leaking,<id> leaking brake cooling hose
+cracking,left hand side pinion change out cover cracking
+leaking,<id> left hand rear brake cooling hose leaking
+leaking,fitting leaking out of main air tanks
+leaks,<id> repair centre hitch oil leaks
+leak,<id> repair oil leak position <num> wheel end
+leaking,bulk fuel tank cracked and leaking
+leaking,hydraulic hose leaking in centre of machine
+leak,inspect bad engine oil leak
+movement,repair movement in left hand steering pin
+going on and off,park brake indicator light going on and off
+leak,oil leak from behind water pump
+leaks,<id> repair exhaust leaks
+leaking,stick cylinder leaking
+leaking,<id> - CW left hand hoist cylinder leaking plug
+leak,<id> - CW radiator core leak
+leaking,<id> - CW right hand hoist cylinder leaking
+weeping,<id> - HMU hose weeping
+leaking,<id> - PTO shaft input seal leaking
+leaking,<id> - air conditioner system leaking
+leak,<id> - air leak
+leaking,<id> - change out leaking transmission hose
+leak,<id> - coolant leak
+leaking,<id> - differential lube hose leaking
+leak,<id> - differential oil leak
+weeping,<id> - engine fan hose weeping
+leak,<id> - engine oil leak
+leak,<id> - engine oil leak - inspection plate
+overheating,<id> - engine overheating
+vibration,<id> - engine vibration <num>-<num> RPM
+leak,<id> - exhaust leak
+leaking,<id> - fan hose leaking
+leak,<id> - fuel leak
+cracking,<id> - hoist drum cracking
+leak,<id> - hose leak developing
+leak,<id> - hydraulic oil leak from environmental
+leak,<id> - investigate torque converter fan pump oil leak
+leaking,<id> - left hand boom cylinder hose leaking PO
+leak,<id> - minor transmission oil leak
+leaking,<id> - radiator relief valves leaking
+leaking,<id> - rear steering accumulator leaking
+leak,<id> - repair engine oil leak and
+leaking,<id> - repair engine oil leaking
+leaking,<id> - repair leaking centrifugal filter
+leaking,<id> - replace leaking steering cylinder
+leaking,<id> - replaced leaking steering hose
+bogging,<id> - set-up Tele-Remote bogging
+leaking,<id> - transmission charge hose leaking
+leaking,<id> <id> chord is leaking air from crack
+leak,<id> <id> oil leak pilot filter text
+leak,<id> <id> repair engine oil leak text
+leak,<id> <id> repair transmission oil leak text
+leak,<id> <id> replace hydraulic oil leak text
+leaks,<id> CW engine oil leaks x <num>
+leak,<id> CW top radiator tank leak again
+leaking,<id> PTO input seal leaking
+leaking,<id> adaptor leaking at implement valve
+leaking,<id> air conditioner accessory drive leaking oil
+tripping out,<id> air conditioner compressor tripping out
+leaking,<id> air conditioner drive leaking
+leaking,<id> air conditioner drive leaking oil
+exhausting,air pressure safety valve exhausting
+leaking,centrifuge hose leaking - replace
+leaking,compressor safety valve leaking
+coming up,contamination alarm coming up
+running constantly,engine oil blender running constantly
+keep blowing,front lights keep blowing fuse
+leaking,grease distributor leaking
+leak,high voltage slip ring inspection - grease leak
+earthing out,inverter earthing out <id>
+keeps blowing,keeps blowing starter / horn fuse
+leaking,oil centrifuge gasket leaking right hand engine
+leak,oil leak at diverter valve
+leak,oil leak inlet to oil burner cover plate
+weeping,position <num> pressure compensator weeping
+alarm,position <num> chip sensor alarm
+leaking,pilot valve leaking oil
+leaking,pressure compensator leaking
+leaking,pressure control valve in cabin leaking
+emptying,right hand PTO cavity emptying
+leak,repair air leak at air tank safety valve
+leak,repair leak in pilot valve solenoid
+leaking,replace chip indicators ( leaking )
+overgreasing,slip ring overgreasing
+leaking,water separator filter leaking see photo
+leaking,water separator leaking fuel

@@ -1,0 +1,1923 @@
+[
+    {
+        "object_name": "dust",
+        "object_type": "PhysicalObject/Substance/Solid",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "engine oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centre hitch oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "thrust bearing oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air compressor oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swingbox oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "coolant",
+        "object_type": "PhysicalObject/ProtectingObject/TemperatureProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "fuel",
+        "object_type": "PhysicalObject/Substance/Liquid",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "air",
+        "object_type": "PhysicalObject/Substance/Gas",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "hydraulic oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "oil",
+        "object_type": "PhysicalObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "pin grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering cylinder pin grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "clevis pin grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pin grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "mast raise cylinder pin grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dogbone pin grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "high voltage slip ring grease",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leak",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "coolant",
+        "object_type": "PhysicalObject/ProtectingObject/TemperatureProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "air",
+        "object_type": "PhysicalObject/Substance/Gas",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "dust",
+        "object_type": "PhysicalObject/Substance/Solid",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "centrifugal oil filter",
+        "object_type": "PhysicalObject/MatterProcessingObject/MechanicalSeparatingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "oil filter",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "filter",
+        "object_type": "PhysicalObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "engine oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centre hitch oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "thrust bearing oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air compressor oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swingbox oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fuel",
+        "object_type": "PhysicalObject/Substance/Liquid",
+        "event_name": "leaking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "batteries",
+        "object_type": "PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject",
+        "event_name": "discharging",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "inverter batteries",
+        "object_type": "PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject",
+        "event_name": "discharging",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "blower inverter batteries",
+        "object_type": "PhysicalObject/GeneratingObject/ChemicalToElectricalEnergyGeneratingObject",
+        "event_name": "discharging",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "bucket cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "boom cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hmu hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "axle oil cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "clam cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "water separator filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "controller filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifuge filter hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "boom hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centrifuge hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential cooler hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "crowd cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "tilt cylinder hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "heater hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "roof heater hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "wiper motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump motor hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "torque converter fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "condenser fan hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hitch hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "walk motor brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew brake hose",
+        "object_type": "PhysicalObject/GuidingObject/ClosedEnclosureGuidingObject",
+        "event_name": "weeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "crowd cylinder",
+        "object_type": "PhysicalObject/DrivingObject/FluidPoweredDrivingObject",
+        "event_name": "creeping",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Structural deficiency"
+    },
+    {
+        "object_name": "cylinder",
+        "object_type": "PhysicalObject",
+        "event_name": "creeping",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "control valve",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "falling off",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Structural deficiency"
+    },
+    {
+        "object_name": "steering control valve",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "falling off",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "ripper control valve",
+        "object_type": "PhysicalObject/ControllingObject/SealedFluidVaryingObject",
+        "event_name": "falling off",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Leaking"
+    },
+    {
+        "object_name": "engine oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "centre hitch oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "thrust bearing oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air compressor oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swingbox oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump oil",
+        "object_type": "PhysicalObject/ProtectingObject/WearProtectingObject",
+        "event_name": "leaks",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "mount",
+        "object_type": "PhysicalObject/HoldingObject/StructuralSupportingObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "beacon mount",
+        "object_type": "PhysicalObject/HoldingObject/StructuralSupportingObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine mount",
+        "object_type": "PhysicalObject/HoldingObject/StructuralSupportingObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine mount",
+        "object_type": "PhysicalObject/HoldingObject/StructuralSupportingObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "transmission mount",
+        "object_type": "PhysicalObject/HoldingObject/StructuralSupportingObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "steering cylinder pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "clevis pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "a-frame clevis pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "boom foot clevis pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "mast raise cylinder pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dogbone pin",
+        "object_type": "PhysicalObject/HoldingObject/FasteningObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "column",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "steering column",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "movement",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air",
+        "object_type": "PhysicalObject/Substance/Gas",
+        "event_name": "bypassing",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Structural deficiency"
+    },
+    {
+        "object_name": "air conditioner cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pinion cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pinion cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "battery cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "tilt cylinder cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "crowd cylinder cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine cover",
+        "object_type": "PhysicalObject/CoveringObject/ClosureObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drum",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Structural deficiency"
+    },
+    {
+        "object_name": "hoist drum",
+        "object_type": "PhysicalObject/TransformingObject/MechanicalEnergyTransformingObject",
+        "event_name": "cracking",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "indicator light",
+        "object_type": "PhysicalObject/EmittingObject/LightObject",
+        "event_name": "going on and off",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Failure to function"
+    },
+    {
+        "object_name": "park brake indicator light",
+        "object_type": "PhysicalObject/EmittingObject/LightObject",
+        "event_name": "going on and off",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "light",
+        "object_type": "PhysicalObject",
+        "event_name": "going on and off",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "overheating",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Overheating"
+    },
+    {
+        "object_name": "hydraulic motor engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "overheating",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "vibration",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Vibration"
+    },
+    {
+        "object_name": "hydraulic motor engine",
+        "object_type": "PhysicalObject/DrivingObject/CombustionEngine",
+        "event_name": "vibration",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "tele-remote",
+        "object_type": "PhysicalObject/HumanInteractionObject/MovementInteractionObject",
+        "event_name": "bogging",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "compressor",
+        "object_type": "PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject",
+        "event_name": "tripping out",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Electrical"
+    },
+    {
+        "object_name": "air conditioner compressor",
+        "object_type": "PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject",
+        "event_name": "tripping out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner compressor",
+        "object_type": "PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject",
+        "event_name": "tripping out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner compressor",
+        "object_type": "PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject",
+        "event_name": "tripping out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner compressor",
+        "object_type": "PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject",
+        "event_name": "tripping out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner compressor",
+        "object_type": "PhysicalObject/GeneratingObject/GaseousFlowGeneratingObject",
+        "event_name": "tripping out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air pressure safety valve",
+        "object_type": "PhysicalObject/ProtectingObject/PressureProtectingObject",
+        "event_name": "exhausting",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "pressure safety valve",
+        "object_type": "PhysicalObject",
+        "event_name": "exhausting",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "safety valve",
+        "object_type": "PhysicalObject",
+        "event_name": "exhausting",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "contamination alarm",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "coming up",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "oil blender",
+        "object_type": "PhysicalObject/MatterProcessingObject/MixingObject",
+        "event_name": "running constantly",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": "Failure to stop on demand"
+    },
+    {
+        "object_name": "engine oil blender",
+        "object_type": "PhysicalObject/MatterProcessingObject/MixingObject",
+        "event_name": "running constantly",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hydraulic motor engine oil blender",
+        "object_type": "PhysicalObject/MatterProcessingObject/MixingObject",
+        "event_name": "running constantly",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "blender",
+        "object_type": "PhysicalObject",
+        "event_name": "running constantly",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "horn fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "starter fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine starter fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "voltage regulator fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "wiper fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "lights fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "mast lights fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "roof lights fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keep blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "inverter",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyConvertingObject",
+        "event_name": "earthing out",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "blower inverter",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyConvertingObject",
+        "event_name": "earthing out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing blower inverter",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyConvertingObject",
+        "event_name": "earthing out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner blower inverter",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyConvertingObject",
+        "event_name": "earthing out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "hoist blower inverter",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyConvertingObject",
+        "event_name": "earthing out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag blower inverter",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyConvertingObject",
+        "event_name": "earthing out",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "horn fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "operator cabin air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cabin air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "dragline air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine air conditioner fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "starter fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine starter fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "voltage regulator fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "wiper fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "lights fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "mast lights fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "roof lights fuse",
+        "object_type": "PhysicalObject/ProtectingObject/OvercurrentProtectingObject",
+        "event_name": "keeps blowing",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump chip sensor",
+        "object_type": "PhysicalObject/SensingObject/ConcentrationSensingObject",
+        "event_name": "alarm",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    },
+    {
+        "object_name": "pto cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "fan pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "brake pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "swing pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "engine pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slew pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "steering pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "cooler pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "differential pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "parts washer pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "pto pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "drag rope pump cavity",
+        "object_type": "PhysicalObject/InterfacingObject/SpaceLinkingObject",
+        "event_name": "emptying",
+        "valid": true,
+        "alternate": true
+    },
+    {
+        "object_name": "slip ring",
+        "object_type": "PhysicalObject/TransformingObject/ElectricEnergyTransformingObject",
+        "event_name": "overgreasing",
+        "valid": true,
+        "alternate": false,
+        "failure_mode": null
+    }
+]
