@@ -1,7 +1,6 @@
 # Generating Authentic Grounded Synthetic Maintenance Work Orders (MWOs)
 
-This repository contains the data, data analysis, code, and documentation for the Honours project titled "Generating Authentic Grounded Synthetic Maintenance Work Orders (MWOs)" by Allison Lau (2024). The project aims to generate synthetic MWOs that are grounded in real-world data and authentic to the domain of maintenance engineering. The project is supervised by Prof. Melinda Hodkiewicz, Dr. Caitlin Woods, and Dr. Michael Stewart
-
+This repository contains the data, data analysis, code, and documentation for the paper titled "Generating Authentic Grounded Synthetic Maintenance Work Orders (MWOs)" submitted to IEEE Access. The project aims to generate synthetic MWOs that are grounded in real-world data and authentic to the domain of maintenance engineering. 
 ## Table of Contents
 
 1. [Overview](#overview)
