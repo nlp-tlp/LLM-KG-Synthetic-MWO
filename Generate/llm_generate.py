@@ -161,30 +161,53 @@ def get_samples(paths_dict, num_samples=30, exclude=[]):
         samples.extend(paths)
     return samples
 
+# Get LLM to paraphrase MWO sentences with PhysicalObject and UndesirableEvent
+def paraphrase_mwo(client, sentence, keywords=None, num_paraphrases=5):
+    """ GPT paraphrases MWO sentences. """
+    # Paraphrase the MWO sentence num_paraphrases times
+    paraphrase_prompt = f"Paraphrase the following sentence {num_paraphrases} times.\n{sentence}\n"
+    if keywords:
+        string_keywords = ", ".join(keywords)
+        paraphrase_prompt += "Must include the following keywords: " + string_keywords
+    paraphrase_prompt += "\nYou may change the sentence from passive to active voice or vice versa."
+    paraphrase_prompt += "\nThe sentence can have a maximum of 8 words."
+    response = client.chat.completions.create(
+                    model="gpt-4o-mini",
+                    messages=[
+                        {"role": "system", "content": "You are a sentence paraphraser."},
+                        {"role": "user", "content": paraphrase_prompt},
+                    ],
+                    top_p=0.9,
+                    temperature=0.9,
+                    n=1
+                )
+    output = process_mwo_response(response.choices[0].message.content)
+    return output
+
 if __name__ == "__main__":
     # Set OpenAI API key
     load_dotenv()
     api_key = os.getenv("API_KEY")
     client = OpenAI(api_key=api_key)
-    out_logfile = "mwo_sentences/log.txt"         # Log file for generated sentences (includes equipment + failure)
-    out_csvfile = "mwo_sentences/order_synthetic.csv"   # CSV file for generated sentences (just sentences)
-    
+    out_logfile = "mwo_sentences/log.txt" # Log file for generated sentences (includes equipment + failure)
+    out_csvfile = "mwo_sentences/order_synthetic.csv" # CSV file for generated sentences (just sentences)
+
     # Read all the paths extracted from MaintIE KG
     paths_list, paths_dict = get_all_paths(valid=True)
 
     # Initialise base prompts and instructions
     prompt_variations = initialise_prompts(client, num_variants=5, num_examples=5)
-    
+
     # Sample random paths from each path type
     paths = get_samples(paths_dict, num_samples=1)
 
     # Custom path
     # paths = [{'object_name': 'fuel', 'event_name': 'leaking'}]
-    
+
     # Generate MWO sentences for each path
     for path in paths:
         sentences = generate_mwo(client, prompt_variations, path)
-        
+
         # Save generated sentences to log text file
         with open(out_logfile, "a", encoding='utf-8') as f:
             f.write("========================================\n")
