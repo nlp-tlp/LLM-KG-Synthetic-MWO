@@ -1,0 +1,15 @@
+Prediction,Actual Human,Actual Synthetic,Annotator
+Predicted Human,30,20,1
+Predicted Synthetic,20,30,1
+Predicted Human,21,29,2
+Predicted Synthetic,29,21,2
+Predicted Human,19,31,3
+Predicted Synthetic,31,19,3
+Predicted Human,29,21,4
+Predicted Synthetic,21,29,4
+Predicted Human,22,28,5
+Predicted Synthetic,28,22,5
+Predicted Human,32,18,6
+Predicted Synthetic,18,32,6
+Predicted Human,29,21,7
+Predicted Synthetic,21,29,7
