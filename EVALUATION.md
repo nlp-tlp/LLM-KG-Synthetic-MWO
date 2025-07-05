@@ -48,18 +48,35 @@ Note: The code and results for sentence length distribution analysis can be foun
 
 ## Turing Test
 
-The Turing test yielded an overall accuracy of **0.57**. This suggests that the synthetic MWOs were convincing enough to challenge expert evaluators' ability to differentiate between human and machine-generated text, as the target accuracy was **50%**.
+To evaluate the authenticity of our synthetic maintenance work order (MWO) sentences, we conducted a Turing test involving subject matter experts (SMEs) in the maintenance and asset management industry. The goal was to assess whether experts could distinguish between real human-written MWOs and synthetic, LLM-generated MWOs that had been “humanized.”
 
-| Metric                  | Value  |
-|-------------------------|--------|
-| Overall Accuracy        | 0.57   |
-| Annotator Agreement      | 0.10   |
+### Experiment Setup
 
-| Annotator | Accuracy | F1   | Precision | Recall | % Human |
-|-----------|----------|------|-----------|--------|---------|
-| A         | 0.58     | 0.63 | 0.56      | 0.72   | 0.64    |
-| B         | 0.61     | 0.65 | 0.59      | 0.74   | 0.63    |
-| C         | 0.53     | 0.54 | 0.53      | 0.56   | 0.53    |
+- **100 sentences total** (50 human-written, 50 synthetic), drawn from the MaintNorm dataset and LLM outputs.
+- **7 industry experts** (5–35 years of experience) were asked to label each sentence as either "human" or "synthetic."
+- Annotators were aware of the 50:50 split but not which individual sentences were which.
+- Two iterations of the test were conducted to check for consistency.
+
+### Key Metrics
+
+| Metric                                | Iteration 1 | Iteration 2 |
+|---------------------------------------|-------------|-------------|
+| **Average Accuracy**                  | 0.50        | 0.52        |
+| **Proportion of Synthetic as Human**  | 0.50        | 0.48        |
+| **Krippendorff’s α (Agreement)**      | -0.0005     | -0.0024     |
+
+Low agreement and near-random accuracy suggest that most experts were unable to reliably distinguish between real and synthetic MWOs.
+
+### Statistical Analysis
+
+A likelihood ratio test (LRT) for each expert evaluated the **independence hypothesis**—whether their classifications were independent of the true sentence origin.
+
+- **Only 1 out of 7 experts (F)** consistently rejected the independence hypothesis *with high power* (≥ 80%) and achieved >50% accuracy.
+- For the **population of experts**, the average accuracy was:
+  - **0.497** (iteration 1)
+  - **0.520** (iteration 2)
+
+These results indicate that experts, on average, performed no better than chance. LRTs on population-level accuracy yielded **no significant difference from 50%**, confirming that the task was effectively indistinguishable from random guessing.
 
 Note: Code and results for the Turing test can be found in the [`Evaluation/evaluation.ipynb`](https://github.com/nlp-tlp/Hons24_AllisonLau/blob/main/Evaluation/evaluation.ipynb)notebook.
 
